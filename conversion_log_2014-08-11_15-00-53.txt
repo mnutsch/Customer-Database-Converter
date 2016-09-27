@@ -1,0 +1,9 @@
+Corrected a zip code. The city and state are GRAIN VALLEY, MO. The old zip code was 64024. The new zip code is 64029.
+City or state note found in DB. The city and state are LEE'S SUMMIT, MO. The old zip code was 64064. The new zip code is 64064.
+Corrected a zip code. The city and state are ANKENY, IA. The old zip code was 50023. The new zip code is 50015.
+Corrected a zip code. The city and state are ANKENY, IA. The old zip code was 50023. The new zip code is 50015.
+Corrected a zip code. The city and state are ANKENY, IA. The old zip code was 50023. The new zip code is 50015.
+City or state note found in DB. The city and state are LEE'S SUMMIT, MO. The old zip code was 64063. The new zip code is 64063.
+City or state note found in DB. The city and state are LEE'S SUMMIT, MO. The old zip code was 64063. The new zip code is 64063.
+Corrected a zip code. The city and state are ANKENY, IA. The old zip code was 50023. The new zip code is 50015.
+Corrected a zip code. The city and state are OMAHA, NE. The old zip code was 68022. The new zip code is 68101.

@@ -1,0 +1,958 @@
+Custno,Shipto,Name,Job Description,Addr,City,State,Zipcd,Phoneno,Faxphoneno,Salesterr,Sales rep In,Sales rep Out,Taxable,Tax Certificate,Nontaxtype,Non tax type,Last Sales Date,Credit Limit,Servchgfl,Service Charge,Email,Lastsalesytd,Termstype, Terms type,Custtype,Group of Custtype,,Noinvcopy
+a,,Cash Sale,,1328 English Ave.;,Casper,WY,82601,,,WY,HA,HA,y,,,,2/14/2014,"99,999.00",0,No,,"145,920.25",DUE,Due on Rcpt,30,RURAL SYSTEMS,,2
+b,,C. O. D.,,;,,,,,,WY,HA,HA,y,,,,10/15/2013,"10,000",0,No,,276,DUE,Due on Rcpt,10,CONTRACTOR/UTILITY SYS,,2
+c,,Credit Card Sale,,;,,,,,,WY,HA,HA,y,,,,2/28/2014,"100,000",0,No,,"256,109.96",DUE,Due on Rcpt,30,RURAL SYSTEMS,,2
+d,,O.T.C.,,;,,,,,,WY,HA,HA,y,,,,10/9/2013,"25,000",0,No,,"27,117.01",N10,Net 10 Days,30,RURAL SYSTEMS,,2
+e,,A & D Oilfield Dozers Inc.,,P.O. Box 876;,Rawlins,WY,82301-0876,3073280428,,WY,RES,EDS,y,,,,12/10/2013,"50,000",1,Yes,,"2,630.50",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+f,Shop,A & D Oilfield Dozers Inc.,,287 Bypass & Murray;,Rawlins,WY,82301,3073280428,,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+g,,Admiral Beverage Co.,,821 Pulliam;P.O. Box 18,Worland,WY,82401-0018,3073474201,,WY,JMK,BSW,n,WY #25-0-00749,13,MFG/PROC/CMPNDG,8/8/2013,"2,500",1,Yes,,"22,698",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+7,,Town of Afton,,P.O. Box 310;,Afton,WY,83110-0310,3078859831,(307) 885-9021,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/13/2014,"25,000",0,No,,"21,788.50",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+7,Shop,Town of Afton,,416 Wasington St.;,Afton,WY,83110,3078869831,(307) 886-9021,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+9,,Town of Albin,,201 Cheyenne Ave.;P.O. Box 188,Albin,WY,82050-0188,3072463243,(307) 246-3236,WY,RES,JBH,n,,2,GOVERNMENT-CITY,11/15/2013,"25,000",0,No,,"4,634.05",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+11,,All Service Plumbing,,Timothy J. Cain - Owner;P.O. Box 1386,Glenrock,WY,82637,3074365458,,WY,RES,JBH,y,,,,10/31/2013,"2,500",1,Yes,,826.6,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+11,Casper,All Service Plumbing,,Timothy J. Cain - Owner;1328 English Ave.,Casper,WY,82601,3074365458,,WY,RES,JBH,y,,,,,0,1,,,,,,,,,
+12,,Town of Alpine,,P.O. Box 3070;,Alpine,WY,83128-3070,3076547754,(307) 654-7454,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/7/2014,"25,000",0,No,,"13,147.66",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+12,Shop,Town of Alpine,Shop,250 River Circle;,Alpine,WY,83128,3076547754,(307) 654-7454,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+13,,American Linen/Steiner Corp.,,3200 Prospector Dr.;,Casper,WY,82604,3072372838,-307,WY,JMK,BSW,y,,,,6/26/2013,"2,500",1,Yes,,543.65,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+15,,American Plumbing & Heating,,Joseph a. Dennis Jr. - Owner;P.O. Box 1911,Mills,WY,82644-1911,3072340000,(307) 266-4018,WY,RES,EDS,y,,,,9/3/2013,"1,000",1,Yes,,"1,441",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+15,Casper,All Amercan Plumbing & Heating,,Joseph a. Dennis Jr. - Owner;551 Walsh Dr.,Casper,WY,82601,3072340000,(307) 266-4018,WY,RES,EDS,y,,,,,0,1,,,,,,,,,
+17,,Andreen Hunt Construction Inc.,,P.O. Box 1175;,Mills,WY,82644-1175,3072651405,(307) 577-8124,WY,RES,EDS,y,,,,2/26/2014,"500,000",1,Yes,,"399,110.63",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+17,BellVly,Andreen Hunt Const-BellVlySub,BellValleySubdiv,% Bell Valley Subdivision;Jobsite,Casper,WY,82601,3072651405,(307) 577-8124,WY,RES,EDS,y,,,,,"75,000",1,,,,,,,,,
+17,BevHghts,Andreen Hunt Const-BevHghtsAdd,BeverlyHghtsAdd,% Beverly Heights Addition;Jobsite,Casper,WY,82601,3072651405,(307) 577-8124,WY,RES,EDS,y,,,,,"80,000",1,,,,,,,,,
+17,Casper,Andreen Hunt Construction Inc.,,4075 Monument;,Casper,WY,82604,3072651405,(307) 577-8124,WY,RES,EDS,y,,,,,0,1,,,,,,,,,
+17,Gosfld 3,Andreen Hunt Const-Gosfield3,Gosfield Add'n 3,% Gosfield Add'n 3 Jobsite;,Casper,WY,82601,3072651405,(307) 577-8124,WY,RES,EDS,y,,,,,"150,000",1,,,,,,,,,
+17,McMry4-2,Andreen Hunt Const-McMry #4-2,McMurry #4 to #2,% McMurry #4 to #2 Jobsite;,Casper,WY,82601,3072651405,(307) 577-8124,WY,RES,EDS,y,,,,,"30,000",1,,,,,,,,,
+17,McMurry,Andreen Hunt Const-McMurrySub,McMurry Subdivision,% McMurry Subdivision Jobsite;,Casper,WY,82601,3072651405,(307) 577-8124,WY,RES,EDS,y,,,,,"250,000",1,,,,,,,,,
+17,PoisnSpr,Andreen Hunt Const-PoisonSpdr,PoisonSpiderWtrSys,% Poison Spider Wtr Sys Jobst;,Casper,WY,82601,3072651405,(307) 577-8124,WY,RES,EDS,y,,,,,"500,000",1,,,,,,,,,
+17,RvrHghts,Andreen Hunt Const-RvrHghtsAdd,RiverHeightsAdd,% River Heights Addition;Jobsite,Casper,WY,82601,3072651405,(307) 577-8124,WY,RES,EDS,y,,,,,"200,000",1,,,,,,,,,
+23,,Artery Construction Corp.,,57 Tweed Lane;P.O. Box 110,Lander,WY,82520-0110,3073329493,(307) 332-9493,WY,RES,EDS,y,,,,11/20/2013,"10,000",1,Yes,,"11,003",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+24,,Aspens Water & Sewer District,,P.O. Box 716;,Wilson,WY,83014-0716,3077399777,307-739-1479,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,12/26/2013,"10,000",1,Yes,,"3,282.30",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+24,Jaskson,Aspens Water & Sewer District,Jackson,4745 West Willowbrook;,Jackson,WY,83001,3077399777,307-739-1479,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,,"10,000",1,,,,,,,,,
+25,,The Aspens Mobile Home Prk*COD,,229 East Lathrop Road #67;,Evansville,WY,82636,3072345308,,WY,MRS,JEN,y,,,,2/7/2014,"1,000",1,Yes,,0,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+26,,"Aztec Construction Co., Inc.",,1215 East Fox Farm Road;,Cheyenne,WY,82007,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,2/28/2014,"500,000",1,Yes,,"648,415.92",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+26,2013Swr,Aztec Const-2013 Sewer Rehab,2013 SanSwrRplmntPrjChy,% 2013 Sanitary Sewer Replcmnt;Jobsite,Cheyenne,WY,82001,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+26,2013Wtr,Aztec Const-2013 WaterRehab,2013 WaterRehab,% 2013 Water Rehab;,Cheyenne,WY,82001,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"175,000",1,,,,,,,,,
+26,Bluffs,Aztec Const-TheBluffs,The Bluffs,% The Bluffs Jobsite;,Cheyenne,WY,82001,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+26,BluffsUt,Aztec Const-BluffsUtil,BluffsUtilities,% Bluffs Utlities Jobsite;,Cheyenne,WY,82001,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+26,CmpGuern,Aztec Const-CmpGuernsFrgRng,CampGuernseyFiringRange,% Camp Guernsey Firing Range;Jobsite,Guernsey,WY,82214,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"30,000",1,,,,,,,,,
+26,Deerhvn,Aztec Const-DeerhavenSubdiv,DeerhavenSubdiv,% Deerhaven Subdivision Jobsit;,Cheyenne,WY,82001,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+26,E.Pershg,Aztec Const-E.PershngBlvd,EastPershingBlvdRecon,% East Pershing Blvd Reconst;Jobsite,Cheyenne,WY,82001,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"200,000",1,,,,,,,,,
+26,GrnHouse,Aztec Const-GrnHouseData,GreenHouseDate,% Green House Date Monitoring;Jobsite,Cheyenne,WY,82001,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+26,LCCC,Aztec Const-LCCC,LCCC,% Laramie Cnty Comm College;Jobsite,Cheyenne,WY,82001,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+26,Magnabld,Aztec Const-Magnablend,Magnablend,% Magnablend Utility Jobiste;,Cheyenne,WY,82001,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"30,000",1,,,,,,,,,
+26,Menards,Aztec Const-Menards,Menards Chey,% Menards Jobsite;Converse & Delrange,Cheyenne,WY,82001,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"250,000",1,,,,,,,,,
+26,OkieBln,Aztec Const-OkieBlnchrd,OkieBlnchrdSprtsCmplx,% Okie Blanchard Sports;Complex Reloc Jobsite,Cheyenne,WY,82001,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"250,000",1,,,,,,,,,
+26,OrchrdVl,Aztec Const-OrchardVlySwr,2013 OrchardVlySanSwr,% 2013 Orchard Valley San Swr;Jobsite,Cheyenne,WY,82001,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"15,000",1,,,,,,,,,
+26,Shop,"Aztec Construction Co., Inc.",Shop,1215 East Fox Farm Road;,Cheyenne,WY,82007,3076376171,(307) 637-2824,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+29,,Bailly's Plumbing & Heating,,John R & Paula Bailly - Owners;1489 Emigrant Place,Casper,WY,82604,3072346568,307-232-9507,WY,RES,EDS,y,,,,1/29/2014,"2,500",1,Yes,,"2,548.95",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+29,Shop,Bailly's Plumbing & Heating,,John R & Paula Bailly - Owners;802 North Foster Road,Casper,WY,82601,3072346568,307-232-9507,WY,RES,EDS,y,,,,,"2,500",1,,,,,,,,,
+30,,Town of Baggs,,P.O. Box 300;,Baggs,WY,82321-0300,3073837335,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/27/2014,"25,000",0,No,,"12,079.74",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+30,Dixon LS,Town of Dixon Litf Sta,Shop,Station #07-2459-LE Location;,Dixon,WY,82323,3073837335,,WY,MDL,DGL,n,,2,GOVERNMENT-CITY,,"10,000",0,,,,,,,,,
+30,Shop,Town of Baggs,Shop,130 So Penland Street;,Baggs,WY,82321,3073837335,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",0,,,,,,,,,
+31,,Town of Bairoil,,1101 Antelope Dr.;P.O. Box 58,Bairoil,WY,82322-0058,3073247653,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/9/2014,"25,000",0,No,,"3,418.80",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+32,,Bartlett Oilfield Service Inc.,,P.O. Box 43;,Bairoil,WY,82322-0043,3073281015,(307) 324-5582,WY,RES,EDS,y,,,,8/15/2013,"5,000",1,Yes,,"4,663.50",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+32,Casper,Bartlett Oilfield Service Inc.,Casper,1328 English Ave.;,Casper,WY,82601,3073281015,(307) 324-5582,WY,RES,EDS,y,,,,,0,1,,,,,,,,,
+33,,Town of Basin,,209 So. 4th St.;P.O. Box 599,Basin,WY,82410-0599,3075683331,307-568-9352,WY,RES,JBH,n,,2,GOVERNMENT-CITY,12/20/2013,"25,000",0,No,,"2,840.07",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+36,,Bedford Water & Sewer District,,"Attn:  Jackie,  Accts Payable;P.O. Box 4144",Bedford,WY,83112-4144,3078833706,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,12/12/2013,"5,000",1,Yes,,"2,488",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+36,Shop,Bedford Water & Sewer District,,4436 Main;,Bedford,WY,83112,3078833706,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,,"5,000",1,,,,,,,,,
+37,,Town of Big Piney,,P.O. Box 70;,Big Piney,WY,83113-0070,3072763554,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,11/11/2013,"25,000",0,No,,"8,254",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+37,Shop,Town of Big Piney,Shop,1690 Piney Drive;,Big Piney,WY,83113,3072763554,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",0,,,,,,,,,
+43,,Black Butte Coal Company,,12 Miles SE of Point of Rocks;P.O. Box 98,Point of Rocks,WY,82942-0098,3073826200,307-352-6298,WY,JMK,BSW,y,,,,8/15/2013,"50,000",1,Yes,,"3,175.10",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+44,,"Black Hills Bentonite, LLC",,55 So. Salt Creek Hwy;P.O. Box 9,Mills,WY,82644-0009,30726537401,307-235-8511,WY,JMK,BSW,y,,,,11/12/2013,"2,500",1,Yes,,696.42,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+45,,Jerry Bornhoft Const**CrdtHold,,Jerry Bornhoft - Owner;P.O. Box 1341,Riverton,WY,82501-1341,3078573171,307-857-3194,WY,RES,EDS,y,,,,9/18/2013,"10,000",1,Yes,,"1,013",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+48,,Bridger Coal Company,,Accounts Payable;P.O. Box 68,Point of Rocks,WY,82942-0068,3073829741,307-362-3808,WY,PMP,BSW,n,WY #27000026,14,DIRECT PAY,1/17/2014,"100,000",1,Yes,,"134,823.65",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+48,Surface,Bridger Coal Company,,Surface Mine;932 Nine Mile Road,Point of Rocks,WY,82942,3073829741,307-362-3808,WY,PMP,BSW,n,WY #27000026,14,DIRECT PAY,,"25,000",1,,,,,,,,,
+48,Undergrd,Bridger Coal Company,,Underground Mine;1088 Nine Mile Road,Point of Rocks,WY,82942,3073829741,307-362-3808,WY,PMP,BSW,n,WY #27000026,14,DIRECT PAY,,"25,000",1,,,,,,,,,
+49,,Bridger Valley Joint Powers Br,,5716 South Highway #410;P.O. Box 615,Mountain View,WY,82939,3077823130,307-782-3178,WY,RES,JBH,n,,1,RESALE,12/11/2013,"10,000",0,No,,"12,911",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+49,Shop,Bridger Valley Joint Pwrs Brd,Shop,5462 Hwy 410;,Mountain View,WY,82939,3077823130,307-782-3178,WY,RES,JBH,n,,1,RESALE,,"10,000",1,,,,,,,,,
+51,,City of Buffalo,,46 North Main St.;,Buffalo,WY,82834,3076845566,307-384-5726,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/7/2013,"50,000",0,No,,474,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+52,,Bureau of Reclamation,,Attn:  C-820;P.O. Box 1630,Mills,WY,82644-1630,3072615631,,WY,MRS,JEN,n,,4,GOVERNMENT-FEDERAL,10/31/2013,"25,000",0,No,,"2,378",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+53,,Town of Burlington,,P.O. Box 38;,Burlington,WY,82411-0038,3077623502,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,12/26/2013,"25,000",0,No,,"5,785.20",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+56,,Town of Burns,,P.O. Box 66;,Burns,WY,82053-0066,3075472206,307-547-3439,WY,RES,JBH,n,,2,GOVERNMENT-CITY,12/26/2013,"25,000",0,No,,"2,548.20",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+56,Shop,Town of Burns,Shop,327 So Main Street;,Burns,WY,82053,3075472206,307-547-3439,WY,RES,EDDE,n,,2,GOVERNMENT-CITY,,"25,000",0,,,,,,,,,
+58,,Town of Byron,,35 South 1st St.;P.O. Box 5,Byron,WY,82412-0005,3075487490,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/9/2014,"25,000",0,No,,"1,694.84",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+59,,"CNM Plumbing & Heating, LLC",,P.O. Box 829;,Douglas,WY,82633-0829,3073586793,,WY,RES,JBH,n,WY 13-0-02069,1,RESALE,1/21/2014,"2,500",1,Yes,,"4,656.25",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+59,Casper,CNM Plumbing & Heating  LLC,Casper,1328 English Ave.;,Casper,WY,82601,3073586793,,WY,RES,JBH,n,WY 13-0-02069,1,RESALE,,"2,500",1,,,,,,,,,
+59,Douglas,"CNM Plumbing & Heating, LLC",Douglas,301 Brown Field Road;,Douglas,WY,82633,3073586793,,WY,RES,JBH,n,WY 13-0-02069,1,RESALE,,"2,500",1,,,,,,,,,
+61,,City of Casper Public Utilitie,,200 North David;,Casper,WY,82601,3072358360,307-235-8313,WY,RES,EDS,n,,2,GOVERNMENT-CITY,2/20/2014,"100,000",0,No,,"46,620.07",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+61,Matl2002,City of Casper CPU-Mat'l 2002,Casper CPU Mat'l 2002,1600 SW Wyo Blvd.;,Casper,WY,82604,3072358360,307-235-8313,WY,RES,EDS,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+61,Matl2013,City of Casper CPU-Mat'l 2013,2013 Materials,1600 SW Wyo Blvd.;,Casper,WY,82604,3072358360,307-235-8313,WY,RES,EDS,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+61,Shop,City of Casper Public Utilitie,,% Shop;1600 SW Wyo Blvd,Casper,WY,82604,3072358360,307-235-8313,WY,RES,EDS,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+61,W.I.I.,City of Casper Public Utilitie,,1328 English Ave.;,Casper,WY,82601,3072358360,307-235-8313,WY,RES,EDS,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+62,,City of Casper Street Dept.,,"1800 East ""K"" Street;",Casper,WY,82601,3072358283,,WY,RES,EDS,n,,2,GOVERNMENT-CITY,7/8/2013,"50,000",0,No,,234,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+63,,Casper Winnelson Company,,"802 East ""C"" St.;P.O. Box 201",Casper,WY,82602-0201,3072379503,,WY,HA,HA,n,WY #01-0-00543,1,RESALE,2/26/2014,"10,000",1,Yes,,"3,628.90",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+64,,Central Wyo Regional Wtr Sys,,Joint Powers Board;1500 SW Wyo Blvd,Casper,WY,82604,3072656063,307-265-6058,WY,RES,EDS,n,,2,GOVERNMENT-CITY,2/25/2014,"50,000",0,No,,347.5,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+65,,Chalk Buttes Landscaping,,Bret & Brandon Frye;201 Sanford Ave.,Douglas,WY,82633,3073584595,307-358-5953,WY,MRS,JBH,n,WY #___________,1,RESALE,6/17/2013,"2,500",1,Yes,,188.5,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+66,,City of Cheyenne BPU,,2406 Snyder Ave.;P.O. Box 1469,Cheyenne,WY,82003-1469,3076376465,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,10/8/2013,"100,000",0,No,,"20,357.70",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+67,,Town of Chugwater,,284 2nd St.;P.O. Box 243,Chugwater,WY,82210-0243,3074223493,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/31/2014,"25,000",0,No,,816.12,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+69,,City of Cody,,1338 Rumsey Ave.;P.O. Box 2200,Cody,WY,82414-2200,3075277511,307-527-6532,WY,RES,JBH,n,,2,GOVERNMENT-CITY,11/13/2013,"50,000",0,No,,"20,886.15",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+69,Shop,City of Cody,,% City Shop;120 19th Street,Cody,WY,82414,3075277511,307-527-6532,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+71,,Converse County School Dist #1,,615 Hamilton St.;,Douglas,WY,82633-2615,,,WY,MRS,JBH,n,,11,GOVERNMENT-COUNTY,3/13/2013,"10,000",0,No,,107.5,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+72,,Town of Cowley,,P.O. Box 635;,Cowley,WY,82420-0635,3075487700,307-548-7470,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/24/2014,"25,000",0,No,,"15,328.66",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+72,Shop,Town of Cowley,Shop,81 East Main Street;,Cowley,WY,82420,3075487700,307-548-7470,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+76,,Cyclone Drilling Inc.,,P. O. Box 908;,Gillette,WY,82717-0908,3076824161,307-682-3158,WY,JMK,BSW,y,,,,2/21/2014,"10,000",1,Yes,,"7,327.75",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+76,Shop,Cyclone Drilling Inc.,Shop,5800 Mohan Road;,Gillette,WY,82716,3076824161,307-682-3158,WY,PMP,BSW,y,,,,,"10,000",1,,,,,,,,,
+78,,"Davidson Mechanical, Inc.",,"728 East ""C"" Street;",Casper,WY,82601,3075774000,307-577-0692,WY,RES,EDS,y,,,,2/4/2014,"5,000",1,Yes,,"1,522",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+80,,Town of Deaver,,P.O. Box 207;,Deaver,WY,82421-0207,3076642736,307-664-2533,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/11/2014,"25,000",0,No,,"3,767",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+80,Shop,Town of Deaver,Shop,180 West 1st;,Deaver,WY,82421,3076642736,307-664-2533,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+82,,George Weiss dba Mr. Dirt,,684 Esterbrook Road;,Douglas,WY,82633,3073582820,,WY,RES,JBH,n,WY #13-0-00133,1,RESALE,10/23/2013,"10,000",1,Yes,,286,2%,2%10/Pipe30,10,CONTRACTOR/UTILITY SYS,,2
+82,Casper,George Weiss DBA Mr. Dirt,,1328 English Ave.;,Casper,WY,82601,3073582820,,WY,RES,JBH,n,WY #13-0-00133,1,RESALE,,"10,000",1,,,,,,,,,
+83,,Town of Dixon,,P.O. Box 38;,Dixon,WY,82323-0038,3073837862,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/20/2014,"25,000",0,No,,"1,679.10",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+83,Shop,Town of Dixon,Shop,975 4th Street;,Dixon,WY,82323,3073837862,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+84,,Domino Construction Inc.,,P.O. Box 670;,Laramie,WY,82073-0670,3077423513,307-742-9720,WY,RES,EDS,y,,,,9/24/2013,"25,000",1,Yes,,"139,888.10",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+84,2012SPT4,Domino Const-2012SPT Ph4,"2012 SPT Ph4, Sch1",% 2012 SPT Ph4 Jobsite;,Laramie,WY,82070,3077423513,307-742-9720,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+84,Shop,Domino Construction Inc.,,2678 Dadisman Street;,Laramie,WY,82070,3077423513,307-742-9720,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+84,SPT Ph3,Domino Const-SPT Ph3 Sch1,SPT Ph3 Sch1,% SPT Ph3 Sch1 Jobsite;,Laramie,WY,82070,3077423513,307-742-9720,WY,RES,EDS,y,,,,,"125,000",1,,,,,,,,,
+85,,City of Douglas,,101 North 4th;P.O Box 1030,Douglas,WY,82633-1030,3073589750,307-358-6447,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/28/2014,"50,000",0,No,,"20,174.01",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+85,Casper,City of Douglas,,1328 English Ave.;,Casper,WY,82601,3073589750,307-358-6447,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"50,000",1,,,,,,,,,
+85,MtrPrj04,City of Douglas-WtrMtrPrj 2004,2004 Water Meter Project,% Public Works Dept;420 West Grant Street,Douglas,WY,82633,3073589750,307-358-6447,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"200,000",1,,,,,,,,,
+85,Shop,City of Douglas,,% Public Works Dept.;420 W. Grant Stret,Douglas,WY,82633,3073589750,307-358-6447,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"50,000",1,,,,,,,,,
+86,,Town of Dubois,,P.O. Box 555;,Dubois,WY,82513-0555,3074552345,307-455-2567,WY,RES,JBH,n,,2,GOVERNMENT-CITY,12/13/2013,"25,000",0,No,,"5,893.14",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+86,Shop,Town of Dubois,Shop,"204 ""E"" Street;",Dubois,WY,82513,3074552345,307-455-2567,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+87,,"Quadna, Inc.",,a DXP Company;P.O. Box 1697,Houston,TX,77251,3072346979,303-790-0710,WY,HA,HA,n,,1,RESALE,2/12/2014,"5,000",1,Yes,,"8,137.13",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+87,Casper,"Quadna, Inc.",,a DXP Company;1320 Overlook Drive,Casper,WY,82601,3072346979,303-790-0710,WY,,HA,n,,1,RESALE,,0,1,,,,,,,,,
+88,,Town of East Thermopolis,,112 East Warren St.;,Thermopolis,WY,82443,3078649221,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/11/2014,"25,000",0,No,,"9,075.30",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+89,,Town of Edgerton,,311 No. Second;P.O. Box 407,Edgerton,WY,82635-0407,3074376763,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/27/2014,"25,000",0,No,,"2,468",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+94,,Town of Elk Mountain,,206 Bridge Street;P.O. Box 17,Elk Mountain,WY,82324-0017,3073487387,307-348-7333,WY,RES,JBH,n,,2,GOVERNMENT-CITY,12/2/2013,"25,000",0,No,,348,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+95,,Town of Encampment,,P.O. Box 5;,Encampment,WY,82325-0005,3073275501,307-327-5787,WY,RES,JBH,n,,2,GOVERNMENT-CITY,12/26/2013,"25,000",0,No,,"4,662.25",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+95,Shop,Town of Encampment,Shop,614 McCaffey Ave.;,Encampment,WY,82325,3073275501,307-327-5787,WY,RES,EDDE,n,,2,GOVERNMENT-CITY,,"25,000",0,,,,,,,,,
+97,,City of Evanston,,1200 Main Street;,Evanston,WY,82930,3077899690,307-789-4109,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/11/2014,"50,000",0,No,,"12,007.26",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+97,Shop,City of Evanston,,% City Shop;33 Allegiance,Evanston,WY,82930,3077899690,307-789-4109,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+98,,Town of Evansville,,235 Curtis;P.O. Box 158,Evansville,WY,82636-0158,3072346530,307-237-6164,WY,RES,EDS,n,,2,GOVERNMENT-CITY,1/13/2014,"25,000",0,No,,"11,370.35",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+98,Shop,Town of Evansville,Shop,235 Curtis;,Evansville,WY,82636,3072346530,307-237-6164,WY,RES,EDS,n,,2,GOVERNMENT-CITY,,"25,000",0,,,,,,,,,
+99,,FMC Corporation,,Attn:  Accts Payable;P.O. Box 872,Green River,WY,82935-0872,3078722141,307-875-2580,WY,JMK,BSW,n,WY #27-0-00014,12,EXEMPT,1/22/2014,"10,000",1,Yes,,"22,899.55",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+99,Granger,FMC Granger,,956 County Road 11;,Granger,WY,82934,3078722141,307-872-2451,WY,HDL,BSW,n,WY #27-0-00014,12,EXEMPT,,"10,000",1,,,,,,,,,
+99,GrnRvr,FMC Corporation,,Surface Maintenance;Westvaco Road,Green River,WY,82935,3078722141,307-875-2580,WY,HDL,BSW,n,WY #27-0-00014,12,EXEMPT,,0,1,,,,,,,,,
+100,,Fairmont Supply Company,,P.O. Box 560;,Canonsburg,PA,15317,3076862400,307-682-5328,WY,HA,HA,n,,1,RESALE,1/13/2014,"5,000",1,Yes,,"1,252",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+100,GreenRvr,Fairmont Supply Company,,3783 Hwy 374 (W. of Green Rvr);,Green River,WY,82935,7245143900,724-514-3885,WY,,HA,n,,1,RESALE,,"10,000",1,,,,,,,,,
+101,,Falcon Pump &  Supply Company,,A DXP Company;P.O. Box 1697,Houston,TX,77251,3072651207,307-265-1345,WY,HA,HA,n,,1,RESALE,2/21/2014,"10,000",1,Yes,,"21,414.22",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+101,Casper,Falcon Pump &  Supply Company,,A DXP Company;927 Connie Street,Mills,WY,82644,3072651207,307-265-1345,WY,,HA,n,,1,RESALE,,0,1,,,,,,,,,
+101,Greeley,Falcon Pump &  Supply Company,Greeley,A DXP Company;2021 1st Ave.,Greeley,CO,80631,3037769901,303-776-9903,WY,,HA,n,,1,RESALE,,0,1,,,,,,,,,
+101,Willistn,Falcon Pump &  Supply Company,,A DXP Company;2911 1st Ave. West,Williston,ND,58801,3072651207,307-265-1345,WY,,HA,n,,1,RESALE,,0,1,,,,,,,,,
+104,,Fitzhugh Ranch,,873 Esterbrook Road;,Douglas,WY,82633,3073586457,,WY,MRS,JBH,y,,,,7/10/2013,"10,000",1,Yes,,820,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+108,,North Forgey Ranch,,P.O. Box 1268;,Casper,WY,82602-1268,3072350817,,WY,MRS,JEN,y,,,,11/5/2013,"10,000",1,Yes,,"1,737",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+108,Shop,North Forgey Ranch,Shop,940 Ormsby Rd;,Casper,WY,82601,3072350817,,WY,MRS,MRS,y,,,,,"10,000",1,,,,,,,,,
+109,,Forkner Construction,,P.O. Box 3595;,Casper,WY,82602-3595,3076319710,,WY,RES,EDS,y,,,,2/27/2014,"50,000",1,Yes,,"34,435.22",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+109,Casper,Forkner Construction,Casper,1328 English Ave.;,Casper,WY,82601,3076319710,,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+109,Cheyenne,Forkner Construction,,2700 East 5th St.;,Cheyenne,WY,82007,3076319710,,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+110,,Town of Fort Laramie,,100 E. Bliss St.;P.O. Box 177,Fort Laramie,WY,82212-0177,3078372711,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/31/2014,"25,000",0,No,,0,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+114,,Town of Frannie,,311 4th Street;P.O. Box 72,Frannie,WY,82423-0072,3076642323,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,11/22/2013,"25,000",0,No,,891,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+117,,"G W Mechanical, Inc.",,P.O. Box 2392;,Mills,WY,82644-2392,3074721833,307-472-2037,WY,RES,EDS,n,WY #01-0-01572,1,RESALE,1/21/2014,"10,000",1,Yes,,750.6,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+117,Casper,G W Mechanical  Inc.,,3638 Burd Road;, Casper,WY,82601,3074721833,307-472-2037,WY,RES,EDS,n,WY #01-0-01572,1,RESALE,,0,1,,,,,,,,,
+119,,Geotec Industrial Supply,,P.O. Box 130;,Mills,WY,82644-0130,3074720084,307-472-0257,WY,HA,HA,n,,1,RESALE,1/31/2014,"10,000",1,Yes,,"35,718",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+119,Mills,Geotec Industrial Supply,,600 Bear Pen Road;,Mills,WY,82644,3074720084,307-472-0257,WY,,HA,n,,1,RESALE,,"10,000",1,,,,,,,,,
+120,,City of Gillette,,Attn:  Accounts Payable;P.O. Box 3003,Gillette,WY,82717-3003,3076865208,307-682-7942,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/28/2014,"50,000",0,No,,"20,568.48",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+120,W.W.T.P.,City of Gillette,,% W.W.T.P.;3101 So. Garner Lake Road,Gillette,WY,82718,3076865200,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+120,Wtr Dpt,City of Gillette,,% Water Dept;800 North Burma Road,Gillette,WY,82716,3076865276,307-682-7942,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+121,,Town of Glendo,,204 So. Yellowstone;P.O. Box 396,Glendo,WY,82213-0396,3077354242,307-735-4422,WY,RES,JBH,n,,2,GOVERNMENT-CITY,12/24/2013,"25,000",0,No,,"2,518.81",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+122,,Town of Glenrock,,219 So. 3rd Street;P.O. Box 417,Glenrock,WY,82637-0417,3074369294,307-436-5729,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/31/2014,"25,000",0,No,,"8,472.40",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+124,,Town of Granger,,P.O. Box 42;,Granger,WY,82934-0042,3078755556,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,12/3/2013,"25,000",0,No,,"3,542.51",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+126,,City of Green River,,50 East 2nd North;,Green River,WY,82935,3078755000,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/13/2014,"50,000",0,No,,"4,800.50",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+126,WWP,City of Green River,W,Wastewater Plant;220 East Teton,Green River,WY,82935,3078755000,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"50,000",1,,,,,,,,,
+127,,Town of Greybull,,24 So. 5th St.;P.O. Box 271,Greybull,WY,82426-0271,3077659431,307-765-9431,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/30/2014,"25,000",0,No,,"3,525.36",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+128,,Town of Guernsey,,P.O. Box 667;,Guernsey,WY,82214-0667,3078362335,307-836-2601,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/28/2014,"25,000",0,No,,"11,769.79",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+128,Shop,Town of Guernsey,Shop,81 West Whalen;,Guernsey,WY,82214,3078362335,307-836-2601,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",0,,,,,,,,,
+129,,"Hamaker Excavation, Inc.",,P.O. Box 33;,Laramie,WY,82070-0033,3077423225,,WY,RES,EDS,y,,,,2/17/2014,"25,000",1,Yes,,"15,901.55",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+129,Shop,"Hamaker Excavation, Inc.",,4391 No. 3rd St.;,Laramie,WY,82072,3077423225,,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+130,,Town of Hanna,,301 So. Adams;P.O. Box 99,Hanna,WY,82327-0099,3073259424,307-325-9624,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/21/2013,"25,000",0,No,,690,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+134,,"Hedquist Construction, Inc.",,P.O. Box 1870;,Mills,WY,82644-1871,3072378543,307-266-4337,WY,RES,EDS,y,,,,9/3/2013,"100,000",1,Yes,,"1,799.75",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+134,Casper,"Hedquist Construction, Inc.",,1372 Derrick Dr.;,Casper,WY,82604,3072378543,307-266-4337,WY,RES,EDS,y,,,,,0,1,,,,,,,,,
+136,,"High Plains Construction, Inc.",,P.O. Box 370;,Mills,WY,82644-0370,3072652244,307-235-4917,WY,RES,EDS,y,,,,1/21/2014,"250,000",0,No,,"379,057.64",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+136,BusPrk,High Plains Const-BusinessPark,EvansvilleBusinessPark,% Evansville Business Park;Jobsite,Evansville,WY,82636,3072652244,307-235-4917,WY,RES,EDS,y,,,,,"200,000",0,,,,,,,,,
+136,Casper,"High Plains Construction, Inc.",,1328 English Ave.;,Casper,WY,82601,3072652244,307-235-4917,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+136,Fir&Elk,High Plains Const-Fir&Elk,Fir&ElkSanSwr,% Fir & Elk San Sew Jobsite;,Glenrock,WY,82637,3072652244,307-235-4917,WY,RES,EDS,y,,,,,"20,000",0,,,,,,,,,
+136,GasPlant,High Plains Const-GasPlant,GasPlantSwrRplcmnt,% Gas Plant Swr Rplcmnt;Jobsite,Midwest,WY,82643,3072652244,307-235-4917,WY,RES,EDS,y,,,,,"10,000",0,,,,,,,,,
+136,Glnrck 3,High Plains Const-GlnrckLvl3,Glenrock Level iii,% Glenrock Level III Jobsite;,Glenrock,WY,82637,3072652244,307-235-4917,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+136,Heritage,High Plains Const-HeritageAdd,HeritageAddition,% Heritage Addition Jobsite;,Casper,WY,82601,3072652244,307-235-4917,WY,RES,EDS,y,,,,,"75,000",0,,,,,,,,,
+136,No3rd,High Plains Const-No3rdInfra,No3rdStInfra,% No 3rd St Infrastructure;Jobsite,Glenrock,WY,82637,3072652244,307-235-4917,WY,RES,EDS,y,,,,,"100,000",0,,,,,,,,,
+136,Pioneer,High Plains Const-Pioneer Wtr,Pioneer Wtr Imprv 2013,% Pioneer Wtr Imprv 2013;Jobsite,Casper,WY,82604,3072652244,307-235-4917,WY,RES,EDS,y,,,,,"50,000",0,,,,,,,,,
+136,PltAlley,High Plains Const-PlatteAlley,Platte Alley,% Platte Alley Jobsite;,Glenrock,WY,82637,3072652244,307-235-4917,WY,RES,EDS,y,,,,,"10,000",0,,,,,,,,,
+136,ScenicDr,High Plains Const-ScenicDr,ScenicDrive,% Scenic Drive Jobsite;,Casper,WY,82601,3072652244,307-235-4917,WY,RES,EDS,y,,,,,"125,000",0,,,,,,,,,
+136,SCJPB,High Plains Const-SCJPB Wtrln,SCJPB WtrlnRplcmnt,% SCJPB Waterline Rplcmnt;Jobsite,Casper,WY,82601,3072652244,307-235-4917,WY,RES,EDS,y,,,,,"25,000",0,,,,,,,,,
+136,Shop,"High Plains Construction, Inc.",,6684 Uranium Road;,Mills,WY,82644,3072652244,307-235-4917,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+136,WestBelt,High Plains Const-WestBeltLoop,WestBeltLoopRd,% West Belt Loop Jobsite;,Casper,WY,82601,3072652244,307-235-4917,WY,RES,EDS,y,,,,,"500,000",1,,,,,,,,,
+139,,Houston Supply Company,,521 Durango Court;,Casper,WY,82609-1850,3072348426,,WY,HA,HA,n,,1,RESALE,7/9/2013,"10,000",1,Yes,,"1,977",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+141,,Huber Plumbing & Heating,,"902 East ""A"" St.;",Casper,WY,82601,3072343851,307-472-3654,WY,RES,EDS,n,,1,RESALE,1/23/2014,"1,000",1,Yes,,583.69,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+142,,Town of Hudson,,333 So. Main;P.O. Box 56,Hudson,WY,82515-0056,3073322760,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/14/2013,"25,000",0,No,,292,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+145,,Town of Opal,,P.O. Box 130;,Opal,WY,83124-0130,3078773919,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,8/28/2013,"25,000",0,No,,"1,361.46",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+146,,Powder River Coal Company,,Attn:  Accts Payable;P.O. Box 66917,Saint Louis,MO,63166-6917,3074644662,307-464-4665,WY,ha,BSW,y,,,,2/28/2014,"250,000",1,Yes,,"283,730.66",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+146,No. Ant,North Antelope Coal Company,,341A Antelope Road;65 Miles SE of Gillette,Wright,WY,82732,3074644662,307-464-4665,WY,Ha,BSW,y,,,,,0,1,,,,,,,,,
+146,Rawhide,Rawhide Mine,,12433 State Hwy 59 No;,Gillette,WY,82716,3074644662,307-464-4665,WY,Ha,BSW,y,,,,,0,1,,,,,,,,,
+146,Rochelle,NARM - Rochelle Mine,,339B Antelope Road;65 Miles SE of Gillette,Wright,WY,82732,3074644662,307-464-4665,WY,Ha,BSW,y,,,,,0,1,,,,,,,,,
+146,SchCrkMn,School Creek Mine,SchoolCrkMine,510 Reno Road;,Wright,WY,82732,3074644607,307-464-4794,WY,Ha,BSW,y,,,,,"25,000",1,,,,,,,,,
+147,,Riverside Mobile Home Court,,1250 No. Center;,Casper,WY,82601,3072346871,,WY,MRS,JEN,y,,,,12/6/2013,"2,500",1,Yes,,250,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+150,,Sinclair Wyoming Refining Co.,,P.O. Box 277;,Sinclair,WY,82334-0277,3073283622,307-328-3590,WY,JMK,BSW,n,,13,MFG/PROC/CMPNDG,2/7/2014,"50,000",1,Yes,,"82,262.65",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+150,CokerRel,Sinclair Wyo Refining-CokerRel,Coker Relocate,Attn: Warehouse Receiving;100 Lincoln Highway,Sinclair,WY,82334,3073283622,307-328-3590,WY,RES,EDS,n,,13,MFG/PROC/CMPNDG,,"160,000",1,,,,,,,,,
+150,Sinclair,Sinclair Wyoming Refining Co.,,100 Lincoln Ave.;,Sinclair,WY,82334,3073283622,307-328-3590,WY,PMP,BSW,n,WY 20-3986631,13,MFG/PROC/CMPNDG,,"50,000",1,,,,,,,,,
+152,,"A&W Water Service, Inc.",,1900 South Sunset Street;Suite 1-F,Longmont,CO,80501,3073280668,307-328-9800,WY,JMK,BSW,y,,,,1/29/2014,"75,000",1,Yes,,"3,048.69",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+152,Douglas,"A&W Water Service, Inc.",Douglas,288 Hwy 59;,Douglas,WY,82633,3073280668,307-328-9800,WY,MDL,BSW,y,,,,,"5,000",1,,,,,,,,,
+154,,Installation & Service Company,,P.O. Box 2938;,Mills,WY,82644,3074739000,307-235-5003,WY,RES,EDS,y,,,,2/28/2014,"25,000",1,Yes,,"173,279.96",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+154,2013Wtr,Installation & Srv-2013Wtrmn,2013 WtrmnRplcmnt,% 2013 Watermain Replacement;Jobsite,Casper,WY,82601,3074739000,307-235-5003,WY,RES,EDS,y,,,,,"100,000",1,,,,,,,,,
+154,J&B Mbl,Installation & Srv-J&B Mbl,J&B MblHomePrk,% J&B Mobile Home Park;Jobsite,Casper,WY,82601,3074739000,307-235-5003,WY,RES,EDS,y,,,,,"15,000",1,,,,,,,,,
+154,ModElec,Installation & Srv-ModElec,ModernElecFireline,% Modern Electric Fireline;Jobsite,Casper,WY,82601,3074739000,307-235-5003,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+154,NOV Tube,Installation & Srv-NOV Tubescp,NOV Tubescope,% NOV Tubescope Jobsite;,Casper,WY,82601,3074739000,307-235-5003,WY,RES,EDS,y,,,,,"20,000",1,,,,,,,,,
+154,Shop,Installation & Service Company,Shop,401 Crescent Drive;,Mills,WY,82644,3074739000,307-235-5003,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+154,SpcWaste,Installation & Serv-SpecWaste,Special Waste Diversion,% Special Waste Diversion Fac;Jobsite,Casper,WY,82601,3074739000,307-235-5003,WY,RES,EDS,y,,,,,"30,000",1,,,,,,,,,
+154,W.Gate4,Installation & Serv-W.Gate4,WestGate4WtrReloc,% West Gate IV Wtr Relocation;Jobsite,Casper,WY,82601,3074739000,307-235-5003,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+157,,BSH Inc. ***C.O.D.***,,dba Hysong Excavation;P.O. Box 2156,Laramie,WY,82073-2156,3077550892,307-755-0876,WY,RES,EDS,y,,,,5/21/2013,"50,000",1,Yes,,"3,931",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+157,Shop,BSH Inc. dba Hysong Excavation,,1402 Thames St.;,Laramie,WY,82707,3077550892,307-755-0876,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+159,,Town of Kaycee,,414 Park Ave.;P.O. Box 265,Kaycee,WY,82639-0265,3077382351,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/6/2014,"25,000",0,No,,"8,133.97",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+160,,Dana Kepner Company of Wyoming,,1820 South Loop Ave.;,Casper,WY,82601,3072351300,307-265-3005,WY,HA,HA,n,,1,RESALE,12/9/2013,"25,000",1,Yes,,"1,106.70",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+160,Shop,Dana Kepner Company of Wyoming,,1820 No. South Loop Ave.;Interstate Industrial Park,Casper,WY,82604,3072351300,,WY,,HA,n,,1,RESALE,,"25,000",1,,,,,,,,,
+161,,Town of Kirby,,114 North Bryan;,Kirby,WY,82430,3078644030,307-864-4030,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/30/2014,"25,000",0,No,,45.5,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+161,Shop,Town of Kirby,,114 East 6th;,Kirby,WY,82430,3078644030,307-864-4030,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+162,,LaMax Construction,,4402 Orchard Bench Rd.;,Basin,WY,82410,3075682586,307-568-2050,WY,RES,EDS,y,,,,11/12/2013,"650,000",1,Yes,,"113,238.40",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+162,14thSt#1,LaMax Const-14thSt PhI,14thStTreatedWtrMnPh I,% 14th St Treated Wtr Mn Ph I;Jobsite,Thermopolis,WY,82443,3075682586,307-568-2050,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+162,No7thWtr,LaMax Const-No7thWtr,No7thStWtrMain,% No 7th St Water Main Jobsite;,Thermopolis,WY,82443,3075682586,307-568-2050,WY,RES,EDS,y,,,,,"125,000",1,,,,,,,,,
+163,,City of Laramie,,P.O. Box C;,Laramie,WY,82073,3077215280,307-742-7174,WY,RES,JBH,n,,2,GOVERNMENT-CITY,10/21/2013,"50,000",0,No,,"9,417.20",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,3
+163,Wtr Dpt,City of Laramie,,% Water Dept;1167 No. 4th St.,Laramie,WY,82072,3077215280,307-742-7174,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+166,,Town of Lovell,,336 Nevada Ave.;P.O. Box 188,Lovell,WY,82431-0188,3075486551,307-548-7614,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/21/2014,"25,000",0,No,,"13,230",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+168,,"Mechanical Systems, Inc.",,1313 West Lincolnway;,Cheyenne,WY,82001,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,2/27/2014,"500,000",1,Yes,,"514,541.92",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+168,2013sWR,Mechanical Sys-2013SwrRehab,2008 Wtrln Rehab,% 2013 BOPU Sewer Rehab;Jobsite,Cheyenne,WY,82001,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"2,500",1,,,,,,,,,
+168,DimndEst,Mechanical Sys-DiamondEst,DiamondEstates#4,% Diamond Estates # Jobsite;Pierce Ave & Green River,Cheyenne,WY,82001,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"25,000",1,,,,,,,,,
+168,F.E.WAFB,Mechanical Sys-F.E. WAFB,Potable Wtr Rpr F.E.WAFB,% Potable Water Repair Jobsite;FE Warren Air Force Base,Cheyenne,WY,82001,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"325,000",1,,,,,,,,,
+168,LongHaul,Mechanical Sys-Long Haul,LongHaul,% Long Haul Enterprises;5310 Clear Creek Parkway,Cheyenne,WY,82001,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"150,000",1,,,,,,,,,
+168,Lowe's,Mechanical Sys-Lowe'sFirePmpBg,Lowe'sFirePmpBldg,% Lowe's Fire Pump Bldg;Jobsite,Cheyenne,WY,82001,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"25,000",1,,,,,,,,,
+168,NCAR,Mechanical Sys-NCAR,NCAR Wyo Spr Comp Cntr,% NCAR Wyo Super Computing;Center Jobsite,Cheyenne,WY,82001,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"75,000",1,,,,,,,,,
+168,PnBlfsWl,Mechanical Sys-PnBlfsWell,Pine Bluffs Well Project,% Pine Bluffs Well Project;,Pine Bluffs,WY,82082,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"50,000",1,,,,,,,,,
+168,PnBlfWtr,Mechanical Sys-PnBlfsWtr,Pine Bluffs Wtr Sys,% Pine Bluffs Water System;Jobsite,Pine Bluffs,WY,82082,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"200,000",1,,,,,,,,,
+168,PressMgt,Mechanical Sys-PressMgt,PressureMgtPrj,% Pressure Mgt Project;,Cheyenne,WY,82001,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"400,000",1,,,,,,,,,
+168,SaberBlg,Mechanical Sys-SaberBldg,SaberBldg,% Saber Bldg (FEW Base)Jobsite;Missile & So Creek Dr,Cheyenne,WY,82001,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"25,000",1,,,,,,,,,
+168,SPT Ph2,Mechanical Sys-SPT Ph2Sch5,SPT Ph2 Sch5,% SPT Ph2 Sch5 Jobsite;,Cheyenne,WY,82001,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"150,000",1,,,,,,,,,
+168,SPT Ph4,Mechanical Sys-SPT Ph4Sch2,SPT Ph4 Sch2,% SPT Ph4 Sch2 Jobsite;,Laramie,WY,82070,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"75,000",1,,,,,,,,,
+168,SwanRnch,Mechanical Sys-SwanRnch,SwanRanchRailPark,% Swan Ranch Rail Park Jobsite;CedarPark & Wallick,Cheyenne,WY,82001,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"50,000",1,,,,,,,,,
+168,WWTP Blw,Mechanical Sys-WWTP BlwrPipe,WWTP BlowerPipeRplcmnt,% WWTP BlowerPipe Jobsite;,Laramie,WY,82070,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"75,000",1,,,,,,,,,
+168,WYDOT,Mechanical Sys-WYDOT LS,WYDOT LS #STE6900,% WYDOT Prj #STE6900;5300 Bishop Blvd,Cheyenne,WY,82009-3340,3076347419,307-632-6110,WY,RES,EDS,n,WY #02-0-00619,1,RESALE,,"60,000",1,,,,,,,,,
+170,,Natrona County Road & Bridge,,538 SW Wyoming Blvd.;P.O. Box Drawer 848,Mills,WY,82644-0848,3072359311,,WY,MRS,JEN,n,83-6000113,11,GOVERNMENT-COUNTY,1/13/2014,"10,000",0,No,,"1,886.26",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+171,,City of Newcastle,,10 West Warwick;,Newcastle,WY,82701,3077463535,,WY,RES,JBH,n,21-0-00045,2,GOVERNMENT-CITY,2/13/2014,"50,000",0,No,,"3,793.92",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+172,,Northend Water Users Inc.,,Attn:  Alan Skalsky - Treasure;P.O. Box 551,Powell,WY,82435-0551,3077544025,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,2/21/2014,"10,000",1,Yes,,"5,940.90",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+172,Shop,Northend Water Users Inc.,,922 Road 11;,Powell,WY,82435,3077543839,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,,0,1,,,,,,,,,
+173,,Northern Arapahoe Utilities,,P.O. Box 1304;,Fort Washakie,WY,82514-1304,3073326228,,WY,MRS,JBH,n,,4,GOVERNMENT-FEDERAL,5/20/2013,"10,000",0,No,,"3,162.50",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+174,,Northwest Rural Water Dist,,920 13th St.;P.O. Box 2347,Cody,WY,82414-2347,3075274426,307-527-9762,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,2/14/2014,"25,000",1,Yes,,"50,771.59",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+175,,Paradise Valley Country Club,,70 Magnolia;,Casper,WY,82604,3072349146,,WY,MRS,JEN,y,,,,6/20/2013,"10,000",1,Yes,,411,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+175,Club,Paradise Valley Counry Club,,70 Magnolia;,Casper,WY,82604,3072349146,,WY,MRS,JEN,y,,,,,"10,000",1,,,,,,,,,
+176,,Patrick Construction Inc.,,P.O. Box 926;,Lander,WY,82520-0926,3073326939,307-332-6939,WY,RES,EDS,y,,,,11/12/2013,"300,000",1,Yes,,"94,456.30",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+176,BlueRdg,Patrick Constr-BlueRdgApt's,BlueRidgeApt'sUtil,% Blue Ridge Apt's Utility Imp;Jobsite,Lander,WY,82520,3073326939,307-332-6939,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+176,GnttPk,Patrick Constr-GannettPk,GannettPeakEstatesSubdiv,% Gannett Peak Estates Subdiv;Jobsite,Lander,WY,82520,3073326939,307-332-6939,WY,RES,EDS,y,,,,,"130,000",1,,,,,,,,,
+176,Reliance,Patrick Constr-RelianceWtr,RelianceWtrDist,% Reliance Water Dist Prj;,Rock Springs,WY,82901,3073326939,307-332-6939,WY,RES,EDS,y,,,,,"350,000",1,,,,,,,,,
+177,,Phipps Construction,,4 Sage Hill Rd.;P.O. Box 1032,Glenrock,WY,82637-1032,3074369048,307-436-9047,WY,RES,JBH,y,,,,1/29/2014,"10,000",1,Yes,,"10,214.90",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+178,,Town of Pinedale,,P.O. Box 709;,Pinedale,WY,82941-0709,3073674136,307-367-2578,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/9/2014,"25,000",0,No,,"3,893.80",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+178,Shop,Town of Pinedale,,61 Pinedale South;,Pinedale,WY,82941,3073674136,307-367-2578,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+179,,City of Rawlins,,P.O. Box 953;,Rawlins,WY,82301-0953,3073284561,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/17/2014,"50,000",0,No,,"42,015.50",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+179,Util Div,City of Rawlins,,Utilities Division;915 3rd St.,Rawlins,WY,82301,3073284561,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+179,Wtr Trmt,City of Rawlins,,% Water Treatment Plant;10001 So. Hwy 71,Rawlins,WY,82301,3073284561,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+180,,City of Riverton,,816 No. Federal Blvd.;,Riverton,WY,82501,3078563687,307-856-8270,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/17/2014,"150,000",0,No,,"9,561",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+180,Shop,City of Riverton,,714 W. Monroe Ave;,Riverton,WY,82501,3078563687,307-856-2870,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"100,000",1,,,,,,,,,
+180,Wtr Plnt,City of Riverton,,% Water Plant;1015 No. Hills,Riverton,WY,82501,3078563687,307-856-2870,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+181,,Ronald Kuhn dba Ron's Plumbing,,196 Columbine;P.O. box 50491,Casper,WY,82605-0491,3072354687,,WY,RES,EDS,y,,,,8/28/2013,"2,500",1,Yes,,370.7,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+182,,71 Construction,,P.O. Box 4600;,Casper,WY,82604-4600,3072352922,307-235-3005,WY,RES,EDS,y,,,,1/30/2014,"100,000",1,Yes,,"49,174.10",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+182,LawAcad,71 Construction-LawAcademy,LawEnforceAcademy,% Law Enforcement Adademy;Jobsite,Casper,WY,82601,3072352922,307-235-3005,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+182,NCHS,71 Constructio-NCHS EarlySite,NCHS EarlySite,% NCHS Early Site Jobsite;,Casper,WY,82601,3072352922,307-235-3005,WY,RES,EDS,y,,,,,"20,000",1,,,,,,,,,
+182,Shop,71 Construction,,7072 Barton Dr.;,Casper,WY,82601,3072352922,307-235-3005,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+182,SmylieRd,71 Construction-SmylieRd,SmylieRdSanSwr,% Smylie Road San Swr;Jobsite,Casper,WY,82601,3072352922,307-235-3005,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+183,,City of Sheridan,,Utilities Maintenance;P.O. Box 848,Sheridan,WY,82801-0848,3076720129,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,6/28/2013,"250,000",0,No,,"36,812.41",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+183,Mtr Dept,City of Sheridan,,Meter Dept.;1152 Kroe Lane,Sheridan,WY,82801,3076720129,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+183,RckyHlls,City of Sheridan-RockyHills,Rocky Hills Booster Sta,Utility Department;1152 Kroe Lane,Sheridan,WY,82801,3076720129,,WY,HDL,BRP,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+183,Wtr Trmt,City of Sheridan,,Water Treatment;#6 Soldier Creek,Sheridan,WY,82801,3076720129,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+184,,Town of Shoshoni,,102 East 2nd;P.O. Box 267,Shoshoni,WY,82649-0267,3078762515,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/27/2014,"25,000",0,No,,"2,411.80",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+185,,Town of Sinclair,,300 Lincoln;P.O. Box 247,Sinclair,WY,82334-0247,3073243058,307-324-5520,WY,RES,JBH,n,83-6000092,2,GOVERNMENT-CITY,11/18/2013,"200,000",0,No,,"6,371.56",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+185,West LS,Town of Sinclair-WestLftSta,West Lift Station,% West Lift Station;,Sinclair,WY,82334,3073243058,307-324-5520,WY,HDL,BRP,n,83-6000092,2,GOVERNMENT-CITY,,"150,000",1,,,,,,,,,
+186,,South Cheyenne Wtr & Swr Dist,,215 East Allison;,Cheyenne,WY,82007,3076355608,,WY,MRS,JBH,n,02-0-02737,3,GOVERNMENT-STATE,2/28/2014,"25,000",1,Yes,,"44,355.72",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+187,,South End Water Users District,,868 Lane 10;,Lovell,WY,82431-9607,3075487533,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,8/13/2013,"10,000",1,Yes,,"1,754.50",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+189,,University of Wyoming-Physical,,"Div Physical Plant, Dpt 3227;1000 E. University Ave.",Laramie,WY,82071,3077662266,307-766-4047,WY,HA,HA,n,,10,OTHER/MISC,2/18/2014,"25,000",0,No,,"-1,810.03",N30,Net 30 Days,50,SPECIAL ACCOUNTS GROUP,,2
+189,Mtr Frt,University of Wyoming,,Division of Physical Plant;15th & Lewis,Laramie,WY,82071,3077666555,307-766-4047,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,,"25,000",1,,,,,,,,,
+189,UPS/FdEx,University of Wyoming,,Division of Physical Plant;16th & Gibbon,Laramie,WY,82071,3077666555,307-766-4047,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,,"25,000",1,,,,,,,,,
+190,,Wright Water & Sewer District,,P.O. Box 549;,Wright,WY,82732-0549,3074640491,307-464-0499,WY,MRS,JBH,n,83-0245599,3,GOVERNMENT-STATE,1/28/2014,"150,000",1,Yes,,"257,948.36",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+190,MtrRplc,Wright Wtr & Swr Dst-MtrRplc,WtrMeterRepclmntPrj,% Water Meter Replacement Proj;,Wright,WY,82732,3074640491,,WY,RES,EDS,n,83-0245599,3,GOVERNMENT-STATE,,"275,000",1,,,,,,,,,
+190,Shop,Wright Water & Sewer District,,15009 Highway 387;,Wright,WY,82732,3074640491,,WY,MRS,JBH,n,83-0245599,3,GOVERNMENT-STATE,,"25,000",1,,,,,,,,,
+192,,"Morcon Industrial Specs., Inc.",,P.O. Box 1670;,Evanston,WY,82931-1670,3077896235,307-789-6238,WY,HA,HA,n,WY #19-0-00262,1,RESALE,12/31/2013,"5,000",1,Yes,,"8,422.78",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+192,WY,Morcon Industrial Specs.  Inc.,,34 Allegiance Circle;,Evanston,WY,82930,3077896235,307-789-6238,WY,HDL,BSW,n,WY #19-0-00262,1,RESALE,,0,1,,,,,,,,,
+193,,Town of Mountain View,,405 Hwy 414;P.O. Box  249,Mountain View,WY,82939-0249,3077823100,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/28/2014,"25,000",0,No,,"48,033.50",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+194,,Restoration Ministries,,411 So Walsh;,Casper,WY,82609,3072359100,3072359100,WY,HA,HA,n,#127757,6,RELIGIOUS OR CHARITABLE,10/31/2013,"2,500",0,No,,171.8,N30,Net 30 Days,50,SPECIAL ACCOUNTS GROUP,,2
+200,,"Morton Plumbing, Inc.",,1944 Skyview Dr.;Salt Creek Route,Casper,WY,82601,3072341450,307-234-9332,WY,RES,EDS,y,,,,6/11/2013,"2,500",1,Yes,,544.14,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+201,,"L&L Plumbing, Inc.",,P.O. Box 52;,Dubois,WY,82513-0052,3074553306,,WY,RES,JBH,y,,,,4/15/2013,"2,500",1,Yes,,74,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+201,Shop,"L&L Plumbing, Inc.",,509 Marciana Street;,Dubois,WY,82513,3074553306,,WY,RES,JBH,y,,,,,0,1,,,,,,,,,
+202,,Cottonwood Irrigation District,,% Heidi Shumway;2231 Hwy 241,Afton,WY,83110,3078850321,307-886-0472,WY,MRS,JBH,n,,7,IRRIGATION DISTRICT,11/27/2013,"5,000",1,Yes,,"7,518.50",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+202,Smoot WY,Cottonwood Irrigation District,,% Dale Barnes;888 Cottonwood Lake Rd.,Smoot,WY,83126,3078865460,307-886-0472,WY,MRS,JBH,n,,7,IRRIGATION DISTRICT,,0,1,,,,,,,,,
+203,,Town of Midwest,,531 Peake St.;P.O. Box 190,Midwest,WY,82643-0190,3074376513,307-437-6514,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/30/2014,"25,000",0,No,,"4,118.20",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+204,,City of Powell,,270 No. Clark;,Powell,WY,82435,3077545106,307-754-5385,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/13/2014,"50,000",0,No,,"20,500",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+208,,Town of Meeteetse,,P.O. Box 38;,Meeteetse,WY,82433-0038,3078682278,307-868-2608,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/5/2014,"25,000",0,No,,"10,743.85",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+208,Shop,Town of Meeteetse,Shop,2044 State Street;,Meeteetse,WY,82433,3078682278,307-868-2608,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",0,,,,,,,,,
+209,,Town of Mills,,P.O. Box 789;,Mills,WY,82644-0789,3072651821,307-234-6528,WY,RES,EDS,n,#A-150-891,2,GOVERNMENT-CITY,2/19/2014,"25,000",0,No,,"33,062.36",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+212,,"Moltz Constructors, Inc.",,63 Road 2ABN;P.O. Box 1030,Cody,WY,82414-1030,3075277166,307-587-4357,WY,RES,EDS,y,,,,7/29/2013,"25,000",1,Yes,,"1,643.55",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+213,,"National General Supply, Inc.",,F.E. Warren AFB;P.O. Box 9597,F.E. Warren AFB,WY,82005-9597,3076321627,,WY,HA,HA,n,WY #02-0-04182,1,RESALE,5/16/2013,"10,000",1,Yes,,"1,952",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+215,,National Oilwell - Casper,,Attn:  Accts Payable;555 No. Center,Casper,WY,82601,3072352751,307-235-9003,WY,HA,HA,n,WY #01-0-04897,1,RESALE,2/19/2014,"10,000",1,Yes,,"16,594.45",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+217,,National Oilwell - Gillette,,1704 Phillips Circle;,Gillette,WY,82718-6718,3076829337,307-682-8968,WY,HA,HA,n,WY #17-0-02935,1,RESALE,12/9/2013,"10,000",1,Yes,,259.72,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+224,,Natrona County Internatl Airpo,,8500 Airport Parkway;,Casper,WY,82604,3074726688,,WY,MRS,JEN,n,83-740011K,11,GOVERNMENT-COUNTY,2/20/2014,"10,000",0,No,,"4,955.70",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+224,WtrLine,Natrona County Internatl Airpo,Natrona Cnty Airprt WtrL,% Airport Wtr Line Ext Jobsite;,Casper,WY,82604,3074726688,,WY,MRS,JEN,n,83-740011K,11,GOVERNMENT-COUNTY,,"25,000",1,,,,,,,,,
+231,,"Flogistix - Wyoming, LLC",,P.O. Box 2450;,Oklahoma City,OK,73101,3076820765,307-685-2787,WY,HA,HA,n,WY #17-0-03313,1,RESALE,2/5/2014,"15,000",1,Yes,,"80,288.52",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+231,Shop,"Flogistix - Wyoming, LLC",,1912 Ratcliff Dr.;,Gillette,WY,82716,3076820765,307-685-2787,WY,HA,HA,n,WY #17-0-03313,1,RESALE,,"15,000",1,,,,,,,,,
+233,,Town of Ranchester,,P.O. Box 695;,Ranchester,WY,82839-0695,3076559702,307-655-9702WTP,WY,RES,JBH,n,,2,GOVERNMENT-CITY,12/23/2013,"25,000",0,No,,"11,669.64",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+233,WtrPlnt,Town of Ranchester,,Water Trtmnt Plnt - Attn:Tracy;407 Gillette St.,Ranchester,WY,82839,3076559702,307-655-9702WTP,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+238,,Rissler Plumbing & Heating,,Kurt D. Rissler - Owner;P.O. Box  2411,Casper,WY,82602-2411,3072358999,307-235-8999,WY,RES,EDS,y,,,,9/12/2013,"2,500",1,Yes,,22,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+239,,Riverton Winnelson Company,,P.O. Box 1127;,Dayton,OH,45401,3078560140,307-856-0186,WY,HA,HA,n,WY #10-0-02590,1,RESALE,10/15/2013,"10,000",1,Yes,,"1,450",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+239,Shop,Riverton Winnelson Company,Shop,390 Webbwood Road;,Riverton,WY,82501,3078560140,307-856-0186,WY,HA,HA,n,WY #10-0-02590,1,RESALE,,"10,000",1,,,,,,,,,
+240,,Road Runner Service & Supply,,P.O. Box 2080;,Castle Rock,CO,80104,3037368824,303-736-8831,WY,HA,HA,n,WY #13-0-00657,1,RESALE,11/11/2013,"5,000",1,Yes,,"2,731.80",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+240,Casper,Road Runner Service & Supply,,6299 Old Yellowstone Hwy;,Casper,WY,82604,3072625423,,WY,HA,HA,n,,1,RESALE,,"5,000",1,,,,,,,,,
+240,Douglas,Road Runner Service & Supply,,Bldg 156 - Hwy 59;(Next to Jerry's Welding),Douglas,WY,82633,3073589497,,WY,HA,HA,n,WY #13-0-00657,1,RESALE,,0,1,,,,,,,,,
+241,,Town of Rock River,,321 Ave. D;P.O. Box 280,Rock River,WY,82083-0280,3073782386,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/14/2014,"25,000",0,No,,"9,570.10",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+242,,Rocky Mountain Oilfield WH Inc,,414 So. Elm;,Casper,WY,82601,3072662260,307-266-2261,WY,HA,HA,n,,1,RESALE,7/11/2013,"5,000",1,Yes,,525.74,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+242,RockSprg,Rocky Mountain Oilfield WH Inc,Rock Springs,2901 Killpecker Drive;,Rock Springs,WY,82901,3073822076,307-382-2083,WY,HA,HA,n,,1,RESALE,,"5,000",1,,,,,,,,,
+243,,SST Energy,,8901 West Yellowstone;,Casper,WY,82604,3072353529,,WY,JMK,BSW,y,,,,12/4/2013,"10,000",1,Yes,,"40,641",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+244,,Saint Stephens Indian School,,128 Mission Road;P.O. Box 345,Saint Stephens,WY,82524-0345,3078564147,307-856-3742,WY,HA,HA,n,#32335,6,RELIGIOUS OR CHARITABLE,8/21/2013,"10,000",0,No,,926.5,N30,Net 30 Days,50,SPECIAL ACCOUNTS GROUP,,2
+245,,Salt Creek Joint Powers Board,,P.O. Box 146;,Midwest,WY,82643-0146,3074376513,307-437-6614,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/7/2014,"25,000",0,No,,"4,500",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+245,Shop,Salt Creek Joint Powers Board,Shop,531 Peake St.;,Midwest,WY,82643,3074376513,307-437-6614,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",0,,,,,,,,,
+246,,Scherer Construction LLC,,P.O. Box 50187;,Casper,WY,82602-0187,3072652068,,WY,RES,EDS,y,,,,9/18/2013,"10,000",1,Yes,,464.25,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+248,,"Seminoe Boat Club, Inc.",,P.O. Box 182;,Rawlins,WY,82301-0182,,,WY,MRS,JBH,y,,,,8/21/2013,"2,500",1,Yes,,38,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+249,,SSR Construction Inc.,,12 Big Horn Meadows Drive;,Sheridan,WY,82801,3076726356,307-672-5660,WY,RES,EDS,y,,,,1/21/2014,"100,000",1,Yes,,"3,512",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+249,Shop,SSR Construction Inc.,,12 Big Horn Meadows Drive;,Sheridan,WY,82801,3077516356,307-672-5660,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+250,,Sierra Madre Water & Sewer Dis,,% Town Hall;P.O. Box 263,Riverside,WY,82325-0263,3073283525,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,1/18/2013,"5,000",1,Yes,,16,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+251,,Simon Contractors,,P.O. Box 209;,Cheyenne,WY,82003-0209,3076327900,307-634-2661,WY,RES,EDS,y,,,,2/21/2014,"999,999",1,Yes,,"842,048.34",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+251,BldrDr,Six Points Const-BldrDr,Boulder Drive,% Boulder Drive Jobsite;,Laramie,WY,82070,3076327900,307-634-2661,WY,RES,EDS,y,,,,,"130,000",1,,,,,,,,,
+251,Chy/Prsh,Simon Contr-Chy/PershngBlvd,Chy/PershingBlvd,% Chy/PershingBlvd;,Cheyenne,WY,82001,3076327900,307-634-2661,WY,RES,EDS,y,,,,,"150,000",1,,,,,,,,,
+251,Grove,Simon Contr-TheGrove,The Grove,% The Grove Jobsite;,Laramie,WY,82070,3076327900,307-634-2661,WY,RES,EDS,y,,,,,"250,000",1,,,,,,,,,
+251,Overland,Simon Contr-OvrlndTrl,OvrlndTrlBusPrk,% Overland Trail Business Park;Jobsite,Cheyenne,WY,82001,3076327900,307-634-2661,WY,RES,EDS,y,,,,,"210,000",1,,,,,,,,,
+251,PointeUW,Simon Contr-PointeUW,Pointe at UW,% Pointe at U.W. Jobsite;,Laramie,WY,82073,3076327900,307-634-2661,WY,RES,EDS,y,,,,,"125,000",1,,,,,,,,,
+251,Prsh/19,Simon Contr-Pershng/19th/Conv,E.Pershng/19thSt/ConvAve,% E.Pershing/19thSt/ConvAve.;Imprvmnts Jobsite,Cheyenne,WY,82001,3076327900,307-634-2661,WY,RES,EDS,y,,,,,"250,000",1,,,,,,,,,
+251,Shop,Simon Contractors,,4819 So. Industrial Serv Rd;,Cheyenne,WY,82001,3076327900,307-634-2661,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+251,ShopLara,Simon Contractors,Shop in Laramie,240 Rogers Canyon Road;,Laramie,WY,82070,3076327900,307-634-2661,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+251,SPT Ph2,Simon Contr-SPT  Ph1  Sch6,"SPT, Ph2, Sch6","% SPT, Ph2, Sch6 Jobsite;",Laramie,WY,82073,3076327900,307-634-2661,WY,RES,EDS,y,,,,,"300,000",1,,,,,,,,,
+251,SPT Ph3,Simon Contr-SPT  Ph3  Sch4,"SPT, Ph3, Sch4","% SPT, Ph3, Sch4 Jobsite;",Laramie,WY,82073,3076327900,307-634-2661,WY,RES,EDS,y,,,,,"100,000",1,,,,,,,,,
+251,TurnerSt,Simon Contr-TurnerSt,Turner Street,% Turner Street Jobsite;,Laramie,WY,82070,3076327900,307-634-2661,WY,RES,EDS,y,,,,,"110,000",1,,,,,,,,,
+251,Yard,Simon Contractors-Yard,Simon's Yard,4819 So. Industrial Serv Rd;,Cheyenne,WY,82001,3076327900,307-634-2661,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+252,,City of Lander,,240 Lincoln;,Lander,WY,82520,3073322588,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/24/2014,"25,000",0,No,,"18,561.93",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+252,Wtr Dpt,City of Lander,,% Water Dept.;125 Buena Vista,Lander,WY,82520,3073322588,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+255,,Vista West Water Company,,P.O. Box 565;,Casper,WY,82602-0565,3072349823,307-237-1204,WY,MRS,JEN,y,83-0218005,3,GOVERNMENT-STATE,1/14/2013,"10,000",1,Yes,,84.5,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+256,,Town of Wamsutter,,231 McCormickSt.;P.O. Box 6,Wamsutter,WY,82336-0006,3073280468,307-324-7543,WY,RES,JBH,n,,2,GOVERNMENT-CITY,9/23/2013,"25,000",0,No,,948,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+259,,NOV Wilson - Casper,,Attn:  Accts Payable;P.O. Box 1492,Houston,TX,77251-1492,7132373700,307-237-8528,WY,HA,HA,n,,1,RESALE,12/10/2013,"10,000",1,Yes,,"35,118.31",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+259,Casper,NOV Wilson - Casper,,6577 West Yellowstone Hwy;,Casper,WY,82604,7132373700,,WY,HA,HA,n,,1,RESALE,,0,1,,,,,,,,,
+259,Cheyenne,NOV Wilson - Cheyenne,Cheyenne,2632 Industry Dr;,Cheyenne,WY,82007,7132373700,307-634-7200,WY,RES,EDS,n,,1,RESALE,,"10,000",1,,,,,,,,,
+261,,Wyoming Game & Fish Department,,"3030 Energy Lane, Suite #1;",Casper,WY,82604,,,WY,MRS,JEN,n,,3,GOVERNMENT-STATE,9/13/2013,"25,000",0,No,,28,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+263,,Wyoming Life Resource Center,,8204 So. Hwy 789;,Lander,WY,82520-9499,3073325302,,WY,HA,HA,n,,3,GOVERNMENT-STATE,5/20/2013,"25,000",0,No,,542,N30,Net 30 Days,50,SPECIAL ACCOUNTS GROUP,,2
+263,Shop,Wyoming Life Resource Center,Shop,8204 So. Hwy 789;,Lander,WY,82520-9499,3073325302,,WY,HA,HA,n,,3,GOVERNMENT-STATE,,"25,000",1,,,,,,,,,
+264,,Wyoming Machinery Company,,5300 West Old Yelowstone Hwy;P.O. Box 2335,Casper,WY,82602-2335,3074721000,,WY,HA,HA,n,WY #25-0-00063,1,RESALE,2/27/2014,"10,000",1,Yes,,"2,315",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+271,,High Country Construction Inc.,,2077 No. 2nd St.;P.O. Box 930,Lander,WY,82520-0930,3073324933,,WY,RES,EDS,y,,,,6/10/2013,"10,000",1,Yes,,"1,009.05",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+273,,Gas Drive Global (US) Inc.,,2502 Melodi Lane;,Casper,WY,82605-1150,3072654450,307-265-4295,WY,MRS,BSW,n,WY #01-0-05793,1,RESALE,12/12/2013,"10,000",1,Yes,,"12,412.20",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+273,Shop,Gas Drive Global (US) Inc.,,2502 Melodi Lane;,Casper,WY,82601,3072654450,307-265-4295,WY,MRS,BSW,n,WY #01-0-05793,1,RESALE,,"10,000",1,,,,,,,,,
+274,,Kemmerer-Diamondville Wtr & WW,,Joint Powers Board;P.O. Box 1020,Kemmerer,WY,83101-1020,3078774267,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,7/8/2013,"25,000",0,No,,921,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+274,W.T.P.,Kemmerer-Diamondville Wtr & WW,,% Water Treatment Plant;Pleasant Hill Lane,Frontier,WY,83116,3078774267,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+276,,Leisure Valley Inc.,,dba  Star Valley R.V. Park;P.O. Box 299,Thayne,WY,83127-0299,3078834670,,WY,MRS,JBH,y,,,,9/24/2013,"5,000",1,Yes,,585,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+276,Thayne,Leisure Valley Inc.,,dba  Star Valley R.V. Park;3510 Muddy String Rd.,Thayne,WY,83127-0299,3078834670,,WY,MRS,JBH,y,,,,,0,1,,,,,,,,,
+277,,Leroy Plumbing & Heating,,351 So. Beech St.;P.O. Box 3667,Casper,WY,82602-3667,3072345144,307-234-4251,WY,RES,EDS,y,,,,1/13/2014,"2,500",1,Yes,,0,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+279,,Sinclair Casper Refining Co.,,P.O. Box 367;,Sinclair,WY,82334-0367,3072652800,307-237-8170,WY,JMK,BSW,n,WY #25-0-00361,13,MFG/PROC/CMPNDG,1/22/2014,"25,000",1,Yes,,"7,808.50",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+279,Shop,Sinclair Casper Refining Co.,,5700 East US Hwy 20-26;,Casper,WY,82609,3072652800,307-237-8170,WY,HDL,BSW,n,,13,MFG/PROC/CMPNDG,,0,1,,,,,,,,,
+282,,McMurry Ready Mix Company,,5684 Old West Yellowstone Hwy;P.O. Box 2488,Casper,WY,82604-2488,3074739581,307-235-0144,WY,RES,EDS,y,,,,11/27/2013,"25,000",1,Yes,,"7,365.29",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+285,,Teton Village Water & Sewer,,P.O. Box 586;,Teton Village,WY,83025-0586,3077339231,307-733-5457,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,12/26/2013,"25,000",1,Yes,,"14,419.90",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+285,Shop,Teton Village Water & Sewer,,7020 Rachel Way;,Teton Village,WY,83025,3077339231,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,,"25,000",1,,,,,,,,,
+286,,Town of Thermopolis,,P.O. Box 603;,Thermopolis,WY,82443-0603,3078643556,307-864-5116,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/23/2014,"25,000",0,No,,"25,596",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+287,,City of Torrington,,P.O. Box 250;,Torrington,WY,82240-0250,3075325666,307-532-7108,WY,RES,EDDE,n,,2,GOVERNMENT-CITY,2/28/2014,"50,000",0,No,www.city-of-torrington.org,"15,618.20",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+287,Shop,City of Torrington,Shop,702 City Shop Road;,Torrington,WY,82240,3075325666,307-532-7108,WY,RES,EDDE,n,,2,GOVERNMENT-CITY,,"50,000",0,,www.city-of-torrington.org,,,,,,,
+288,,"Thunder Basin Coal Co., LLC",,Attn:  Accts Payable;P.O. Box 406,Wright,WY,82732-0406,3079391300,307-464-2313,WY,JMK,BSW,n,,1,RESALE,1/24/2014,"250,000",1,Yes,,"4,885.65",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+288,BlkThndr,"Thunder Basin Coal Co., LLC",,Thunder Basin Coal;5669 State Highway 450,Wright,WY,82732,3079391300,307-464-2313,WY,HDL,BSW,n,,1,RESALE,,0,1,,,,,,,,,
+288,Coal Crk,Thunder Basin Coal Co.  LLC,,Coal Creek Mine;195 Hoadley Rd.,Wright,WY,82732,3079391300,307-464-2313,WY,HDL,BSW,n,,1,RESALE,,0,1,,,,,,,,,
+289,,Buckskin Mining Company,,"Kiewit Mining Group, Inc.;P.O. Box 3027",Gillette,WY,82717-3027,3076829144,307-686-5445,WY,JMK,BSW,y,,,,1/27/2014,"50,000",1,Yes,,"8,837.60",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+289,Buckskin,Buckskin Mining Company,,"Kiewit Mining Group, Inc.;9543 No. Hwy #14-16",Gillette,WY,82716,3076865473,307-686-5445,WY,HDL,BSW,y,,,,,0,1,,,,,,,,,
+291,,Knife River Corp. - Casper Div,,P.O. Box 730;,Casper,WY,82602-0730,3072346766,307-234-7211,WY,RES,EDS,y,,,,2/18/2014,"50,000",1,Yes,,"539,182.20",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+291,21st St,Knife River Corp-21st St,21st Street,% 21st Street Jobsite;,Casper,WY,82637,3072346766,307-234-7211,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+291,BarNunLS,Knife River Corp-BarrNunnLS,BarrNunnIndusCntrUtilLS,Granite Peak Development;North of McMurry Blvd,Bar Nunn,WY,82601,3072346766,307-234-7211,WY,HDL,BRP,y,,,,,"35,000",1,,,,,,,,,
+291,Blckmr#2,Knife River Corp-BlckmrPhII,Blackmore PhIIA & IIB,% Blackmore Ph IIA & IIB;Jobsite,Casper,WY,82601,3072346766,307-234-7211,WY,RES,EDS,y,,,,,"30,000",1,,,,,,,,,
+291,BuffWngs,Knife River Corp-BuffWldWings,Buffalo Wild Wings,% Buffalo Wild Wilds;,Casper,WY,82601,3072346766,307-234-7211,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+291,KRC,Knife River Corp-KRC BtchPlnt,KRC BatchPlant,% KRC Batch Plant Jobsite;,Casper,WY,82601,3072346766,307-234-7211,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+291,Marshlls,Knife River Corp-Marshalls,Marshalls Imrpvmnts,% Marshalls Imprvmnts Jobsite;,Casper,WY,82601,3072346766,307-234-7211,WY,RES,EDS,y,,,,,"40,000",1,,,,,,,,,
+291,Reshaw,Knife River Corp-Reshaw,Reshaw Addition,% Reshaw Addition Jobsite;,Evansville,WY,82636,3072346766,307-234-7211,WY,RES,EDS,y,,,,,"200,000",1,,,,,,,,,
+291,Shop,Knife River Corp-Casper Div,Shop,1461Bryan Stock Trail;,Casper,WY,82601,3072346766,307-234-7211,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+291,VistaHls,Knife River Corp-VistaHills3&4,Vista Hills Ph 3&4,% Vista Hills Ph 3&4 Jobsite;,Casper,WY,82601,3072346766,307-234-7211,WY,RES,EDS,y,,,,,"275,000",1,,,,,,,,,
+293,,Town of Jackson,,P.O. Box 1687;,Jackson,WY,83001-1687,3077333932,307-739-0919,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/6/2014,"50,000",0,No,,"15,210.40",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+293,Shop,Town of Jackson,,% Town Shop;450 Snow King,Jackson,WY,83001,3077333932,307-739-0919,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,0,1,,,,,,,,,
+296,,Jim's Water Service,,P.O. Box 2290;,Gillette,WY,82717-2290,3076824051,307-686-2776,WY,MRS,JBH,y,,,,11/19/2013,"2,500",1,Yes,,808.32,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+296,Casper,Jim's Water Service,,1328 English Ave.;,Casper,WY,82601,3076824051,307-686-2776,WY,MRS,JBH,y,,,,,"2,500",1,,,,,,,,,
+296,Gillette,Jim's Water Service,,205 Newton Road;,Gillette,WY,82717,3076824051,307-686-2776,WY,MRS,JBH,y,,,,,"2,500",1,,,,,,,,,
+297,,John's Pump Service (WS),,P.O. Box 1027;,Torrington,WY,82240-1027,3075323099,,WY,HA,HA,n,,1,RESALE,8/2/2013,"10,000",1,Yes,,"2,245.69",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+300,,Wardwell Water & Sewer Dist.,,P.O. Box 728;,Mills,WY,82644-0728,3072657034,,WY,MRS,JEN,n,,3,GOVERNMENT-STATE,1/23/2014,"10,000",1,Yes,,"25,740.70",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+301,,Pro-Kote Engineering & Sply Co,,590 Circle Dr.;,Casper,WY,82601,3072372730,307-266-2995,WY,HA,HA,n,WY #01-0-00334,1,RESALE,2/24/2014,"2,500",1,Yes,,58,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+303,,Town of Moorcroft,,P.O. Box 70;,Moorcroft,WY,82721-0070,3077563526,307-756-3323,WY,RES,DCC,n,,2,GOVERNMENT-CITY,2/7/2014,"50,000",0,No,,"9,704",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+305,,"Wyoming Service & Supply, Inc.",,207 Mesa Dr.;P.O. Box 2508,Rock Springs,WY,82902-2508,3073822717,307-382-6077,WY,HA,HA,n,WY #04-0-01906,1,RESALE,2/12/2014,"25,000",1,Yes,,"8,560.34",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+307,,Oregon Trail Veterans Cemetery,,P.O. Box 669;,Evansville,WY,82636-0669,3072356673,,WY,HA,HA,n,,3,GOVERNMENT-STATE,7/15/2013,"2,500",0,No,,917,N30,Net 30 Days,50,SPECIAL ACCOUNTS GROUP,,2
+307,Casper,Oregon Trail Veterans Cemetery,,1328 English Ave.;,Casper,WY,82601,3072356673,,WY,RES,EDS,n,,3,GOVERNMENT-STATE,,0,1,,,,,,,,,
+308,,White Mountain Wtr & Swr Dist,,P.O. Box 2221;,Rock Springs,WY,82902-2221,3073623937,307-382-8348,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,1/10/2014,"10,000",1,Yes,,"17,694.90",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+308,Shop,White Mountain Wtr & Swr Dist,Shop,54 Gannet Ave.;,Rock Springs,WY,82901,3073623937,307-382-8348,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,,"10,000",1,,,,,,,,,
+309,,Washakie Rural Imprv/Serv Dist,,P.O. Box 212;,Worland,WY,82401-0212,3073474987,,WY,MRS,JBH,n,IN PROGRESS,3,GOVERNMENT-STATE,2/25/2014,"5,000",1,Yes,,"10,683",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+309,Shop,Washakie Rural Imprv/Serv Dist,,1100 North 10th Street;,Worland,WY,82401,3073474987,,WY,MRS,JBH,n,IN PROGRESS,3,GOVERNMENT-STATE,,"5,000",1,,,,,,,,,
+310,,Salt Creek Supply Company,,P.O. Box 467;,Edgerton,WY,82635-0467,,,WY,HA,HA,n,WY #01-0-03930,1,RESALE,2/18/2014,"1,000",1,Yes,,632,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+310,Casper,Salt Creek Supply Company,,1328 English Ave.;,Casper,WY,82601,,,WY,HA,HA,n,WY #01-0-03930,1,RESALE,,0,1,,,,,,,,,
+311,,Centennial Water & Sewer Dist.,,P.O. Box  185;,Centennial,WY,82055-0185,3077425629,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,11/25/2013,"20,000",1,Yes,,"17,238",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+311,Laramie,Centennial Water & Sewer Dist.,,14 Fox Creek Road;,Laramie,WY,82070,3077425629,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,,0,1,,,,,,,,,
+313,,Pleasantview Water District,,P.O. Box 443;,Mills,WY,82644-0443,3072351120,,WY,MRS,JEN,y,,,,12/30/2013,"2,500",1,Yes,,"6,017.50",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+316,,Hutch's Hi-Country Plmbg & Htg,,413 North Washington;,Casper,WY,82601,3072358060,307-237-5186,WY,RES,EDS,y,,,,1/7/2014,"2,500",1,Yes,,794.5,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+318,,Town of Hartville,,P.O. Box A;,Hartville,WY,82215,3078362288,307-836-2288,WY,RES,JBH,n,,2,GOVERNMENT-CITY,11/12/2013,"50,000",0,No,,"34,421.50",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+318,Shop,Town of Hartville,Shop,136 West Main St;,Hartville,WY,82215,3078362288,307-836-2288,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"50,000",0,,,,,,,,,
+323,,Town of Lusk,,P.O. Box 390;,Lusk,WY,82225-0390,3073343612,307-334-2154,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/13/2014,"25,000",0,No,,"3,866",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+323,Shop,Town of Lusk,,201 East 3rd St.;,Lusk,WY,82225,3073343612,307-334-2154,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+328,,Mormon Handcart Visitors Cente,,47600 West Hwy 220;,Alcova,WY,82620,3073282953,307-324-5218,WY,MRS,JEN,n,,6,RELIGIOUS OR CHARITABLE,8/15/2013,"10,000",1,Yes,,"1,018.60",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+329,,Sherman & Jane Drake,,dba Drake Land & Livestock FLP;16550 W  Hwy 220,Casper,WY,82604,3072654539,307-265-3169,WY,MRS,JEN,y,,,,5/21/2013,"10,000",1,Yes,,"20,213.79",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+330,,"Mobile Concrete Company, Inc.",,P.O. Box 1119;,Casper,WY,82602-1129,3072379333,307-237-5721,WY,RES,EDS,y,,,,1/24/2013,"10,000",1,Yes,,136,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+332,,"Master's Construction, Inc.",,2762 So. McKinley St.;,Casper,WY,82601,3072372693,307-237-3189,WY,RES,EDS,y,,,,9/10/2013,"5,000",1,Yes,,9,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+333,,"Miracle Plumbing, Inc.",,826 West Midwest;,Casper,WY,82601,3072345315,307-234-6293,WY,RES,EDS,y,,,,9/13/2013,"5,000",1,Yes,,157.65,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+333,Shop,"Miracle Plumbing, Inc.",Shop,826 West Midwest;,Casper,WY,82601,3072345315,307-234-6293,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+334,,Dry Fork Coal Company,,3629 No Garner Lake Rd;,Gillette,WY,82716,3076822839,307-682-6468,WY,JMK,BSW,y,,,,1/14/2014,"50,000",1,Yes,,"12,582.13",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+334,GrnrLkRd,Dry Fork Coal Company,,3629 No Garner Lake Rd;,Gillette,WY,82716,3076822839,307-682-6468,WY,PMP,BSW,y,,,,,"50,000",1,,,,,,,,,
+340,,Clearview Improvement & Serv D,,P.O. Box 2634;,Rock Springs,WY,82902-2634,3073621140,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,1/10/2014,"10,000",1,Yes,,399,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+340,Shop,Clearview Improvement & Serv D,Shop,117 Mountain View Drive;,Rock Springs,WY,82902,3073621140,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,,"10,000",1,,,,,,,,,
+341,,Unit Corporation - Sauer Drlg,,5710 West Yellowstone;,Casper,WY,82604-1924,3074727020,,WY,JMK,BSW,y,,,,1/24/2014,"10,000",1,Yes,,"10,973.55",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+342,,Town of Saratoga,,P.O. Box 486;,Saratoga,WY,82331-0486,3073268124,307-326-8941,WY,RES,JBH,n,A-198433,2,GOVERNMENT-CITY,1/17/2014,"25,000",0,No,,"11,860.60",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+342,Shop,Town of Saratoga,,% Town Shop;303 South River,Saratoga,WY,82331,3073268124,307-326-8941,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+343,,Advanced Heating & Plumbing,,7600 Riverside Drive;,Casper,WY,82604-9302,3072658078,,WY,RES,EDS,n,WY #01-0-02608,1,RESALE,10/10/2013,"5,000",1,Yes,,"4,686.15",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+345,,"Bob's Plumbing & Heating, Inc.",,1172 Prairie Breeze Lane;,Burns,WY,82053,3076322878,307-634-7103,WY,RES,EDS,y,,,,1/14/2014,"10,000",1,Yes,,482.2,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+345,ABC Sdng,Bob's Plumbing-ABC Siding Chyn,ABC Siding in Cheyenne,% ABC Siding Jobsite;Ridge Road & Nation Way,Cheyenne,WY,82001,3076322878,307-634-7103,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+347,,PacifiCorp,,Attn:  Accts Payable;P.O. Box 3040,Portland,OR,97208-3040,5038136701,,WY,JMK,BSW,y,,,,1/14/2014,"50,000",1,Yes,,"32,065.20",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+347,DaveJhns,PacifiCorp,,% Dave Johnston Plant;1591 Tank Farm Road,Glenrock,WY,82637,3074362103,307-436-2022,WY,HDL,BSW,y,,,,,"50,000",1,,,,,,,,,
+347,JimBrdgr,PacifiCorp,,% Jim Bridger Power Plant;9 Miles No. of Point of Rocks,Point of Rocks,WY,82942,,,WY,HDL,BSW,y,,,,,"50,000",1,,,,,,,,,
+347,Wyodak,PacifiCorp,,% Wyodak Plant;48 Wyodak Road,Gillette,WY,82716,3076874281,,WY,HDL,BSW,y,,,,,"50,000",1,,,,,,,,,
+351,,W. N. McMurry Construction,,P.O. Box 50710;,Casper,WY,82605-0710,3074722908,307-235-1485,WY,RES,EDS,y,,,,12/30/2013,"2,500",1,Yes,,888.75,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+351,Shop,W. N. McMurry Construction,,5880 Enterprises Drive;,Casper,WY,82609,3074722908,307-235-3930,WY,RES,EDS,y,,,,,"2,500",1,,,,,,,,,
+352,,Town of Superior,,P.O. Box 40;,Superior,WY,82945-0040,3073628173,,WY,RES,JBH,n,WY #04-0-02579,2,GOVERNMENT-CITY,2/18/2014,"25,000",0,No,,54,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+352,Shop,Town of Superior,,27 Front St.;,Superior,WY,82945,3073628173,307-362-8173,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+354,,McJunkin Red Man Corporation,,Attn: Invoice Auditing Dept;P.O. Box 513,Charleston,WV,25322-0513,3043485298,,WY,HA,HA,n,WY #04-0-00658,1,RESALE,2/27/2014,"10,000",1,Yes,,"41,290.74",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+354,RckSprgs,McJunkin Red Man Corp #___,Rock Springs,2851 Yellowstone Road;,Rock Springs,WY,82901,,,WY,HA,HA,n,WY #04-0-00658,1,RESALE,,"10,000",1,,,,,,,,,
+354,Riverton,McJunkin Red Man Corp #246,Riverton,25 Country Acres Road;,Riverton,WY,82501,,,WY,HA,HA,n,WY #,1,RESALE,,"10,000",1,,,,,,,,,
+360,,Pioneer Irrigation Company,,7750 33 Mile Road;,Casper,WY,82604-9590,3074720815,,WY,HA,HA,n,WY #01-0-02088,1,RESALE,5/23/2013,"5,000",1,Yes,,205.65,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+361,,Wyoming Dept of Transportation,,5300 Bishop Blvd.;,Cheyenne,WY,82009-3340,3077774395,,WY,HA,HA,n,,3,GOVERNMENT-STATE,5/21/2013,"100,000",0,No,,56,N30,Net 30 Days,50,SPECIAL ACCOUNTS GROUP,,2
+361,Rawlins,WY Department of Transportatio,,915 3rd Street;,Rawlins,WY,82301,,,WY,HA,HA,n,,3,GOVERNMENT-STATE,,"25,000",1,,,,,,,,,
+362,,City of Casper Parks Dept.,,"1800 East ""K"" Street;",Casper,WY,82601,3072358283,,WY,RES,EDS,n,,2,GOVERNMENT-CITY,10/7/2013,"25,000",0,No,,"2,070",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+364,,South Big Horn County Wtr Dist,,Joint Powers Board;P.O. Box 599,Basin,WY,82410-0599,3072722902,307-568-9352,WY,MRS,JBH,n,83-0309615,3,GOVERNMENT-STATE,12/12/2013,"10,000",1,Yes,,"11,577",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+364,Shop,South Big Horn County Wtr Dist,,Joint Powers Board;209 South 4th St.,Basin,WY,82410,3072722902,307-568-9352,WY,MRS,JBH,n,83-0309615,3,GOVERNMENT-STATE,,0,1,,,,,,,,,
+366,,Bureau of Land Management,,"1701 East ""E"" Street;",Casper,WY,82601,3072617640,307-234-1525,WY,MRS,JEN,n,,4,GOVERNMENT-FEDERAL,8/2/2013,"25,000",0,No,,258,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+367,,Toolpushers Supply Co.,,361 No. Warehouse Road;P.O. Box 1714,Casper,WY,82602-1714,3072660392,,WY,HA,HA,n,WY #25-0-01056,1,RESALE,2/3/2014,"10,000",1,Yes,,"2,750.17",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+369,,Fremont County School Dist #6,,P.O. Box 10;,Pavillion,WY,82523-0010,3078567970,307-856-3385,WY,MRS,JBH,n,,11,GOVERNMENT-COUNTY,8/21/2013,"10,000",0,No,,"1,300.90",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+369,CherrySt,Fremont County School Dist #6,,223 Cherry St.;,Pavillion,WY,82523,3078567970,307-856-3385,WY,MRS,JBH,n,,11,GOVERNMENT-COUNTY,,"50,000",1,,,,,,,,,
+370,,Sinclair Transportation,,P.O. Box 185;,Sinclair,WY,82334-0185,3073242636,307-328-3571,WY,JMK,BSW,y,,,,2/19/2014,"25,000",1,Yes,,"8,257.28",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+370,Casper,Sinclair Transporation,,1328 English Ave.;,Casper,WY,82601,3073242636,307-328-3571,WY,HDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+370,Shop,Sinclair Transportation,,100 East Washington St.;,Sinclair,WY,82334,3073242636,307-328-3571,WY,HDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+371,,Foster D. White,,dba White Excavation & Constr;5600 Chaparral Drive,Laramie,WY,82070,3077427176,,WY,RES,EDS,y,,,,10/11/2013,"2,500",1,Yes,,597.25,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+377,,Old Baldy Club - Subdiv of Old,,Baldy Corp. ---  East Pic Pike;P.O. Box 707,Saratoga,WY,82331-0707,3073265222,,WY,MRS,JBH,y,,,,5/30/2013,"5,000",1,Yes,,248,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+382,,Valentine Construction,,P.O. Box 490;,Glenrock,WY,82637-0490,3074362465,,WY,RES,JBH,y,,,,6/13/2013,"10,000",1,Yes,,392,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+382,Casper,Valentine Construction,,1328 English Ave.;,Casper,WY,82601,3074362465,,WY,RES,JBH,y,,,,,"10,000",1,,,,,,,,,
+387,,Wyoming National Guard,,Camp Guernsey;P.O. Boix 399,Guernsey,WY,82214,3078362823,,WY,HA,HA,n,,3,GOVERNMENT-STATE,6/10/2013,"25,000",0,No,,"4,950",N30,Net 30 Days,50,SPECIAL ACCOUNTS GROUP,,2
+387,Shop,Wyoming National Guard,Shop,Camp Guernsey;601 Birdger Ave.,Guernsey,WY,82214,3078362823,,WY,HA,HA,n,,3,GOVERNMENT-STATE,,"25,000",0,,,,,,,,,
+388,,Town of Lyman,,100 East Sage St.;P.O. Box 300,Lyman,WY,82937-0300,3077864898,307-787-6100,WY,RES,JBH,n,83-0210232,2,GOVERNMENT-CITY,1/31/2014,"25,000",0,No,,"30,583.25",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+389,,Pronghorn Pump LLC,,Scott P. Blakeley - Owner;2 Meadow Lane,Evansville,WY,82636,3074368513,307-436-2828,WY,HA,HA,n,13-0-01251,1,RESALE,4/11/2013,"2,500",1,Yes,,575,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+394,,Western Sugar Company,,Attn:  Accts Payable;400 Great Western Ave.,Lovell,WY,82431,3075485019,307-548-2662,WY,JMK,BSW,y,,,,9/19/2013,"10,000",1,Yes,,139.01,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+394,LvlFctry,Western Sugar Company,,400 Great Western Ave.;,Lovell,WY,82431,3075485019,307-548-2662,WY,HDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+395,,L.M. Olson Construction Inc.,,902 Hagley;P.O. Box 979,Rawlins,WY,82301-0979,3073247151,307-324-6278,WY,RES,EDS,y,,,,7/2/2013,"5,000",1,Yes,,180,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+396,,EST Construction & Equipment,,P.O. Box 997;,Fort Washakie,WY,82514-0997,3073323118,307-332-6712,WY,RES,EDS,n,,4,GOVERNMENT-FEDERAL,3/13/2013,"10,000",1,Yes,,"2,020.20",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+399,,33 Mile Improvement & Serv Dis,,P.O. Box 3013;,Mills,WY,82644,,3072371581,WY,MRS,JEN,n,83-0330062,3,GOVERNMENT-STATE,2/27/2014,"2,500",1,Yes,,0,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+403,,Mills Springs Ranch,,Rocky Mnt Conference - 7th Day;8748 Overland Road,Ward,CO,80481-9531,3072352022,303-733-1843,WY,HA,HA,n,#127757,6,RELIGIOUS OR CHARITABLE,1/17/2013,"5,000",0,No,,66,N30,Net 30 Days,50,SPECIAL ACCOUNTS GROUP,,2
+404,,Old Faithful Fire Sprinkler In,,P.O. Box 2915;,Jackson,WY,83001-2915,3077390608,307-739-0608,WY,RES,JBH,y,,,,11/4/2013,"20,000",1,Yes,,"1,539.50",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+404,Shop,Old Faithful Fire Sprinkler In,,1025 So. Highway 89;,Jackson,WY,83001,3077390608,,WY,RES,JBH,y,,,,,"20,000",1,,,,,,,,,
+406,,City Service Electric Co. Inc.,,1919 East Yellowstone;P.O. Box 2714,Casper,WY,82602-2714,3072650659,307-265-0664,WY,RES,EDS,y,,,,7/18/2013,"1,000",1,Yes,,129,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+407,,Cowboy Electric Service & Sale,,"Double J Bar BE, Inc.;P.O. Box 2728",Mills,WY,82644-2728,3072663426,307-266-3096,WY,HA,HA,n,WY #01-0-02183,1,RESALE,6/4/2013,"1,000",1,Yes,,"1,767.95",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+407,Mills,Cowboy Electric Service & Sale,,"Double J Bar BE, Inc.;615 SW Wyoming Blvd.",Mills,WY,82644,3072663426,307-266-3096,WY,HA,HA,n,WY #01-0-02183,1,RESALE,,0,1,,,,,,,,,
+413,,D & A Construction,,216 So. 4th St.;P.O. Box 1328,Thermopolis,WY,82443-1328,3078645142,,WY,RES,EDS,y,,,,12/3/2013,"30,000",1,Yes,,"4,713.90",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+415,,Lucern Water & Sewer District,,918 Nakamura Lane;,Thermopolis,WY,82443-9486,3078645659,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,11/15/2013,"10,000",1,Yes,,"1,499.50",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+418,,"Town & Country Plumbing, Inc.",,P. O. Box 340;,Burns,WY,82053,3075473579,307-547-3579,WY,RES,EDS,y,WY #02-0-00619,,,2/7/2014,"999,999",1,Yes,,"42,920",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+418,2013Well,Town & Cntry Plbg-2013WellRe,2013Well Rehab,% 2013 Well Rehab Jobsite;,Cheyenne,WY,82001,3075473579,307-547-3579,WY,RES,EDS,y,WY #02-0-00619,,,,"60,000",1,,,,,,,,,
+418,RoundTop,Town & Cntry Plbg-RoundTopHypo,RoundTopHypo,% Round Top Hypochlorite;Jobsite,Cheyenne,WY,82001,3075473579,307-547-3579,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+418,Shop,"Town & Country Plumbing, Inc.",Shop,145 South Main;,Burns,WY,82053,3075473579,307-547-3579,WY,RES,EDS,y,WY #02-0-00619,,,,"10,000",1,,,,,,,,,
+418,WellRehb,Town & Cntry Plbg-Well Rehab,Well Rehab Chyn,% Well Rehab Jobsite;,Cheyenne,WY,82001,3075473579,307-547-3579,WY,RES,EDS,y,WY #02-0-00619,,,,"80,000",1,,,,,,,,,
+427,,Shoshone Municipal Pipeline,,50 Agua Via;P.O. Box 488,Cody,WY,82414-0488,3075276492,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,1/24/2014,"10,000",1,Yes,,"11,373",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+434,,Town of Upton,,725 2nd Street;P.O. Box 203,Upton,WY,82730-0203,3074682441,307-468-2441,WY,RES,JBH,n,21-0-00034,2,GOVERNMENT-CITY,9/26/2013,"25,000",0,No,,"5,475.30",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+437,,Wayne M. Coleman Constr**COD**,,P.O. Box 2440;,Mills,WY,82644-2440,3072653158,307-265-3159,WY,RES,EDS,y,,,,1/28/2014,"20,000",1,Yes,,"15,887.20",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+437,33 Mile,Wayne M. Coleman Constr. Inc.,33 Mile Pump Station,% 33 Mile Pump Station Jobsite;,Casper,WY,82601,3072653158,307-265-3159,WY,RES,EDS,y,,,,,"20,000",1,,,,,,,,,
+437,Casper,Wayne M. Coleman Constr. Inc.,,1898 Melodi Lane;,Casper,WY,82601,3072653158,307-265-3159,WY,RES,EDS,y,,,,,"1,000",1,,,,,,,,,
+439,,"Power Service, Inc.",,P.O. Box 2870;,Casper,WY,82602-2870,3074727722,307-472-7726,WY,HA,HA,n,WY #01-0-00829,1,RESALE,2/24/2014,"25,000",1,Yes,,"44,177.85",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+439,GrnRiver,"Power Service, Inc.",,595 Uinta Drive;,Green River,WY,82935,3078755200,307-875-5222,WY,HA,HA,n,WY #01-0-00829,1,RESALE,,"15,000",1,,,,,,,,,
+439,Shop,"Power Service, Inc.",,5625 West Yellowstone Hwy;,Casper,WY,82601,3074727722,307-472-7726,WY,HA,HA,n,WY #01-0-00829,1,RESALE,,"25,000",1,,,,,,,,,
+442,,"Nalco Fab-Tech, LLC",,P.O. Box 790;,Casper,WY,82602-7910,3074729740,307-472-9743,WY,HA,HA,n,WY #01-0-10031,1,RESALE,2/11/2014,"10,000",1,Yes,,"25,720.89",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+442,Shop,"Nalco Fab-Tech, LLC",Shop,4500 33 Mile Road;,Casper,WY,82604,3074729740,307-472-9743,WY,HA,HA,n,WY #01-0-10031,1,RESALE,,"10,000",1,,,,,,,,,
+445,,Town of Yoder,,P.O. Box 158;,Yoder,WY,82244-0158,3075324304,,WY,RES,JBH,n,83-0247853,2,GOVERNMENT-CITY,8/16/2013,"50,000",0,No,,"1,541.50",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+454,,Archer Construction Inc.,,"409 West Adams, Suite D;",Riverton,WY,82501,3078565066,307-856-5064,WY,RES,EDS,y,,,,2/28/2014,"10,000",1,Yes,,"3,332.40",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+454,RvrtnSts,Archer Const-WYDOT RvrtnSts,WYDOT RvrtnSts,% WYDOT Rivertons Streets;Monroe & Federal Jobsite,Riverton,WY,82501,3078565066,307-856-5064,WY,RES,EDS,y,,,,,"150,000",1,,,,,,,,,
+454,Shop,Archer Construction Inc.,Shop,"409 West Adams, Suite D;",Riverton,WY,82501,3078565066,307-856-5064,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+458,,"Alpha Coal West, Inc.-Belle",,Attn: Accounts Payable;P.O. Box 2345,Abingdon,VA,24212-2345,3076873428,276-739-4619,WY,JMK,BSW,y,,,,10/18/2013,"50,000",1,Yes,,"4,030.10",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+458,BelleAyr,"Alpha Coal West, Inc.-Belle",,Belle Ayr Mine-Cntrl Dist Cntr;3205 South Hwy 59,Gillette,WY,82718,3076873428,2767-329-4619,WY,HDL,BSW,y,,,,,"50,000",1,,,,,,,,,
+459,,"Alpha Coal West, Inc.-Eag",,Attn:  Accounts Payable;P.O. Box 2345,Abingdon,VA,24212-2345,3076873356,276-739-4619,WY,JMK,BSW,y,,,,11/21/2013,"50,000",1,Yes,,"9,684",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+459,EagleBut,"Alpha Coal West, Inc.-Eagle",,Eagle Butte Mine-Cntrl Dist Cn;3205 South Hwy 59,Gillette,WY,82718,3076873356,276-739-4619,WY,HDL,BSW,y,,,,,"50,000",1,,,,,,,,,
+465,,"Brake Supply Company, Inc.",,5501 Foundation Blvd.;,Evansville,IN,47725-7652,3072662900,307-266-1633,WY,HA,HA,n,WY #01-0-05631,1,RESALE,12/16/2013,"10,000",1,Yes,,"1,578.65",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+465,Casper,"Brake Supply Company, Inc.",,1275 No 6 Mile Road;,Casper,WY,82604,3072662900,307-266-1633,WY,HA,HA,n,WY #01-0-05631,1,RESALE,,"10,000",1,,,,,,,,,
+466,,Kennecott Uranium Company,,P.O. Box 1500;,Rawlins,WY,82301-1500,,,WY,JMK,BSW,y,,,,4/12/2013,"50,000",1,Yes,,841,2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+466,Rawlins,Kennecott Uranium Company,,42 Miles Northwest of Rawlins;,Rawlins,WY,82301,,,WY,HDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+468,,D. C. Drilling (WS),,P.O. Box 749;,Lusk,WY,82225-0749,3073342196,,WY,MRS,MRS,y,,,,1/31/2014,"5,000",1,Yes,,"2,481",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+468,Shop,D. C. Drilling (WS),Shop,220 So. Elm St.;,Lusk,WY,82225,3073342196,,WY,MRS,MRS,y,,,,,"5,000",1,,,,,,,,,
+470,,Russell Construction,,P.O. Box 319;,Douglas,WY,82633-0319,3073583788,,WY,RES,EDS,y,,,,12/17/2013,"55,000",1,Yes,,193,2%,2%10/Pipe30,10,CONTRACTOR/UTILITY SYS,,2
+472,,Casper Country Club,,4149 East Country Club Rd;,Casper,WY,82609,3072355777,307-265-7538,WY,MRS,JEN,y,,,,1/29/2013,"10,000",1,Yes,,882.5,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+478,,Piping Specialties Company,,68 Uinta Drive;P.O. Box 909,Green River,WY,82935-0909,3078759868,,WY,HA,HA,n,WY #04-0-00164,1,RESALE,12/18/2013,"10,000",1,Yes,,"2,800.70",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+480,,Town of Medicine Bow,,P.O. Box 156;,Medicine Bow,WY,82329-0156,3073792225,307-379-2210,WY,RES,JBH,n,WY #06-0-00963,2,GOVERNMENT-CITY,2/26/2014,"150,000",0,No,,0,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+480,Shop,Town of Medicine Bow,,319 Pine St.;,Medicine Bow,WY,82329,3073792225,307-379-2210,WY,RES,JBH,n,WY #06-0-00963,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+486,,"J. Moreno, Inc.**COD**",,P.O. Box 1538;,Laramie,WY,82073-1538,3077458821,307-745-5733,WY,RES,EDS,y,,,,5/31/2013,"25,000",1,Yes,,600,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+486,Shop,"J. Moreno, Inc.",,2115 Vista Drive;,Laramie,WY,82073,3077458821,307-745-5733,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+488,,"Nucor, Inc.",,4424 Skylane Ave.;P.O. Box 112,Riverton,WY,82501-0112,3078561577,307-857-6631,WY,JMK,BSW,y,,,,9/18/2013,"10,000",1,Yes,,"4,082",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+491,,Toolpushers Supply Co.,,3105 So. Four J Road;P.O. Box 3419,Gillette,WY,82717-3419,3072379301,307-686-6050,WY,HA,HA,n,,1,RESALE,2/11/2014,"10,000",1,Yes,,"4,831.50",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+493,,"Compression Leasing Serv, Inc.",,1935 North Loop;P.O. Box 1629,Casper,WY,82602-1629,3072653242,307-265-3221,WY,HA,HA,n,WY #01-0-05774,1,RESALE,1/27/2014,"10,000",1,Yes,,436.9,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+494,,Sandy Lake Estates Water,,604 So Wolcott;,Casper,WY,82601,3072684060,,WY,MRS,JEN,y,,,,11/14/2013,"2,500",1,Yes,,"6,916.50",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+495,,Water System Drilling Inc (WS),,P.O. Box 368;,Gillette,WY,82717,3076861747,307-687-0408,WY,MRS,MRS,y,,,,1/29/2014,"1,000",1,Yes,,"6,489",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+495,Shop,Water System Drilling Inc (WS),,6300 Hitt Blvd.;,Gillette,WY,82718,3076861747,307-687-0408,WY,MRS,MRS,y,,,,,"1,000",1,,,,,,,,,
+496,,"The Powder Horn, LLC",,51 Powder Horn Road;,Sheridan,WY,82801,3076749545,,WY,MRS,JBH,y,,,,11/4/2013,"10,000",1,Yes,,"11,651.03",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+498,,Intermountain Construction,,P.O. Box 2469;,Gillette,WY,82717-2469,3076828407,307-686-6433,WY,RES,EDS,y,,,,3/28/2013,"50,000",1,Yes,,"13,368.27",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+498,Gillette,Intermountain Construction,,209 North Limestone Ave.;,Gillette,WY,82716,3076828407,307-686-6433,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+500,,Lance Creek Water & Sewer Dist,,P.O. Box 331;,Lance Creek,WY,82222,3073342942,,WY,MRS,JBH,y,,,,4/19/2013,"2,500",1,Yes,,198,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+500,Shop,Lance Creek Water & Sewer Dist,,203 V5 Hilltop Road;,Lance Creek,WY,82222,3073342942,,WY,MRS,JBH,y,,,,,"2,500",1,,,,,,,,,
+507,,Cole Creek Sheep Company,,P.O. Box 2945;,Casper,WY,82602-2945,3072661599,307-235-6474,WY,MRS,JEN,y,,,,1/21/2014,"10,000",1,Yes,,"9,195",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+507,Shop,Cole Creek Sheep Company,Shop,"139 W. 2nd Street, Ste. 3E;",Casper,WY,82601,3072661599,307-235-6474,WY,MRS,JEN,y,,,,,"10,000",1,,,,,,,,,
+510,,City of Cheyenne Sanitation Dp,,2104 O'Neil Ave.;,Cheyenne,WY,82001,3076376440,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,4/5/2013,"25,000",0,No,,"5,063.02",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+515,,Valley Plumbing & Heating,,1701 Main Street;,Torrington,WY,82240,3075327195,307-532-4529,WY,RES,JBH,n,WY #07-0-01136,1,RESALE,9/17/2013,"50,000",1,Yes,,"24,220.75",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+515,Shop,Valley Plumbing & Heating,Shop,1701 Main Street;,Torrington,WY,82240,3075327195,307-532-4529,WY,RES,JBH,n,WY #07-0-01136,1,RESALE,,"5,000",1,,,,,,,,,
+515,Well #5,Valley Plmbg & Htg-Well#5,Well #5 & Well House,% Well #5& Well House;Jobsite,Yoder,WY,82244,3075327195,307-532-4529,WY,RES,JBH,n,WY #07-0-01136,1,RESALE,,"35,000",1,,,,,,,,,
+517,,Ten Mile Water & Sewer Dist.,,P.O. Box 1626;,Rock Springs,WY,82902-1626,,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,1/14/2013,"5,000",1,Yes,,200,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+517,Shop,Ten Mile Water & Sewer Dist.,Shop,% Keith Hester;340 Fairview Lane,Rock Springs,WY,82902,,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,,0,1,,,,,,,,,
+518,,Natrona County School Dist #1,,970 No Glenn Road;,Casper,WY,82601,3075770289,,WY,MRS,JEN,n,,11,GOVERNMENT-COUNTY,10/24/2013,"10,000",0,No,,384,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+519,,South of Laramie Wtr & Swr Dis,,2461 County Shop Road;,Laramie,WY,82070,3077428955,307-742-8955,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,2/28/2014,"10,000",1,Yes,,"2,042",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+521,,Ranchers Supply,,222 So. 5th St.;P.O. Box 160,Rock River,WY,82083-0160,3073782434,307-378-2434,WY,HA,HA,n,WY #05-0-01234,1,RESALE,10/2/2013,"1,000",1,Yes,,"1,031",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+522,,McGarvin/Moberly,,P.O. Box 1166;,Worland,WY,82401-1166,3073474268,307-347-8944,WY,RES,EDS,y,,,,8/7/2013,"10,000",1,Yes,,"1,794.40",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+522,Shop,McGarvin/Moberly,,1001 Hwy 20 North;,Worland,WY,82401,3073474268,307-347-8944,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+529,,Town of Clearmont,,P.O. Box 127;,Clearmont,WY,82835-0127,3077584429,307-758-4463,WY,RES,JBH,n,,2,GOVERNMENT-CITY,3/1/2013,"25,000",0,No,,370.2,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+529,Shop,Town of Clearmont,,1605 Pennsylvania Ave.;,Clearmont,WY,82835,3077584429,307-758-4463,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+536,,WOTCO,,Attn:  Accts Payable;P.O. Box 250,Casper,WY,82602-0260,3.07E+12,307-235-3306,WY,HA,HA,n,WY #01-0-00050,1,RESALE,2/19/2013,"10,000",1,Yes,,"6,456",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+536,Shop,WOTCO,,415 1st Street;,Mills,WY,82644,3.07E+12,307-235-3306,WY,HA,HA,n,WY #01-0-00050,1,RESALE,,"10,000",1,,,,,,,,,
+537,,Eagle Ridge Ranch,,Hustace Scott;10750 Bessemer Bend Road,Casper,WY,82604,3072656213,,WY,MRS,JEN,y,,,,8/15/2013,"2,500",1,Yes,,768.4,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+541,,Mitt's Water Well Service (WS),,Starla 41;,Douglas,WY,82633,3073589448,307-358-3320,WY,MRS,MRS,y,,,,1/13/2014,"5,000",1,Yes,,0,N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+541,Casper,Mitt's Water Well Service (WS),Casper,1328 English Ave.;,Casper,WY,82601,3073589448,307-358-3320,WY,MRS,MRS,y,,,,,"5,000",1,,,,,,,,,
+542,,Town of Pavillion,,P.O. Box 278;,Pavillion,WY,82523-0278,3078562154,,WY,RES,JBH,n,69-0830080,2,GOVERNMENT-CITY,3/8/2013,"25,000",0,No,,839.43,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+542,Shop,Town of Pavillion,,203 1/2 No. Main;,Pavillion,WY,82523,3078562154,,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+546,,Kinder Morgan,,252 Hwy 59;P.O. Box 69,Douglas,WY,82633-0069,3073588537,307-358-8528,WY,JMK,BSW,y,,,,6/13/2013,"10,000",1,Yes,,"6,689.98",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+558,,"Jerry's Welding Service, Inc.",,P.O. Box 868;,Douglas,WY,82633-0868,3073582712,307-358-5890,WY,HA,HA,n,WY #13-0-00850,1,RESALE,10/8/2013,"1,000",1,Yes,,"2,558",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+558,Shop,"Jerry's Welding Service, Inc.",,#158 Hwy 59;,Douglas,WY,82633,3073582712,307-358-5890,WY,HA,HA,n,WY #13-0-00850,1,RESALE,,"1,000",1,,,,,,,,,
+560,,Levi's Backhoe Service,,Levi Grohs - Owner;221 Brownfield Road,Douglas,WY,82633,3073590256,,WY,RES,JBH,n,WY #13-0-01359,1,RESALE,12/23/2013,"2,500",1,Yes,,"5,009.05",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+560,Casper,Levi's Backhoe Service,,Levi Grohs - Owner;1328 English Ave.,Casper,WY,82601,3073590256,,WY,RES,JBH,n,WY #13-0-01359,1,RESALE,,0,1,,,,,,,,,
+562,,Midvale Irrigation District,,P.O. Box 128;,Pavillion,WY,82523-0128,3078566359,307-856-1824,WY,MRS,JBH,n,,7,IRRIGATION DISTRICT,4/10/2013,"100,000",1,Yes,,84.7,2%10,2%10 Net30,30,RURAL SYSTEMS,,2
+562,Shop,Midvale Irrigation District,,305 3rd Street;,Pavillion,WY,82523,3078566359,307-856-1824,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,,"10,000",1,,,,,,,,,
+569,,CPS Distributors Inc.,,"1901 East ""E"" St;",Casper,WY,82601,3072349349,,WY,HA,HA,n,WY #01-0-02477,1,RESALE,2/26/2014,"10,000",1,Yes,,525.46,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+569,Casper,"CPS Distributors, Inc.",Casper,"1901 East ""E"";",Casper,WY,82601,3072349349,,WY,HA,HA,n,WY #01-0-02477,1,RESALE,,"10,000",1,,,,,,,,,
+575,,Town of Rolling Hills,,38 South Badger;,Rollings Hills,WY,82637,3074365348,307-436-2555,WY,RES,JBH,n,FID #83-0269272,2,GOVERNMENT-CITY,1/31/2014,"25,000",0,No,,576,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+578,,Hose & Rubber Supply,,"240 Nichols, Suite 100;",Casper,WY,82601,3072662690,307-237-5165,WY,HA,HA,n,WY #01-0-02984,1,RESALE,11/27/2013,"10,000",1,Yes,,25,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+584,,Town of Pine Bluffs,,P.O. Box 429;,Pine Bluffs,WY,82082-0429,3072453746,307-245-3838,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/31/2014,"25,000",0,No,,"8,858.84",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+584,Shop,Town of Pine Bluffs,,220 Main Street;,Pine Bluffs,WY,82082,3072453746,307-245-3838,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+585,,Wilson Sewer District,,P.O. Box 1607;,Wilson,WY,83014,3076905512,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,12/3/2013,"250,000",1,Yes,,"36,057.08",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+585,Millward,Wilson Sewer Dist-Millward,Millward Lift Sta,% Millward Lift Sta Jobsite;,Wilson,WY,83014,3076905512,,WY,PMP,BRP,n,,3,GOVERNMENT-STATE,,"25,000",1,,,,,,,,,
+587,,Kinder Morgan,,"800 Werner Court, Suite 352;",Casper,WY,82601,3072375590,,WY,JMK,BSW,y,,,,9/12/2013,"10,000",1,Yes,,917,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+590,,South Worland Water Users,,P.O. Box 725;,Worland,WY,82401-0725,3073472117,,WY,MRS,JBH,n,#83-0218620,3,GOVERNMENT-STATE,12/18/2013,"2,500",1,Yes,,"1,719",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+590,Shop,South Worland Water Users,,% Ray Smith Plumbing;103 Country Drive,Worland,WY,82401,3073472117,,WY,MRS,JBH,n,#83-0218620,3,GOVERNMENT-STATE,,"2,500",1,,,,,,,,,
+591,,Hardy Ranch LLC,,181 Jenny Trail Road;,Douglas,WY,82633,3073583640,307-358-2302,WY,MRS,JBH,y,,,,5/20/2013,"5,000",1,Yes,,969,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+591,Casper,Hardy Ranch LLC,,1328 English Ave.;,Casper,WY,82601,3073583640,307-358-2302,WY,MRS,JBH,y,,,,,"5,000",1,,,,,,,,,
+593,,TTT Ranch Company,,P.O. Box 988;,Airy,NC,27030,3077389655,,WY,MRS,JBH,y,,,,10/24/2013,"1,000",1,Yes,,867.01,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+593,Casper,TTT Ranch Company,,1328 English Ave.;,Casper,WY,82601,3077389655,,WY,MRS,JBH,y,,,,,"5,000",1,,,,,,,,,
+594,,ACC - Antelope Coal LLC,,Cloud Peak Energy;P.O. Box 3001,Gillette,WY,82717-3001,3076856238,307-685-6175,WY,JMK,BSW,y,,,,10/10/2013,"50,000",1,Yes,,800,2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+595,,Etna Water & Sewer District,,P.O. Box 5031;,Etna,WY,83118-5031,3078832454,307-883-2454,WY,MRS,JBH,y,,,,12/3/2013,"5,000",1,Yes,,"4,117.45",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+595,Shop,Etna Water & Sewer District,,173 Etna Forest Road;,Etna,WY,83118,3078832454,307-883-2454,WY,MRS,JBH,y,,,,,"5,000",1,,,,,,,,,
+596,,City Plumbing & Heating,,340 Main Street;,Lander,WY,82520,3073325816,,WY,RES,JBH,y,,,,2/18/2013,"2,500",1,Yes,,133,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+599,,Halliburton Energy Services,,P.O. Box 1510;,Evansville,WY,82636-1510,3074738220,(307) 473-8211,WY,JMK,BSW,y,,,,2/28/2014,"10,000",1,Yes,,"3,166.42",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+599,Shop,Halliburton Energy Services,,6900 Nugget Road;,Evansville,WY,82636,3074738220,(307) 473-8211,WY,HDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+613,,Wyoming Game & Fish Department,,Ten Sleep Fish Hatchery;118 D State Hwy 435,Ten Sleep,WY,82442,3073662217,307-366-2786,WY,MRS,JEN,n,,3,GOVERNMENT-STATE,4/25/2013,"25,000",0,No,,9,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+613,TenSleep,Wyoming Game & Fish Department,,% Ten Sleep Fish Hatchery;118 D State Hwy 435,Ten Sleep,WY,82442,3073662217,,WY,MRS,JEN,n,,3,GOVERNMENT-STATE,,"25,000",1,,,,,,,,,
+620,,Wyoming Dept of Transportation,,Attn:  Larry Lijewski;900 Bryan Stock Trail,Casper,WY,82601,3074733200,,WY,HA,HA,n,,3,GOVERNMENT-STATE,7/2/2013,"25,000",0,No,,425.71,N30,Net 30 Days,50,SPECIAL ACCOUNTS GROUP,,2
+620,Casper,Wyoming Dept of Transportation,,Attn:  Larry Lijewski;900 Bryan Stock Trail,Casper,WY,82601,3074733200,,WY,HA,HA,n,,3,GOVERNMENT-STATE,,"25,000",1,,,,,,,,,
+623,,Lewy's Well Serv & Pump Sales,,"Lewis Stock, Jr. - Owner (WS);840 Irvine Road",Douglas,WY,82633,3073585015,,WY,MRS,MRS,y,,,,2/12/2014,"2,500",1,Yes,,"15,709.69",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+623,Casper,Lewy's Well Serv & Pump Sales,,"Lewis Stock, Jr.;1328 English Ave.",Casper,WY,82601,3073585015,,WY,MRS,JBH,y,,,,,"2,500",1,,,,,,,,,
+627,,Inter-Mountain Laboratories In,,P.O. Box 4006;,Sheridan,WY,82801-4006,3076747506,307-672-9845,WY,JMK,BSW,y,,,,10/1/2013,"10,000",1,Yes,,"1,574",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+627,Shop,Inter-Mountain Laboratories In,,555 Absaraka;,Sheridan,WY,82801,3076747506,307-672-9845,WY,HDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+629,,City of Casper,,200 North David;,Casper,WY,82601,3072358400,307-235-8313,WY,RES,EDS,n,,2,GOVERNMENT-CITY,12/16/2013,"25,000",0,No,,320,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+630,,Ramshorn Construction,,P.O. Box 2422;,Casper,WY,82602-2422,3072346879,307-265-0954,WY,RES,EDS,y,,,,12/31/2013,"50,000",1,Yes,,710.25,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+633,,Nine Mile Water & Sewer Dist,,P.O. Box 970;,Laramie,WY,82073,3077218050,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,10/29/2013,"10,000",1,Yes,,"1,557",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+633,Shop,Nine Mile Water & Sewer Dist,,Attn:  Foster White;5600 Chaparral Dr,Laramie,WY,82070,3077218050,,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,,"10,000",1,,,,,,,,,
+639,,Chemtrade Refinery Serv Inc.,,140 Goes In Lodge Road;,Riverton,WY,82501,3078569217,307-856-7842,WY,PMP,BSW,n,WY 10-0-04427,13,MFG/PROC/CMPNDG,3/12/2013,"10,000",1,Yes,,"5,701.08",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+639,Riverton,Chemtrade Refinery Serv Inc.,,140 Goes In Lodge Roa;,Riverton,WY,82501,3078569217,307-856-7842,WY,PMP,BSW,n,WY 10-0-04427,13,MFG/PROC/CMPNDG,,"10,000",1,,,,,,,,,
+642,,"Three Crowns, LLC",,1601 King Blvd;,Casper,WY,62604,3074725591,307-472-5592,WY,MRS,JEN,y,,,,11/18/2013,"10,000",1,Yes,,10.5,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+645,,"Wilson Brothers Const., Inc.",,P.O. Box 636;,Cowley,WY,82420-0636,3075486559,307-548-6559,WY,RES,EDS,y,,,,1/16/2014,"150,000",1,Yes,,"5,858.69",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+645,Shop,"Wilson Brothers Const., Inc.",,980 Road 7;,Cowley,WY,82420,3075486559,307-548-6559,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+649,,"The Plumbing Company, LLC",,4607 Cavalryman Ranch Road;,Laramie,WY,82070,3077423327,307-742-3328,WY,RES,EDS,y,,,,10/24/2013,"10,000",1,Yes,,"4,247",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+649,Shop,"The Plumbing Company, LLC",Shop,4607 Cavalryman Ranch Road;,Laramie,WY,82070,3077423327,307-742-3328,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+651,,Steve's Plumbing & Heating,,P.O. Box 910;,Thermopolis,WY,82443-0910,,,WY,HA,HA,y,,,,12/17/2013,"2,500",1,Yes,,"2,713",2%10,2%10 Net30,10,CONTRACTOR/UTILITY SYS,,2
+651,Shop,Steve's Plumbing & Heating,,602 Shoshoni;,Thermopolis,WY,82443,,,WY,HA,HA,y,,,,,"2,500",1,,,,,,,,,
+652,,Mountain Cement Company,,5 Sand Creek Road;,Laramie,WY,82070,3077454879,307-742-9521,WY,JMK,BSW,y,,,,11/8/2013,"5,000",1,Yes,,"4,380",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+658,,OCI Chemical Corporation,,P.O. Box 513;,Green River,WY,82935-0513,3078727213,307-872-7468,WY,HA,HA,n,WY #04-0-00230,1,RESALE,10/31/2013,"10,000",1,Yes,,"16,579",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+658,Shop,OCI Chemical Corporation,,12 Miles NW I-80 LaBarge;,Green River,WY,82935,3078727213,307-872-7468,WY,HA,HA,n,WY #04-0-00230,1,RESALE,,"10,000",1,,,,,,,,,
+659,,"D. A. Eldridge, Inc.",,1001 Kluver Road;,Gillette,WY,82716,,,WY,RES,EDS,y,,,,7/8/2013,"10,000",1,Yes,,127.3,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+659,Shop,"D. A. Eldridge, Inc.","Gillette, WY",1704 Ratcliff Drive;,Gillette,WY,82716,,,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+660,,Squaw Creek Water District,,P.O. Box 7692;,Jackson,WY,83001-7692,3077330401,307-733-5762,WY,MRS,JBH,y,,,,7/3/2013,"2,500",1,Yes,,"2,237",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+660,Shop,Squaw Creek Water District,,ATTN:  Robert Scott;2225 East Porcupine Road,Jackson,WY,83001,3077330401,307-733-5762,WY,MRS,JBH,y,,,,,"2,500",1,,,,,,,,,
+662,,Lone Star Land & Cattle Compan,,"100 Waugh Drive, Suite 400;",Houston,TX,77007,3072626093,307-235-6488,WY,MRS,JEN,y,,,,4/19/2013,"10,000",1,Yes,,"1,894",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+662,Ranch,Lone Star Land & Cattle Compan,,10300 Hat Six Road;,Casper,WY,82601,3072652955,307-235-6488,WY,MRS,JEN,y,,,,,"10,000",1,,,,,,,,,
+676,,Gene's Plumbing & Heating,,Keith R. & Barbara J. Ivester;200 Oak Street,Douglas,WY,82633,3073582628,307-358-2622,WY,RES,JBH,n,WY #13-0-00206,1,RESALE,9/30/2013,"1,000",1,Yes,,679,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+676,Casper,Gene's Plumbing & Heating,,Keith R. & Barbara J. Ivester;1328 English Ave.,Casper,WY,82601,3073582628,307-358-2622,WY,RES,JBH,n,WY #13-0-00206,1,RESALE,,"1,000",1,,,,,,,,,
+682,,Cody Winnelson Company,,P.O. Box 633;,Cody,WY,82414-0633,3075874373,307-587-2135,WY,HA,HA,n,83-021477,1,RESALE,7/18/2013,"10,000",1,Yes,,176.8,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+682,Shop,Cody Winnelson Company,,2425 Mountain View Drive;,Cody,WY,82414,3075874373,307-587-2135,WY,HA,HA,n,83-021477,1,RESALE,,"10,000",1,,,,,,,,,
+691,,Town of Hulett,,P.O. Box 278;,Hulett,WY,82720-0278,3074675771,307-467-5447,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/17/2014,"25,000",0,No,,"12,223.93",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+691,Shop,Town of Hulett,,123 Hill Street;,Hulett,WY,82720-0278,3074675771,307-467-5447,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+709,,"Joe's Plumbing & Heating, Inc.",,P.O. Box 7;,Gillette,WY,82717-0007,3076857255,307-685-7262,WY,HA,HA,n,WY #17-0-03973,1,RESALE,2/11/2014,"2,500",1,Yes,,0,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+733,,Haid's Plumbing & Heating,,P. O. Box 50976;,Casper,WY,82605-0976,3072588244cell,,WY,RES,EDS,y,,,,2/20/2014,"1,000",1,Yes,,"12,807.49",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+740,,Town of Riverside,,P.O. Box 657;,Riverside,WY,82325-0657,3073275266,307-327-5622,WY,RES,JBH,n,,2,GOVERNMENT-CITY,11/11/2013,"25,000",0,No,,"2,660.50",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+740,Shop,Town of Riverside,,207 W. Welton;,Riverside,WY,82325,3073275266,307-327-5622,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+747,,South Fork Lodge,,P.O. Box 389;,Buffalo,WY,82834-0389,3072672609,307-684-1225,WY,RES,JBH,y,,,,12/9/2013,"5,000",1,Yes,,"1,793.50",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+747,Shop,South Fork Lodge,,7558 Hwy 16 West;,Buffalo,WY,82834,3072672609,307-684-1225,WY,RES,JBH,y,,,,,"5,000",1,,,,,,,,,
+748,,NAPA Auto Parts - Riverton,,"The Rocky Mountain Group, Inc.;201 South Federal Blvd",Riverton,WY,82501,3078569266,307-856-1550,WY,HA,HA,n,WY #10-0-02192,1,RESALE,2/28/2014,"10,000",1,Yes,,"19,843.10",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+748,Shop,NAPA Auto Parts - Riverton,Shop,"The Rocky Mountain Group, Inc.;201 South Federal Blvd",Riverton,WY,82501,3078569266,307-856-1550,WY,HA,HA,n,WY #10-0-02192,1,RESALE,,"10,000",1,,,,,,,,,
+750,,Able Heating & Cooling L.C.,,P.O. Box 2062;,Mills,WY,82644-2062,3072771093,,WY,RES,EDS,y,,,,12/16/2013,"5,000",1,Yes,,363.4,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+750,Shop,Able Heating & Cooling L.C.,,1951 South Cedar;,Casper,WY,82601,3072771093,,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+768,,Advanced Hydraulic & Machine I,,1897 Oil Field Center Road;,Casper,WY,82604,3072355086,307-235-5112,WY,HA,HA,n,,1,RESALE,1/7/2014,"2,500",1,Yes,,38.7,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+773,,"Elkhorn Creek Ranch, LLC",,P.O. Box 51949;,Casper,WY,82605,3072664125,307-265-8912,WY,MRS,JEN,y,,,,9/23/2013,"2,500",1,Yes,,0,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+773,Shop,"Elkhorn Creek Ranch, LLC",,1340 Mystery Bridge Road;,Evansville,WY,82636,3072664125,307-265-8912,WY,MRS,JEN,y,,,,,"2,500",1,,,,,,,,,
+777,,"Bulldog Construction, Inc.",,P.O. Box 2037;,Mills,WY,82644-2037,3075779691,,WY,RES,EDS,y,,,,12/3/2013,"2,500",1,Yes,,"2,262.59",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+779,,"Moltz Wyoming, Inc.",,2881 31st Ave.;Suite 5A,Greeley,CO,80631,3076374268,307-637-2357,WY,RES,EDS,y,,,,5/3/2013,"10,000",1,Yes,,750,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+781,,Eagle Uniform & Linen Supply,,"Amer Industrial Laundry, Inc.;494 Main Street",Lander,WY,82520,3073325454,307-332-9570,WY,JMK,BSW,y,,,,4/29/2013,"2,500",1,Yes,,794.5,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+787,,Town of Pine Haven,,24 Waters Drive;,Pine Haven,WY,82721,3077569807,307-756-3378,WY,RES,JBH,n,,2,GOVERNMENT-CITY,12/18/2013,"25,000",0,No,,"4,134.70",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+787,Shop,Town of Pine Haven,,24 Waters Drive;,Pine Haven,WY,82721,3077569807,307-756-3378,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+794,,Redco Construction,,P.O. Box 20432;,Cheyenne,WY,82003,3076300543,307-638-1065,WY,RES,EDS,y,,,,12/27/2013,"25,000",1,Yes,,"34,234.85",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+794,Shop,Redco Construction,,307 Palm Springs Ave.;,Cheyenne,WY,82009,3076300543,307-638-1065,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+794,SndncRg2,Redco Const-SundanceRdg II,Sundance Ridge II,% Sundance Ridge II Jobsite;,Cheyenne,WY,82001,3076300543,307-638-1065,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+796,,Mountain West Plmbg & Mech Inc,,1334 South Willow;,Casper,WY,82604,3072349061,307-234-9085,WY,RES,EDS,y,,,,1/15/2014,"1,000",1,Yes,,"2,421.40",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+799,,"K & R Construction, LLC",,P.O. Box 1070;,Douglas,WY,82633-1070,3073581853,307-358-3017,WY,RES,JBH,y,,,,2/28/2014,"50,000",1,Yes,,"15,161.60",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+799,Shop,"K & R Construction, LLC",,200 Elkhorn Way;,Douglas,WY,82633,3073581853,307-358-3017,WY,RES,JBH,y,,,,,"10,000",1,,,,,,,,,
+801,,Town of LaGrange,,P.O. Box 185;,LaGrange,WY,82221-0185,3078342466,307-834-2480,WY,RES,JBH,n,,2,GOVERNMENT-CITY,11/22/2013,"25,000",0,No,,"3,654.16",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+801,Shop,Town of LaGrange,,200 'C' Street;,LaGrange,WY,82221,3078342466,307-834-2480,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+811,,Northwinds of Wyoming Inc.,,P.O. Box 599;,Douglas,WY,82633-0599,3073586550,307-358-6665,WY,JMK,BSW,y,,,,5/9/2013,"5,000",1,Yes,,"1,025",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+811,Casper,Northwinds of Wyoming Inc.,,1328 English Ave.;,Casper,WY,82601,3073586550,307-358-6665,WY,HDL,BSW,y,,,,,"5,000",1,,,,,,,,,
+812,,Trihydro Corporation,,1252 Commerce Drive;,Laramie,WY,82070,3077457474,307-745-7729,WY,JMK,BSW,y,,,,11/21/2013,"25,000",1,Yes,,"17,376.40",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+812,Shop,Trihydro Corporation,Shop,1252 Commerce Drive;,Laramie,WY,82070,3077457474,307-745-7729,WY,PMP,BSW,y,,,,,"25,000",1,,,,,,,,,
+814,,City of Sundance,,P.O. Box 542;,Sundance,WY,82729-0542,3072833451,307-283-3452,WY,RES,JBH,n,,2,GOVERNMENT-CITY,5/15/2013,"25,000",0,No,,"6,866",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+814,Shop,City of Sundance,,213 Main Street;,Sundance,WY,82729,3072833451,307-283-3452,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+815,,JWJ Enterprises LLC,,P.O. Box 1424;,Casper,WY,82602-1424,3074724023,307-472-4023,WY,MRS,JEN,y,,,,8/5/2013,"5,000",1,Yes,,18,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+815,Casper,JWJ Enterprises LLC,,11 Yucca Circle;,Casper,WY,82604,3074724023,307-472-4023,WY,MRS,JEN,y,,,,,"5,000",1,,,,,,,,,
+827,,Grover Water & Sewer District,,P.O. Box 146;,Grover,WY,83122-0146,3078869298,,WY,MRS,JBH,n,83-0301215,3,GOVERNMENT-STATE,5/14/2013,"5,000",1,Yes,,435,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+827,Shop,Grover Water & Sewer District,,71 North Street;,Grover,WY,83122,3078869298,,WY,MRS,JBH,n,83-0301215,3,GOVERNMENT-STATE,,"5,000",1,,,,,,,,,
+831,,Anchor Environmental,,P.O. Box 2513;,Mills,WY,82644,3077459264,308-2352-4010,WY,RES,EDS,y,,,,2/17/2014,"10,000",1,Yes,,636,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+831,Casper,Anchor Environmental,,1328 English Ave.;,Casper,WY,82601,3077459264,308-2352-4010,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+832,,"Stallion Solids Controls, Inc.",,Cost Center #5750;P.O. Box 593,Riverton,WY,82501-0593,3078567549,307-856-6988,WY,HA,HA,n,WY 10-0-05403,1,RESALE,2/25/2014,"50,000",1,Yes,sgott@sofs.cc,"106,500.36",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+832,Shop,Stallion Solids Control,Riverton,Cost Center #5750;116 Burma Road,Riverton,WY,82501,3078567549,307-856-6988,WY,HA,HA,n,WY #10-0-05403,1,RESALE,,"50,000",1,,,,,,,,,
+838,,Keenan Supply Div Hajoca Corp,,P.O. Box 1990;,Casper,WY,82602-1990,3072663110,307-266-3172,WY,HA,HA,n,WY #25-0-00078,1,RESALE,12/27/2013,"100,000",1,Yes,,315.5,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+838,Shop,Keenan Supply Div Hajoca Corp,,1224 Howard Street;,Casper,WY,82601,3072663110,307-266-3172,WY,HA,HA,n,WY #25-0-00078,1,RESALE,,"10,000",1,,,,,,,,,
+839,,Pine Bluffs Grvl & Excvtg Inc.,,P.O. Box 609;,Pine Bluffs,WY,82082-0609,3072453426,307-245-3803,WY,RES,EDS,n,WY #02-0-06421,1,RESALE,11/21/2013,"5,000",1,Yes,,"1,025.85",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+839,Shop,Pine Bluffs Grvl & Excvtg Inc.,,303 Industrial Road;,Pine Bluffs,WY,82082,3072453426,307-245-3803,WY,RES,EDS,n,WY #02-0-06421,1,RESALE,,"5,000",1,,,,,,,,,
+843,,"Gillette Contractors Supply, I",,P.O. Box 1655;,Gillette,WY,82717-1655,3076825153,307-682-0356,WY,HA,HA,n,WY #17-0-00372,1,RESALE,11/21/2013,"10,000",1,Yes,,"8,430",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+843,Shop,"Gillette Contractors Supply, I",,5005 Rourke Ave.;,Gillette,WY,82717,3076825153,307-682-0356,WY,HA,HA,n,WY #17-0-00372,1,RESALE,,"10,000",1,,,,,,,,,
+848,,The 7L Livestock Company,,T. Douglas Cooper;1025 So. Durbin,Casper,WY,82601,3072670142cell,,WY,MRS,JEN,y,,,,12/5/2013,"10,000",1,Yes,,"9,475.70",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+849,,DHS Drilling Co.,,P.O. Box 277;,Casper,WY,82602-0277,3074735377,307-473-5447,WY,JMK,BSW,y,,,,7/15/2013,"10,000",1,Yes,,"8,537.94",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+849,Shop,DHS Drilling Company,,1813 Coleman Circle;,Casper,WY,82604,3074735377,307-473-5447,WY,HDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+856,,Shoshone Utility,,P.O. Box 338;,Fort Washakie,WY,82514-0338,3073323458,307-332-7231,WY,MRS,JBH,n,83-0261946,18,TRIBAL GOVERNMENT,10/29/2013,"10,000",0,No,,"8,159",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+856,Shop,Shoshone Utility,,27 North Fork Road;,Fort Washakie,WY,82514,3073323458,307-332-7231,WY,MRS,JBH,n,83-0261946,18,TRIBAL GOVERNMENT,,"10,000",1,,,,,,,,,
+857,,Douglas Exploration LLC,,P.O. Drawer A;,Douglas,WY,82633,3073583125,307-358-6150,WY,JMK,BSW,y,,,,7/16/2013,"5,000",1,Yes,,504,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+857,Shop,Douglas Exploration LLC,,740 So 4th Street;,Douglas,WY,82633,3073583125,307-358-6150,WY,HDL,BSW,y,,,,,"5,000",1,,,,,,,,,
+861,,"Jackson Electric, Inc.",,661 Broadway;,Sheridan,WY,82801,3076749710,307-674-5004,WY,HA,HA,n,WY #03-0-01481,1,RESALE,6/28/2013,"20,000",1,Yes,,"3,285",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+866,,Landmark Builders Inc.,,"300 Landmark Dr., Suite N;",Casper,WY,82609,3074731600,307-473-1606,WY,RES,EDS,y,,,,12/17/2013,"250,000",1,Yes,,388,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+867,,NOV Wilson - Rawlins,,Attn:  Accts Payable;P.O. Box 4888,Houston,TX,77210-4888,3073246400,307-324-3869,WY,HA,HA,n,WY #24-0-07122,1,RESALE,9/9/2013,"10,000",1,Yes,,437.75,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+867,Rawlins,NOV Wilson - Rawlins,,1812 West Spruce Street;,Rawlins,WY,82301,3073246400,307-324-3869,WY,HA,HA,n,WY #24-0-07122,1,RESALE,,"10,000",1,,,,,,,,,
+876,,"Redi Industrial Services, Inc.",,P.O. Box 310;,Lyman,WY,82937-0310,3077876333,307-787-3124,WY,RES,EDS,y,,,,1/11/2013,"1,000",1,Yes,,89.6,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+876,Shop,"Redi Industrial Services, Inc.",,West End Owen Street;,Lyman,WY,82937,3077876333,307-787-3124,WY,RES,EDS,y,,,,,"1,000",1,,,,,,,,,
+880,,Wagonhound Land & Livestock,,1061 Posion Lake Road;,Douglas,WY,82633,3073585439ext1,307-358-8481,WY,MRS,JBH,y,,,,11/18/2013,"2,500",1,Yes,,"5,896.02",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+886,,Spring Creek Ranch,,P.O. Box 4780;,Jackson,WY,83001-4780,3077338833,307-732-1678,WY,MRS,JBH,y,,,,4/11/2013,"10,000",1,Yes,,0,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+886,Shop,Spring Creek Ranch,,1800 Spirit Dance Road;,Jackson,WY,83001,3077338833,307-732-1678,WY,MRS,JBH,y,,,,,"10,000",1,,,,,,,,,
+888,,Sunset Grill,,P.O. Box 143;,Alcova,WY,82620-0143,3074723200,,WY,MRS,JEN,y,,,,11/11/2013,"2,500",1,Yes,,268.75,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+891,,Stone Power Sales & Service,,P.O. Box 51148;,Casper,WY,82605-1148,3074725051,307-234-0409,WY,HA,HA,n,WY #01-0-03879,1,RESALE,2/12/2014,"10,000",1,Yes,,748,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+891,Shop,Stone Power Sales & Service,,1190 Coleman Circle;,Casper,WY,82601,3074725051,307-234-0409,WY,HA,HA,n,WY #01-0-03879,1,RESALE,,"10,000",1,,,,,,,,,
+896,,Tyler Exploration (WS),,Brad Crawford - Owner;P.O. Box 833,Douglas,WY,82633,3073511304,,WY,MRS,MRS,y,,,,8/6/2013,"2,500",1,Yes,,"2,512.65",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+896,Casper,Tyler Exploration,,Brad Crawford - Owner;1328 English Ave.,Casper,WY,82601,3073511304,,WY,MRS,MRS,y,,,,,"2,500",1,,,,,,,,,
+910,,Rig-Ups by J&J Inc,,P.O. Box 4212;,Casper,WY,82604-4212,3072378522,307-473-8740,WY,HA,HA,n,WY #01-0-,1,RESALE,11/21/2013,"2,500",1,Yes,,26.5,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+910,Shop,Rig-Ups by J&J Inc,,3632 So Squaw Creek Road;,Casper,WY,82604,3072378522,307-473-8740,WY,HA,HA,n,WY #01-0-,1,RESALE,,"2,500",1,,,,,,,,,
+911,,Deer Creek Plumbing,,P.O. Box 1348;,Glenrock,WY,82637-1348,3074367174,307-436-5797,WY,RES,JBH,y,,,,10/9/2013,500,1,Yes,,"5,062.50",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+911,Casper,Deer Creek Plumbing,,1328 English Ave.;,Casper,WY,82601,3074367174,307-436-5797,WY,RES,JBH,y,,,,,500,1,,,,,,,,,
+915,,Town of Manville,,P.O. Box 107;,Manville,WY,82227,3073342142,307-334-2142,WY,RES,JBH,n,,2,GOVERNMENT-CITY,2/5/2014,"25,000",0,No,,"1,406.40",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+915,Shop,Town of Manville,,651 5th Street;,Manville,WY,82227,3073342142,307-334-2142,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+917,,Wyoming Game & Fish Department,,Speas Fish Hatchery;8200 Speas Road,Casper,WY,82604,3074738890,307-237-9040,WY,MRS,JEN,n,,3,GOVERNMENT-STATE,4/10/2013,"25,000",0,No,,171,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+922,,Clean Harbors (RckSprgs),,Environmental Services;506 K & P Industrial Drive,Rock Springs,WY,82901,4035437325,307-382-4443,WY,JMK,BSW,y,,,,2/28/2014,"25,000",1,Yes,,"92,540.93",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+922,Casper,Clean Harbors,,Environmental Services;1328 English Ave.,Casper,WY,82601,4035437325,403-213-5599,WY,PMP,BSW,y,,,,,"10,000",1,,,,,,,,,
+922,RckSprgs,Clean Harbors,,Environmental Services;506 K & P Industrial Drive,Rock Springs,WY,82901,4035437325,307-382-4443,WY,pmp,BSW,y,,,,,"20,000",1,,,,,,,,,
+928,,"Rod's Backhoe Service, Inc.",,P.O. Box 1162;,Saratoga,WY,82331,3073265738,307-326-5738,WY,RES,JBH,y,,,,5/28/2013,"5,000",1,Yes,,"3,890.20",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+928,Shop,"Rod's Backhoe Service, Inc.",,Cemetery Road #1;,Saratoga,WY,82331,3073265738,307-326-5738,WY,RES,JBH,y,,,,,"5,000",1,,,,,,,,,
+931,,"Silvertip Electric, Inc.",,P.O. Box 2563;,Mills,WY,82644-2563,3074731416,307-473-2146,WY,HA,HA,n,WY #01-0-06766,1,RESALE,2/6/2014,"10,000",1,Yes,,"36,288.18",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+931,Shop,"Silvertip Electric, Inc.",,5740 West Yellowstone Hwy;,Casper,WY,82604,3074731416,307-473-2146,WY,HA,HA,n,WY #01-0-06766,1,RESALE,,"10,000",1,,,,,,,,,
+932,,South Thermopolis Wtr & Swr Ds,,P.O. Box 204;,Thermopolis,WY,82443-0204,3079211013,307-864-3172,WY,MRS,JBH,n,,5,NON-PROFIT ORGANIZATION,1/28/2013,"10,000",1,Yes,,35.62,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+940,,"Merrill, Inc.",,P.O. Box 20519;,Cheyenne,WY,82003,3076348365,307-634-7381,WY,RES,EDS,y,,,,2/5/2014,"100,000",1,Yes,,"915,405.95",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+940,2012W&S,Merrill  Inc.-2012Wtr&Swr,2012 Wtr&Swr Imprv,% 2012 Wtr & Swr Imprv Jobsite;,Encampment,WY,82325,3076348365,307-634-7381,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+940,Btlr&Blk,Merrill  Inc.-Butler&Black,Butler&Black,% Butler  Ave & Black Blvd;Jobsite,Pine Bluffs,WY,82082,3076348365,307-634-7381,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+940,DumpSta,Merrill  Inc.-DumpSta,GuernseyDumpSta,% Guernsey Dump Station Water;System Rehab Jobsite,Guernsey,WY,82214,3076348365,307-634-7381,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+940,EmergWtr,Merrill  Inc.-EmergWater,EncampmentEmergencyWtr,% Encampment Emergency Water;Jobsite,Encampment,WY,82325,3076348365,307-634-7381,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+940,FE WAFB,Merrill  Inc.-FE WARB LS,FE WAFB LS,% F.E. Warren AFB LCC Lft Sta;Jobsite,Cheyenne,WY,82001,3076348365,307-634-7381,WY,RES,EDS,y,,,,,"250,000",1,,,,,,,,,
+940,HopeRd,Merrill  Inc.-HopeRd,HopeRdOutfallLine,% Hope Road Outfall Line;Jobsite,Torrington,WY,82240,3076348365,307-634-7381,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+940,HwyLoop,Merrill  Inc.-HwyLoop,WtrDistHwyLoop,% Water Distr Hwy Loop Jobsite;,Pine Bluffs,WY,82082,3076348365,307-634-7381,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+940,Shop,"Merrill, Inc.",,3423 Christensen Road;,Cheyenne,WY,82009,3076348365,307-634-7381,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+940,SwanRnch,Merrill  Inc.-SwanRanch,SwanRanch,% Swan Ranch Berwick Jobsite;,Cheyenne,WY,82001,3076348365,307-634-7381,WY,RES,EDS,y,,,,,"700,000",1,,,,,,,,,
+940,Unicover,Merrill  Inc.-Unicover,UnicoverSanSwr,% Unicover Sanitary Sewer;Jobsite,Cheyenne,WY,82001,3076348365,307-634-7381,WY,RES,EDS,y,,,,,"2,000",1,,,,,,,,,
+940,WrightSt,Merrill  Inc.-WrightSt,WrightStUtil,% Wright St Utilities Jobsite;,Cheyenne,WY,82001,3076348365,307-634-7381,WY,RES,EDS,y,,,,,"15,000",1,,,,,,,,,
+953,,Grizzly Excavating & Const LLC,,P.O. Box 51692;,Casper,WY,82605-1692,3072654328,307-577-1010,WY,RES,EDS,y,,,,2/24/2014,"25,000",1,Yes,,"367,441.63",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+953,2013MnHl,Grizzly Excvtg & Cons-2013MnHl,2013 ManholeRplcmnt,% 2013 Manhole Replacement;Jobsite,Casper,WY,82601,3072595224,307-577-1010,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+953,2013Wtr,Grizzly Excvtg & Cons-2013Wtr,2013 WtrMnRplcmntPh1,% 2013 Water Main Replacement;Ph1 Jobsite,Casper,WY,82601,3072595224,307-577-1010,WY,RES,EDS,y,,,,,"225,000",1,,,,,,,,,
+953,Blckmr 3,Grizzly Excvtg & Cons-Blckmr 3,BlackmoreVistaAdd Ph3,% Blackmore Vista Addition Ph3;Jobsite,Casper,WY,82601,3072595224,307-577-1010,WY,RES,EDS,y,,,,,"40,000",1,,,,,,,,,
+953,MemHosp,Grizzly Excvtg&Cons-MemHosp,ConvCntyMemHosp,% Converse Cnty Memorial;Hospital Jobsite,Douglas,WY,82633,3072595224,307-577-1010,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+953,NoPrkSub,Grizzly Excvtg&Cons-NoPrkSub,No Park Subdivision,% North Park Subdivision;Jobsite,Wheatland,WY,82201,3072595224,307-577-1010,WY,RES,EDS,y,,,,,"75,000",1,,,,,,,,,
+953,PwrPlnt,Grizzly Excvtg&Cons-PwrPlnt,DaveJohnsonPwrPlnt,% Dave Johnson Power Plant;Jobsite,Glenrock,WY,82637,3072595224,307-577-1010,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+953,Shop,Grizzly Excavating & Const LLC,,3441 Burd Road;,Casper,WY,82601,3072595224,307-577-1010,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+959,,"C K Mechanical, Inc.",,P.O. Box 485;,Casper,WY,82602-0485,3074738448,307-235-7959,WY,RES,EDS,y,,,,11/27/2013,"75,000",1,Yes,,"6,374.57",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+959,Shop,"C K Mechanical, Inc.",,153 Progress Circle;,Mills,WY,82644,3074738448,307-235-7959,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+961,,"Long's Excavation & Const., In",,4744 Road 74;,Torrington,WY,82240,3075323608,307-532-3807,WY,RES,EDS,y,,,,10/11/2013,"5,000",1,Yes,,353,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+961,Shop,"Long's Excavation & Const., In",,4744 Road 74;,Torrington,WY,82240,3075323608,307-532-3807,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+968,,Sweetwater Produced Water,,"Disposal, LLC (Jim's Wtr Srv);P. O. Box 2290",Gillette,WY,82717-2290,3073206119,307-328-9800,WY,JMK,BSW,y,,,,10/4/2013,"25,000",1,Yes,,"4,607.20",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+970,,Pete Condis (WS),,dba CL & C Drilling;P.O. Box 2742,Mills,WY,82644-2742,3072626978,,WY,MRS,MRS,y,,,,12/31/2013,"10,000",1,Yes,,"2,400.60",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+970,Casper,Pete Condis (WS),,dba CL & C Drilling;1328 English Ave.,Casper,WY,82601,3072626978,,WY,HDL,MRS,y,,,,,"10,000",1,,,,,,,,,
+983,,71 Construction - Riverton,,820 Lough Drive;,Riverton,WY,82501,3078567171,307-856-7191,WY,RES,EDS,y,,,,12/31/2013,"50,000",1,Yes,,"13,984",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+983,Shop,71 Construction - Riverton,,820 Lough Drive;,Riverton,WY,82501,3078567171,307-856-7191,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+983,WndrvrPk,71 Const-Windriver IndPk,WindriverIndusPark,% Windriver Indus Park Jobsite;,Riverton,WY,82501,3078567171,307-856-7191,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+989,,Sublette County School Dist #1,,P.O. Box 549;,Pinedale,WY,82941,3073672139,307-367-3485,WY,MRS,JBH,n,,11,GOVERNMENT-COUNTY,12/23/2013,"10,000",0,No,,"16,339.78",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+989,Shop,Sublette County School Dist #1,,101 East Hennrak;,Pinedale,WY,82941,3073672139,307-367-3485,WY,MRS,JBH,n,,11,GOVERNMENT-COUNTY,,"10,000",1,,,,,,,,,
+"1,000",,"R & H Supply, Inc. Casper*COD*",,P.O. Box 1106;,Broussard,LA,70518-1106,3072320600,307-232-0601,WY,HA,HA,n,WY #19-0-02374,1,RESALE,1/29/2014,"5,000",1,Yes,,"1,737.58",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,000",Casper,"R & H Supply, Inc. Casper",,1907 Salt Creek Hwy;,Casper,WY,82601,3072320600,307-232-0601,WY,HA,HA,n,WY #19-0-02374,1,RESALE,,"5,000",1,,,,,,,,,
+"1,002",,"Intermountain Motor Sales, Inc",,2101 No Six Mile Road;,Casper,WY,82604,3074720854,307-473-7725,WY,HA,HA,n,WY #01-0-07456,1,RESALE,7/17/2013,"10,000",1,Yes,,"16,529.48",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,002",Shop,"Intermountain Motor Sales, Inc",,2101 No Six Mile Road;,Casper,WY,82604,3074720854,307-473-7725,WY,HA,HA,n,WY #01-0-07456,1,RESALE,,"10,000",1,,,,,,,,,
+"1,006",,Whiskey Creek Land & Livestock,,"111 West 2nd, Ste. 101;",Casper,WY,82601,3072656684,307-237-2261,WY,MRS,JEN,y,,,,9/23/2013,"10,000",1,Yes,,169,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,019",,Town of Star Valley Ranch,,Municipal Water Utility;HCR 62 Box 7007,Star Valley Ranch,WY,83127,3078838696,307-883-8329,WY,RES,JBH,n,,2,GOVERNMENT-CITY,1/3/2014,"25,000",0,No,,"6,579",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+"1,019",Shop,Town of Star Valley Ranch,,560 Middel Branch Drive;,Star Valley Ranch,WY,83127,3078838696,307-883-8329,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+"1,020",,Barnard Farm,,"350 West ""A"" Street;",Casper,WY,82601,3072650200,307-265-0024,WY,MRS,JEN,y,,,,5/21/2013,"5,000",1,Yes,,695,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,032",,Freedom Wyoming Wtr & Swr Dist,,P.O. Box 245;,Freedom,WY,83120,3078832710,,WY,MRS,JBH,y,,,,12/27/2013,"5,000",1,Yes,,883,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,032",Shop,Freedom Wyoming Wtr & Swr Dist,,% Ben Mavy;1455 County Road 122,Thayne,WY,83127,3078832710,,WY,MRS,JBH,y,,,,,"5,000",1,,,,,,,,,
+"1,033",,John Phillips,,P.O. Box 414;,Casper,WY,82602,3072656684,307-237-2261,WY,MRS,JEN,y,,,,11/18/2013,"10,000",0,No,,248,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,033",Shop,John Phillips,,East Casper;County Line Road,Converse County,WY,,3072656684,307-237-2261,WY,MRS,JEN,y,,,,,"10,000",1,,,,,,,,,
+"1,034",,Brock Livestock Company,,John Hanson;1005 Mayaworth Route,Kaycee,WY,82639,3077382215,,WY,MRS,JBH,y,,,,12/3/2013,"2,500",1,Yes,,"1,553.20",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,034",Casper,Brock Livestock Company,,John Hanson;1328 English Ave.,Casper,WY,82601,3077382215,,WY,MRS,JBH,y,,,,,"2,500",1,,,,,,,,,
+"1,036",,"Wold Oil Properties, Inc.",,139 West 2nd Street;Suite #200,Casper,WY,82601-2462,3072657252,307-265-7336,WY,JMK,BSW,y,,,,6/14/2013,"10,000",1,Yes,,867.42,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,041",,Golden Eagle Mill Inc.,,1015 9th Street;,Rawlins,WY,82301,3073216341,307-324-4357,WY,RES,EDS,y,,,,2/6/2014,"2,500",1,Yes,,175.68,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,041",Shop,Golden Eagle Mill Inc.,,1015 9th Street;,Rawlins,WY,82301,3073216341,307-324-4357,WY,RES,EDS,y,,,,,"2,500",1,,,,,,,,,
+"1,046",,Munsinger Septic Systems,,Theodore Munsinger - Owner;68 Coulter Trail,Douglas,WY,82633,3073583355,,WY,RES,JBH,y,,,,11/12/2013,"5,000",1,Yes,,"5,457.25",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,046",Casper,Munsinger Septic Systems,,Theodore Munsinger - Owner;1328 English Ave.,Casper,WY,82601,3073583355,,WY,RES,JBH,y,,,,,"5,000",1,,,,,,,,,
+"1,056",,Walker Trenching,,William R. Walker - Owner;157 Pleasant Valley Road,Hartville,WY,82215,3078362321,,WY,RES,EDS,n,WY 08-0-0017,1,RESALE,10/1/2013,"7,500",1,Yes,,764,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,056",Shop,Walker Trenching,,William R. Walker - Owner;157 Pleasant Valley Road,Hartville,WY,82215,3078362321,,WY,RES,EDS,n,WY 08-0-0017,1,RESALE,,"7,500",1,,,,,,,,,
+"1,057",,Fluid Processors dba**Use #832,,Stallion Solids  Control;P.O. Box 593,Riverton,WY,82501-0593,307856759,307-856-6988,WY,HA,HA,y,,,,5/14/2013,"10,000",1,Yes,,0,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,057",Shop,Fluid Processors dba,,Stallion Solids  Control;116 Burma Road,Riverton,WY,82501,307856759,307-856-6988,WY,HA,HA,y,,,,,"10,000",1,,,,,,,,,
+"1,059",,"Roundtop Pump & Supply, LLC",,P.O. Box 143;,Thermopolis,WY,82443,3078644234,307-864-4235,WY,HA,HA,n,15-0-01043,1,RESALE,4/24/2013,"5,000",1,Yes,,577,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,059",Shop,"Roundtop Pump & Supply, LLC",,901 Washakie;,Thermopolis,WY,82443,3078644234,307-864-4235,WY,HA,HA,n,15-0-01043,1,RESALE,,"5,000",1,,,,,,,,,
+"1,063",,Earth Work Solutions,,P.O. Box 1007;,Gillette,WY,82717,3076824346,307-682-3088,WY,RES,EDS,y,,,,12/16/2013,"50,000",1,Yes,,379,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,069",,"Olsen Oilfield Specialty, Inc.",,P.O. Box 51382;,Casper,WY,82605,3072653180,307-265-3182,WY,HA,HA,n,WY #01-0-09048,1,RESALE,2/27/2014,"10,000",1,Yes,,"28,387",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,069",Shop,"Olsen Oilfield Specialty, Inc.",Shop,6638 Uranium Road;,Casper,WY,82604,3072653180,307-265-3182,WY,HA,HA,n,WY #01-0-09048,1,RESALE,,"10,000",1,,,,,,,,,
+"1,077",,J-W Measurement Company,,P.O. Box 8484;,Longview,TX,75607,3072349761,308-234-9071,WY,JMK,BSW,n,WY #25-0-02132,13,MFG/PROC/CMPNDG,8/26/2013,"25,000",1,Yes,,180,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,083",,Casper Alcova Irrigation Dist,,P.O Box 849;,Mills,WY,82644,3072348690,307-266-5859,WY,MRS,JBH,n,,7,IRRIGATION DISTRICT,5/29/2013,"5,000",1,Yes,,47,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,083",Shop,Casper Alcova Irrigation Dist,Shop,755 Connie;,Mills,WY,82644,3072348690,307-266-5859,WY,MRS,JBH,n,,7,IRRIGATION DISTRICT,,"5,000",1,,,,,,,,,
+"1,087",,"CVIC, Inc. (WS)",,P.O. Box 836;,Casper,WY,82602-0836,3072376139,307-237-2801,WY,MRS,MRS,y,,,,2/20/2014,"10,000",1,Yes,,"21,920.75",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+"1,087",Shop,"CVIC, Inc.",Shop,6719 W. Yellowstone Hwy;,Casper,WY,82604,3072376139,307-237-2801,WY,HDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+"1,089",,Phoenix Production Company,,Attn:  Troy Mathews;P.O. Box 368,Thermopolis,WY,82443-0368,2132255900,213-225-5916,WY,JMK,BSW,y,,9,OTHER STATE,1/29/2014,"10,000",1,Yes,,"2,436.10",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,089",Casper,Phoenix Production Company,Customer PU,1328 English Ave.;,Casper,WY,82601,2132255900,213-225-5916,WY,HDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+"1,097",,Bureau of Land Management,,Rawlins Field Office;1300 No. 3rd Street,Rawlins,WY,82301,3073284250,307-328-4224,WY,MRS,JEN,n,,4,GOVERNMENT-FEDERAL,3/26/2013,"25,000",0,No,,35,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,097",Casper,Bureau of Land Management,Casper,Rawlins Field Office;1328 English Ave.,Casper,WY,82601,3073284250,307-328-4224,WY,MRS,JEN,n,,4,GOVERNMENT-FEDERAL,,"25,000",0,,,,,,,,,
+"1,098",,Miller Construction,,Park S. Miller - Owner;P.O. Box 467,Douglas,WY,82633-0319,3073586107,,WY,RES,JBH,y,,,,9/19/2013,"5,000",1,Yes,,58,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,098",Shop,Miller Construction,Shop,Park S. Miller - Owner;517 Birch,Douglas,WY,82633,3073586107,,WY,RES,JBH,y,,,,,"5,000",1,,,,,,,,,
+"1,100",,Applied Construction Tech Inc,,5474 Coates Road;,Casper,WY,82604,3072623670,,WY,RES,EDS,y,,,,2/19/2014,"100,000",1,Yes,,"32,385.67",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,100",GrnwyPk2,Applied Const Tech-GrnwyPrk2,Preserve at GrnwyPrkPh2,% The Preserve at Greenway Prk;Ph II Jobsite,Casper,WY,82604,3072623670,,WY,RES,EDS,y,,,,,"100,000",1,,,,,,,,,
+"1,100",Shop,Applied Construction Tech Inc,Shop,5474 Coates Road;,Casper,WY,82604,3072623670,,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,100",SuperFit,Applied Const Tech-SuperFit,Super Fitness,% Super Fitness Jobsite;,Casper,WY,82604,3072623670,,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+"1,101",,"Smitty's Repair Service, Inc.",,P.O. Box 267;,Torrington,WY,82240-0267,3075323226,307-532-3226,WY,HA,HA,n,WY #07-0-00292,1,RESALE,9/6/2013,"10,000",1,Yes,,"10,277.83",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,101",Shop,"Smitty's Repair Service, Inc.",Job,4714 US Hwy 26/85;,Torrington,WY,82240,3075323226,307-532-3226,WY,HA,HA,n,WY #07-0-00292,1,RESALE,,"10,000",1,,,,,,,,,
+"1,102",,"Gonzo, LLC",,P. O. Box 206;,DeBeque,CO,81630,9702619799,970-283-9522,WY,JMK,BSW,y,,,,2/27/2014,"50,000",1,Yes,,"6,476.05",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,102",De Beque,"Gonzo, LLC",De Beque,2169 I-70 Frontage Rd;,De Beque,CO,81630,9702619799,970-283-9522,WY,HDL,BSW,y,,,,,"50,000",1,,,,,,,,,
+"1,105",,Diverse Construction,,Rob Vollmar - Owner;P.O. Box 1237,Glenrock,WY,82637-1237,3072770365,,WY,RES,EDS,y,,,,10/29/2013,"2,500",1,Yes,,"2,698.50",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,105",Casper,Diverse Construction,Casper,Rob Vollmar - Owner;1328 English Ave.,Casper,WY,82601,3072770365,,WY,RES,EDS,y,,,,,"2,500",1,,,,,,,,,
+"1,112",,"NST Investment, LLC",,P.O. Box 6812;,Sheridan,WY,82801-6812,3076755143,307-675-5175,WY,RES,EDS,y,,,,12/18/2013,"5,000",1,Yes,,"29,029.06",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,112",MavrckRd,NST Investment  LLC-MaverickRd,MaverickRdBrdg,% Maverick Rd Wtrln Relocation;Jobsite,Sheridan,WY,82801,3076755143,307-675-5175,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+"1,112",Shop,"NST Investment, LLC",Shop,5313 Coffeen;,Sheridan,WY,82801,3076755143,307-675-5175,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+"1,120",,Waterworks Irrigation,,P.O. Box 532;,Ralston,WY,82440,3077547034,307-754-7087,WY,HA,HA,n,WY #11-0-04963,1,RESALE,1/31/2014,"10,000",1,Yes,,"68,623",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,120",Willwood,Waterworks Irrigation-Willwood,Willwood,% Willwood Jobsite;,Ralston,WY,82440,3077547034,307-754-7087,WY,HA,HA,n,WY #11-0-04963,1,RESALE,,"150,000",1,,,,,,,,,
+"1,121",,"Capstar Drilling, Inc.",,1910 No Loop Ave.;,Casper,WY,82601,3072358609,307-577-7227,WY,JMK,BSW,y,,,,2/12/2013,"25,000",1,Yes,,"10,282.28",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,121",Shop,"Capstar Drilling, Inc.",Shop,1910 No Loop Ave.;,Casper,WY,82601,3072358609,307-577-7227,WY,JMK,BSW,y,,,,,"25,000",1,,,,,,,,,
+"1,122",,ConocoPhillips Company,,Corporate Invoicing;P.O. Box 2200,Bartlesville,OK,74005,3078764183,307-876-4108,WY,JMK,BSW,n,,13,MFG/PROC/CMPNDG,1/31/2014,"10,000",1,Yes,,"18,983.47",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,122",LostCabn,Conoco Phillips Company,LostCabin,% Lost Cabin Jobsite;165 Lost Cabin Road,Lysite,WY,82642,3078764183,307-876-4108,WY,EDS,EDS,n,,13,MFG/PROC/CMPNDG,,"75,000",1,,,,,,,,,
+"1,122",Lysite,BR Oil & Gas Company LP,Lysite,BR Oil&Gas-Lost Cabin Gas Plnt;165 Lost Cabin Road,Lysite,WY,82642,3078764183,307-876-4108,WY,HDL,BSW,n,,13,MFG/PROC/CMPNDG,,"10,000",1,,,,,,,,,
+"1,127",,"Westwood Curtis Constr., Inc.",,P.O. Box 904;,Jackson,WY,83001-0904,3077334586,307-733-3263,WY,RES,EDS,y,,,,11/14/2013,"50,000",1,Yes,,"136,913.60",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,127",2011Wtrm,Westwood Curtis-2011WtrmnRwlns,2011 RawlinsWtrmnRplcmnt,% 2011 Rawlins Watermain;Replacement Jobsite,Rawlins,WY,82301,3077334586,307-733-3263,WY,RES,EDS,y,,,,,"200,000",1,,,,,,,,,
+"1,127",2013Wtr,Westwood Curtis-2013SnclrWtr,2013 SnclrWtr/Swr/St,% 2013 Sinclair Wtr/Swr/St;Improvement Jobiste,Sinclair,WY,82334,3077334586,307-733-3263,WY,RES,EDS,y,,,,,"75,000",1,,,,,,,,,
+"1,128",,Reiman Corporation,,P.O. Box 1007;,Cheyenne,WY,82003-1007,3076328971,307-632-8972,WY,RES,EDS,y,,,,11/19/2013,"100,000",1,Yes,,442.6,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,132",,Carpenter Water & Sewer Distri,,P.O. Box 433;,Carpenter,WY,82054,3076492437,307-634-4511,WY,MRS,JBH,n,A-105865,3,GOVERNMENT-STATE,3/15/2013,"2,500",1,Yes,,"5,073.50",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,132",Shop,Carpenter Water & Sewer Distri,Shop,94 County Road 148;,Carpenter,WY,82054,3076492437,307-634-4511,WY,MRS,JBH,n,A-105865,3,GOVERNMENT-STATE,,"2,500",1,,,,,,,,,
+"1,133",,Big Horn Regional Jnt Pwrs Brd,,P.O. Box 346;,Worland,WY,82401,3073474042,307-347-4277,WY,RES,JBH,n,,16,JOINT POWERS BOARD,2/27/2014,"2,500",0,No,,"5,845.50",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+"1,134",,Knife River Corp. - Chyn Div,,P.O. Box 20150;,Cheyenne,WY,82003,3076345455,307-634-0220,WY,RES,EDS,y,,,,10/24/2013,"10,000",1,Yes,,"10,917",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,134",Shop,Knife River Corp. - Chyn Div,Shop,4875 So Industrial Service Rd;,Cheyenne,WY,82007,3076345455,307-634-0220,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,139",,M-I LLC,,P.O. Box 696409;,San Antonio,TX,78269,3074727257,307-472-4211,WY,JMK,BSW,n,WY  #25-0-00887,1,RESALE,1/17/2014,"10,000",1,Yes,,"121,125.60",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,139",Casper,M-I LLC,Casper,5675 Chapman Place;,Casper,WY,82604,3074727257,307-472-4211,WY,HDL,BSW,n,WY  #25-0-00887,1,RESALE,,"10,000",1,,,,,,,,,
+"1,155",,"Alsco, Inc. dba",,Alsco - American Linen Div.;314 South 4th Street,Laramie,WY,82070,3077422121,307-745-7435,WY,JMK,BSW,y,,,,10/15/2013,"2,500",1,Yes,,849.18,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,155",Shop,"Alsco, Inc. dba",Shop,Alsco - American Linen Div.;314 South 4th Street,Laramie,WY,82070,3077422121,307-745-7435,WY,HDL,BSW,y,,,,,"2,500",1,,,,,,,,,
+"1,165",,Cheyenne Winnelson Company,,P.O. Box 20210;,Cheyenne,WY,82003,3076345867,307-637-7220,WY,HA,HA,n,WY 02-0-00558,1,RESALE,6/17/2013,"10,000",1,Yes,,122,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,178",,Bear River Reg Joint Pwrs Brd,,81 Elk Drive;,Bear River,WY,82930,3077892800,(307) 789-2802,WY,RES,JBH,n,,16,JOINT POWERS BOARD,4/10/2013,"25,000",0,No,,101,N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+"1,178",Shop,Bear River Reg Joint Pwrs Brd,Shop,81 Elk Drive;,Bear River,WY,82930,3077892800,(307) 789-2802,WY,RES,JBH,n,,16,JOINT POWERS BOARD,,"25,000",1,,,,,,,,,
+"1,181",,Town of Thayne,,P.O. Box 298;,Thayne,WY,83127-0298,3078832668,307-883-2680,WY,RES,JBH,n,,2,GOVERNMENT-CITY,10/18/2013,"25,000",1,Yes,,"3,145",N30,Net 30 Days,20,MUNICIPAL SYSTEMS,,2
+"1,181",Shop,Town of Thayne,Shop,233 South Hwy 89;,Thayne,WY,83127,3078832668,307-883-2680,WY,RES,JBH,n,,2,GOVERNMENT-CITY,,"25,000",1,,,,,,,,,
+"1,196",,Stonecrest Construction**COD**,,of Wyoming;P.O. Box 20290,Cheyenne,WY,82003,3076321223,307-632-1078,WY,RES,EDS,y,,,,9/24/2013,"10,000",1,Yes,,301,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,196",Casper,Stonecrest Construction of Wyo,Casper,1328 English Ave.;Customer Pickup,Casper,WY,82601,3076321223,307-632-1078,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,196",Casper,Stonecrest Construction of Wyo,Casper,1328 English Ave.;Customer Pickup,Casper,WY,82601,3076321223,307-632-1078,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,202",,Paquette & Son Construction,,47 Ridge Drive;,Douglas,WY,82633,3073511384,307-358-9706,WY,RES,JBH,y,,,,1/28/2014,"1,000",1,Yes,,"7,596.75",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,202",Casper,Paquette & Son Construction,Casper,1328 English Ave.;,Casper,WY,82601,3073511384,307-358-9706,WY,RES,JBH,y,,,,,"1,000",1,,,,,,,,,
+"1,202",Shop,Paquette & Son Construction,Shop,47 Ridge Drive;,Douglas,WY,82633,3073511384,307-358-9706,WY,RES,JBH,y,,,,,"1,000",1,,,,,,,,,
+"1,206",,"Jackman Construction, Inc.",,P.O. Box 218;,Rock Springs,WY,82902-0218,3073824051,307-362-1659,WY,RES,EDS,y,,,,9/23/2013,"15,000",1,Yes,,"28,024.50",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,206",CrbnCnty,Jackman Const-CarbonCnty,CarbonCntyPrj,% Carbon County Project;Jobsite,Rawlins,WY,82301,3073824051,307-362-1659,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+"1,210",,"Water Guy, LLC",,P.O. Box 2917;,Gillette,WY,82717,3076858235,307-685-8245,WY,RES,EDS,y,,,,1/6/2014,"15,000",1,Yes,,"23,289",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,210",Shop,"Water Guy, LLC",Shop,707 West 3rd St;,Gillette,WY,82716,3076858235,307-685-8245,WY,RES,EDS,y,,,,,"15,000",1,,,,,,,,,
+"1,214",,"D & A Plumbing & Mech, LLC",,P.O. Box 907;,Glenrock,WY,82637-0907,3074369754,307-436-5595,WY,RES,JBH,y,,,,12/23/2013,"2,500",1,Yes,cindy@daplumbing.com,"1,525.50",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,214",Casper,D & A Plumbing & Mech  LLC,Casper,1328 English Ave.;,Casper,WY,82601,3074369754,866-610-4877,WY,RES,JBH,y,,,,,"2,500",1,,,,,,,,,
+"1,215",,Viper Underground,,122 Burma Road;,Riverton,WY,82501-9788,3078718920,307-382-2466,WY,RES,EDS,y,,,,11/11/2013,"5,000",1,Yes,,"8,923.13",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,215",2013swr,Viper Underground-2013SanSwr,2013SanSwr,% 2013 Sanitary Sewer Replcmnt;Jobsite,Casper,WY,82601,3078718920,307-382-2466,WY,RES,EDS,y,,,,,"5,000",0,,,,,,,,,
+"1,215",Shop,Viper Underground,Shop,122 Burma Road;,Riverton,WY,82501,3078718920,307-382-2466,WY,RES,EDS,y,,,,,"2,500",1,,,,,,,,,
+"1,219",,Nowood Construction Inc.,,297 Hwy 434;,Ten Sleep,WY,82442,3073884370,307-366-2596,WY,RES,EDS,y,,,,12/26/2013,"30,000",1,Yes,,"4,821",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,220",,Wyoming State Fairgrounds,,P.O. Drawer 10;,Douglas,WY,82633,3073582398,,WY,MRS,EDDE,n,,3,GOVERNMENT-STATE,11/6/2013,"10,000",0,No,,"3,794",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,220",Douglas,Wyoming State Fairgrounds,Doulgas,400 W. Center Street;,Douglas,WY,82633,3073582398,,WY,MRS,EDDE,n,,3,GOVERNMENT-STATE,,"10,000",0,,,,,,,,,
+"1,222",,Poison Spider Water Company,,P.O. Box 106;,Casper,WY,82602,3072344003,307-234-4003,WY,MRS,EDDE,y,,,,12/3/2013,"1,000",1,Yes,,"16,560.40",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,222",Casper,Poison Spider Water Company,Casper,1328 English Ave.;,Casper,WY,82601,3072344003,307-234-4003,WY,MRS,EDDE,y,,,,,"1,000",1,,,,,,,,,
+"1,227",,USA Trucking,,P.O. Box 40;,Mills,WY,82644,3072663094,,WY,RES,EDS,y,,,,1/17/2014,"1,000",1,Yes,,314,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,231",,"Rocky Mountain Mushrooms, LLC",,***C.O.D.***;P.O. Box 270,Shoshoni,WY,82649,3078762377,307-876-2452,WY,JMK,BSW,y,Pending Tax Certicate,17,AGRICULTURAL PRODUCTION,5/2/2013,"10,000",1,Yes,,"1,116.28",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,232",,"Cody Laboratories, Inc.",,601 Yellowstone Ave.;,Cody,WY,82414,3075877099,307-587-8939,WY,JMK,BSW,y,,,,11/12/2013,"2,500",1,Yes,,551,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,232",Shop,"Cody Laboratories, Inc.",Shop,601 Yellowstone Ave.;,Cody,WY,82414,3075877099,307-587-8939,WY,HDL,BSW,y,,,,,"2,500",1,,,,,,,,,
+"1,234",,Bowman Irrigation Inc. (WS),,6289 I-80 Service Rd;,Pine Bluffs,WY,82082,3072453345,307-245-3010,WY,MRS,MRS,n,WY #02-0-02281,1,RESALE,2/28/2014,"10,000",1,Yes,,"9,192",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+"1,234",Shop,Bowman Irrigation Inc. (WS),Shop,6289 I-80 Service Rd;,Pine Bluffs,WY,82082,3072453345,307-245-3010,WY,MRS,MRS,n,WY #02-0-02281,1,RESALE,,"10,000",1,,,,,,,,,
+"1,235",,Peavler's Mountain Star Inc.,,P.O. Box 395;,Afton,WY,83110-0395,3078863370,307-885-3493,WY,HA,HA,n,WY #12-0-00436,1,RESALE,10/10/2013,"15,000",1,Yes,,525,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,235",Shop,Peavler's Mountain Star Inc.,Shop,50 West Rocky Rd;,Afton,WY,83110,3078863370,307-885-3493,WY,HA,HA,n,WY #12-0-00436,1,RESALE,,"2,500",1,,,,,,,,,
+"1,237",,TREC Inc.,,111 Star Lane;,Casper,WY,82604,3072614200,307-261-4288,WY,JMK,BSW,y,,,,6/18/2013,"10,000",1,Yes,,442.4,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,237",Casper,TREC Inc.,Casper,111 Star Lane;,Casper,WY,82604,3072614200,307-261-4288,WY,HDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+"1,238",,"Zupan Electric, Inc. &",,Zupan Plumbing;156 Hwy 20 So,Thermopolis,WY,82443,3078642747,307-864-3529,WY,HA,HA,n,15-0-00159,1,RESALE,12/9/2013,"5,000",1,Yes,,906,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,238",Shop,"Zupan Electric, Inc. &",Shop,Zupan Plumbing;156 Hwy 20 So,Thermopolis,WY,82443,3078642747,307-864-3529,WY,HA,HA,n,15-0-00159,1,RESALE,,"5,000",1,,,,,,,,,
+"1,244",,"Can-Do Company, LLC",,1800 Opportunity Blvd.;,Casper,WY,82601,3072346299,307-266-6563,WY,RES,EDS,y,,,,2/17/2014,"15,000",1,Yes,,540.4,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,244",Shop,"Can-Do Company, LLC",Shop,1800 Opportunity Blvd.;,Casper,WY,82601,3072346299,307-266-6563,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,245",,Sinclair Transportation Co.,,Tank Services;8581 E. 96th Ave.,Henderson,CO,80640,3038340068,,WY,JMK,GWR,y,,,,10/11/2013,"50,000",1,Yes,,"16,425",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,245",StorTank,Sinclair Transportation Co.,StorageTankHydroTest,Tank Services;% StorageTankHydroTest Jobsite,Sinclair,WY,82334,3038340068,,WY,HDL,GWR,y,,,,,"50,000",1,,,,,,,,,
+"1,246",,Fox Field Services LLC,,P.O. Box 51829;,Casper,WY,82605-1829,3072345011,307-234-5011,WY,HA,HA,y,,,,1/17/2014,"5,000",1,Yes,,"16,901.75",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,246",Shop,Fox Field Services LLC,Shop,1414 Burlingon;,Casper,WY,82601,3072345011,307-234-5011,WY,HA,HA,y,,,,,"5,000",1,,,,,,,,,
+"1,252",,"Bison Pump & Supply, Inc. (WS)",,P.O. Box 987 - 160 Hwy #59;,Douglas,WY,82633,3073582098,307-358-4753,WY,MRS,MRS,n,WY #13-0-00372,1,RESALE,4/30/2013,"2,500",1,Yes,,106,N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+"1,252",Casper,Bison Pump & Supply  Inc. (WS),Casper,1328 Eglish Ave.;,Casper,WY,82601,3073582098,307-358-4753,WY,MRS,MRS,n,WY #13-0-00372,1,RESALE,,"2,500",1,,,,,,,,,
+"1,253",,"Heritage Matl's & Sply, LLC",,P.O. Box 670;,Torrington,WY,82240-0670,3075323333,307-532-2040,WY,RES,EDS,y,,,,5/7/2013,"25,000",1,Yes,,-238.75,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,253",Shop,"Heritage Matl's & Sply, LLC",Shop,4756 State Hwy 154;,Torrington,WY,82240,3075323333,307-532-2040,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+"1,253",SwLagoon,Heritage Matl's-SwrLagoonDiv,SwrLagoonDiverBox,% Swr Lagoon Diver Box;,Lusk,WY,82225,3075323333,307-532-2040,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,254",,Matheson Drilling Inc. (WS),,P.O. Box 193;,Gillette,WY,82718-0193,3076860791,307-686-4816,WY,MRS,MRS,y,,,,2/27/2014,"10,000",1,Yes,,491,N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+"1,254",Shop,Matheson Drilling Inc. (WS),Shop,6400 Antelope Valley Street;,Gillette,WY,82718,3076860791,307-686-4816,WY,MRS,MRS,y,,,,,"10,000",1,,,,,,,,,
+"1,261",,"Arctic Catering, Inc.",,P.O. Box 687-127;,Pinedale,WY,82941,3072125272,307-212-5280,WY,JMK,BSW,y,,,,2/7/2014,"6,000",1,Yes,,"3,727",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,261",EncanCmp,Arctic Catering-EncanaManCmp,EncanaManCamp,South of Pinedale;,Pinedale,WY,82941,3072125272,307-212-5280,WY,HDL,BSW,y,,,,,"6,000",1,,,,,,,,,
+"1,263",,Big Huhnks Excavation Inc.,,P.O. Box 1723;,Laramie,WY,82073-1723,3073492143,307-742-6187,WY,RES,EDS,y,,,,12/19/2013,"100,000",1,Yes,,"107,975.10",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,263",2013Ally,Big Huhnks Excav-2013AlleyRehb,"2013AlleyRehab, STP Ph2","% 2013 Alley Rehab, SPT Ph2;Jobsite",Laramie,WY,82070,3073492143,307-742-6187,WY,RES,EDS,y,,,,,"75,000",1,,,,,,,,,
+"1,263",Shop,Big Huhnks Excavation Inc.,Shop,17 Terrafirma Trail;,Laramie,WY,82072,3073492143,307-742-6187,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,263",UW Gtwy,Big Huhnks Excav-UW Gateway,UW GatewayCntrBP#1,% UW Gateway Cntr - BP#1;Jobsite,Laramie,WY,82070,3073492143,307-742-6187,WY,RES,EDS,y,,,,,"60,000",1,,,,,,,,,
+"1,264",,Barnum Construction Serv LLC,,P. O. Box 82;,Buffalo,WY,82834-0082,3076845365,307-684-5766,WY,RES,EDS,y,,,,2/19/2014,"25,000",1,Yes,,"64,465.93",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,264",E.WyoCol,Barnum Const-E.WyoCollege,E.WyoCollege,% Eastern Wyoming College;Jobsite,Doulgas,WY,82633,3076845365,307-684-5776,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+"1,264",InnovCnt,Barnum Const-InnovCntr,CasperAreaBusInnovCntr,% Casper Area Bus Innov Center;Jobsite,Casper,WY,82601,3076845365,307-684-5776,WY,RES,EDS,y,,,,,"15,000",1,,,,,,,,,
+"1,264",NC Fitns,Barnum Const-NC Fitness,NC StudentFitness/ActCnt,% NC Student Fitness Jobsite;,Casper,WY,82601,3076845365,307-684-5776,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,264",OtolaMed,Barnum Const-OtolaryMedBldg,OtolaryMedBldg,% Otolaryngology Medical;Office Bldg Jobsite,Casper,WY,82601,3076845365,307-684-5776,WY,RES,EDS,y,,,,,"35,000",1,,,,,,,,,
+"1,264",Shop,Barnum Construction Serv LLC,Shop,214 No Tisdale Ave.;,Buffalo,WY,82834,3076845365,307-684-5776,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,264",WyoPark,Barnum Const-WyoPark,WyoParkAreaPhII,% Wyo Park Area Ph II Jobsite;,Sheridan,WY,82801,3076845365,307-684-5776,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+"1,264",YMCA Cmp,Barnum Const-YMCA Camp,YMCA CampFishing&Pond,% YMCA CampFishingPond Jobsite;West of,Buffalo,WY,82834,3076845365,307-684-5776,WY,RES,EDS,y,,,,,"20,000",1,,,,,,,,,
+"1,266",,Brown Brothers Inc. dba,,Brothers Irrigation (WS);P.O. Box 466,Worland,WY,82401,3073472044,307-347-2471,WY,HA,HA,n,20001512,1,RESALE,6/18/2013,"2,500",1,Yes,,"6,166.78",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+"1,266",Shop,Brown Brothers Inc. dba,Shop,Brothers Irrigation;400 Barley Row,Worland,WY,82401,3073472044,307-347-2471,WY,HA,HA,n,20001512,1,RESALE,,"2,500",1,,,,,,,,,
+"1,267",,"Teton Buildings, LLC",,2701 Magnet Street;,Houston,TX,77054,7133516300,713-674-4844,WY,HA,HA,n,WY #01-0-08893,1,RESALE,11/27/2013,"2,500",1,Yes,,240,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,267",Shop,"Teton Buildings, LLC",Shop,3283 No 9 Miles Road;,Casper,WY,82604,7133516300,713-674-4844,WY,HA,HA,n,WY #01-0-08893,1,RESALE,,"2,500",1,,,,,,,,,
+"1,269",,T Cross T Ranch LLC,,P.O. Box 3003;,Casper,WY,82602-3003,3072591818,,WY,MRS,MRS,y,,,,11/7/2013,"10,000",1,Yes,,"4,196.85",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,275",,Triple L Sales (WS),,P.O. Box 2202;,Cody,WY,82414-2202,3075275715,307-527-5937,WY,MRS,MRS,n,WY #11-0-04922,1,RESALE,10/23/2013,"10,000",1,Yes,,"1,600",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+"1,275",Shop,Triple L Sales (WS),Shop,3460 Big Horn Ave.;,Cody,WY,82414,3075275715,307-527-5937,WY,MRS,MRS,n,WY #11-0-04922,1,RESALE,,"10,000",1,,,,,,,,,
+"1,279",,"Chesapeake Operating, Inc.",,P.O. Box 548806;,Oklahoma City,OK,73154,3072516651,307-234-9045,WY,JMK,BSW,y,,,,6/24/2013,"10,000",1,Yes,,"18,899.50",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,279",Casper,"Chesapeake Operating, Inc.",Casper,5880 Enterprise Drive;Suite 600,Casper,WY,82609,3072516651,307-234-9045,WY,HDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+"1,280",,Clean Harbors (ND),,Environmental Services;4438 Sims St.,Dickinson,ND,58601,7014834332,,WY,JMK,BSW,y,,,,8/15/2013,"25,000",1,Yes,,"16,215.63",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,280",Dickson,Clean Harbors,"Dickson, ND",Environmental Services;141 3rd Street West,Dickinson,ND,58601,7014834332,,WY,HDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+"1,285",,"Hamar Sales & Service, Inc.",,12050 Bessemer Bend Rd;,Casper,WY,82604-9133,3074726507,307-265-3149,WY,MRS,MRS,n,WY #01-0-05968,1,RESALE,2/25/2014,"10,000",1,Yes,,"18,287.61",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+"1,288",,Cop Wyoming LLC,,P.O. Box 979;,Sheridan,WY,82801,3076732570,307-333-0188,WY,RES,EDS,y,,,,2/18/2014,"250,000",1,Yes,,"55,936.40",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,288",Morrison,Cop Wyoming LLC-MorrisonRnch,MorrisonRanch,% Morrision Ranch Jobsite;,Sheridan,WY,82801,3076732570,307-333-0188,WY,RES,EDS,y,,,,,"75,000",1,,,,,,,,,
+"1,288",Shop,Cop Wyoming LLC,Shop,1949 Sugarland Dr;Ste 192,Sheridan,WY,82801,3076732570,307-333-0188,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,289",,Lindstadt Construction,,Michael Lindstadt - Owner;65 Pattison Farms Rd,Pavillion,WY,82523,3078565817,307-463-4382,WY,RES,EDS,y,,,,11/26/2013,"20,000",1,Yes,,"3,132.94",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,290",,Twin Peaks Pmp & Sply Inc (WS),,P.O.Box 420;,Douglas,WY,82633,3073581133,307-358-1135,WY,MRS,MRS,n,WY #13-0-01482,1,RESALE,2/12/2014,"10,000",1,Yes,,406.5,N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+"1,290",Casper,Twin Peaks Pump & Supply (WS),Casper,Customer Pickup at;1328 English Ave.,Casper,WY,82601,3073581133,307-358-1135,WY,MRS,MRS,n,WY #13-0-01482,1,RESALE,,"10,000",1,,,,,,,,,
+"1,293",,C W F Drilling (WS),,Calvin Fertig - Owner;195 East Cole Road,Wheatland,WY,82201,3073222392,,WY,MRS,MRS,y,,,,10/8/2013,"2,500",1,Yes,,"10,790.25",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+"1,293",Casper,C. F. Drilling (WS),Casper,Calvin Fertig - Owner;Cust PU at 1328 English Ave.,Casper,WY,82601,3073222392,,WY,MRS,MRS,y,,,,,"2,500",0,,,,,,,,,
+"1,293",Shop,C W F Drilling (WS),Shop,Calvin Fertig - Owner;195 East Cole Road,Wheatland,WY,82201,3073222392,,WY,MRS,MRS,y,,,,,"2,500",1,,,,,,,,,
+"1,298",,Ricor Investments,,P.O. Box 50730;,Casper,WY,82605,3074722908,307-235-1485,WY,RES,EDS,y,,,,10/25/2013,"25,000",1,Yes,,385,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,300",,U.S. Bentonite Processing Inc.,,"dba USBP;152 No Durbin, Ste 120",Casper,WY,82601,3074720555,307-462-0728,WY,JMK,BSW,y,,,,8/30/2013,"5,000",1,Yes,,"1,310",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,300",Shop,U.S. Bentonite Processing Inc.,Shop,dba USBP;12050 Bucknum Rd #3,Casper,WY,82604,3074720555,307-462-0728,WY,JMK,BSW,y,,,,,"5,000",1,,,,,,,,,
+"1,305",,Basic Energy Services - Cspr,,P.O. Drawer 969;,Mills,WY,82644,3074720366,307-266-1028,WY,JMK,BSW,y,,,,11/13/2013,"10,000",1,Yes,,"3,516.87",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,305",Shop,Basic Energy Services,Shop,2140 7 Mile Road;,Casper,WY,82604,3074720366,307-266-1028,WY,JMK,BSW,y,,,,,"10,000",1,,,,,,,,,
+"1,312",,Weston Engineering,,P.O. Box 260;,Upton,WY,82730,3074682427,307-468-2547,WY,RES,EDS,n,,1,RESALE,10/29/2013,"25,000",1,Yes,,"2,670",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,312",Shop,Weston Engineering,Shop,1401 Hwy 16 East;,Upton,WY,82730,3074682427,307-468-2547,WY,RES,EDS,n,,1,RESALE,,"2,500",1,,,,,,,,,
+"1,313",,"Pat's Roustabout Service, Inc.",,P.O. Box 870;,Cartage,TX,75633,9036934300,9036934302,WY,PMP,BSW,n,TX #18302812930,1,RESALE,9/6/2013,"10,000",1,Yes,,"16,690",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,313",Casper,Pat's Roustabout Service  Inc.,"Casper, WY",Pickup at 1328 English Ave.;,Casper,WY,82601,3073280511,307-324-6747,WY,PMP,BSW,n,TX #18302812930,1,RESALE,,"10,000",1,,,,,,,,,
+"1,313",Wamsuttr,"Pat's Roustabout Service, Inc.","Wamsutter, WY",610 Ltham Road;,Wamsutter,WY,82336,3073280511,307-324-6747,WY,PMP,BSW,n,TX #18302812930,1,RESALE,,"10,000",1,,,,,,,,,
+"1,314",,Baker Hughes Inc.,,BHBSS AP General PO;P.O. Box 3589,Portland,OR,97208,7136255609,713-625-6403,WY,PMP,BSW,y,,,,1/28/2014,"50,000",1,Yes,,0,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,314",Casper,Baker Hughes Inc.,Casper,5151 Reserve Drive;,Evansville,WY,82636,7136255609,713-625-6403,WY,PMP,BSW,y,,,,,"50,000",1,,,,,,,,,
+"1,316",,Merit Enery Company,,P.O. Box 189;,Bairoil,WY,82322-0189,3073246645,307-328-2303,WY,PMP,BSW,y,,,,4/22/2013,"10,000",1,Yes,,595,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,316",Shop,Merit Enery Company,,2.5 Miles West of Lamont;,Bairoil,WY,82322,3073246645,307-328-2303,WY,PMP,BSW,y,,,,,"10,000",1,,,,,,,,,
+"1,318",,Allterra Construction LLC,,1320 So David;,Casper,WY,82601,3072470647,307-,WY,RES,EDS,y,,,,2/26/2014,"5,000",1,Yes,,"9,225.49",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,318",Casper,Allterra Construction LLC,Casper,Pickup at 1328 English Ave.;,Casper,WY,82601,307,307-,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+"1,319",,"ProPetro Services, Inc.",,P.O. Box 827;,Vernal,UT,84078-0827,4357894729,435-789-7409,WY,PMP,BSW,n,,9,OTHER STATE,1/20/2014,"50,000",1,Yes,,"16,789.35",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,319",Vernal,"ProPetro Services, Inc.","Vernal, UT",1422 East 1500 South;,Vernal,UT,84078,4357894729,435-789-7409,WY,PMP,BSW,n,,9,OTHER STATE,,"50,000",1,,,,,,,,,
+"1,323",,LJS Concrete & Exc LLC,,403 Upper Road;,Sheridan,WY,82801,3076741562,,WY,RES,EDS,y,,,,1/14/2014,"75,000",1,Yes,,"71,098.90",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,323",Grybl LS,LJS Concrete & Exc-Grybl WWLS,Greybull WW LftSta,% Wastewater Lift Sta Jobsite;Call Mr Chovanak prior to del,Greybull,WY,82426,3076741562,,WY,PMP,BRP,y,,,,,"75,000",1,,,,,,,,,
+"1,323",WtrSysUp,LJS Concrete & Exc-WtrSysUpgrd,WtrSysUpgrdPh2,% Water System Upgrades Ph II;Jobsite,Pine Haven,WY,82721,3076741562,,WY,RES,EDS,y,,,,,"80,000",1,,,,,,,,,
+"1,325",,Weatherford Directional,,P.O. Box 1449;,Mills,WY,82644,3072687900,,WY,PMP,BSW,y,,,,2/14/2013,"10,000",1,Yes,,556.79,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,325",Shop,Weatherford Directional,Shop,2000 Oil Drive;,Casper,WY,82604,3072687900,,WY,PMP,BSW,y,,,,,"10,000",1,,,,,,,,,
+"1,326",,Rural West LLC,,10 Horner Drive;,Cody,WY,82414,3072502742,,WY,MRS,MRS,n,WY #11-0-05420,1,RESALE,12/27/2013,"10,000",1,Yes,,"19,455.86",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+"1,326",Shop,Rural West LLC,Shop,10 Horner Drive;,Cody,WY,82414,3072502742,,WY,MRS,MRS,n,WY #11-0-05420,1,RESALE,,"10,000",1,,,,,,,,,
+"1,334",,Concrete Foundations Inc.,,P.O. Box 67;,Douglas,WY,82633-0067,3073584482,307-358-5116,WY,RES,EDS,y,,,,10/30/2013,"10,000",1,Yes,,563,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,334",Casper,Concrete Foundations Inc.,Casper,Cust PU at 1328 English Ave.;,Casper,WY,82601,3073584482,307-358-5116,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,336",,Shoshone & Arapahoe Trans Dept,,P.O. Box 217;,Fort Washakie,WY,82514-0538,3073357669,307-332-1498,WY,ha,ha,n,,18,TRIBAL GOVERNMENT,6/6/2013,"10,000",0,No,,495,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,341",,Tillard 55 LTD,,P.O. Box 58;,Douglas,WY,82633,,,WY,MRS,GWR,n,Need Exempt Cert!,12,EXEMPT,1/14/2013,"10,000",1,Yes,,398.95,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,341",Casper,Tillard 55 LTD,"Casper, WY",Cust PU at 1328 English Ave.;,Casper,WY,82601,,,WY,MRS,GWR,n,Need Exempt Cert!,12,EXEMPT,,"10,000",1,,,,,,,,,
+"1,342",,Intermountain Construction,,1618 Kroe Lane;,Sheridan,WY,82801,3076728407,307-672-7692,WY,RES,EDS,y,,,,11/14/2013,"75,000",1,Yes,,"69,245.70",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,342",Mill&Ovr,Intermountain Const-Mill&Ovrly,SheridanMill&Overlay,% Sheridan Mill & Overlay;,Sheridan,WY,82801,3076728407,307-672-7692,WY,RES,EDS,y,,,,,"50,000",1,,,,,,,,,
+"1,342",Shop,Intermountain Construction,Shop,1618 Kroe Lane;,Sheridan,WY,82801,3076728407,307-672-7692,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,342",WyoPark,Intermountain Const-WyoPrkArea,WyoParkAreaPhII,% Wyo Park Area PhII Jobsite;,Sheridan,WY,82801,3076728407,307-672-7692,WY,RES,EDS,y,,,,,"75,000",1,,,,,,,,,
+"1,343",,"Uranium One Americas, Inc.",,"Attn:  Accounting;907 North Poplar, Ste 260",Casper,WY,82601,3072348235,307-237-8235,WY,JMK,BSW,y,,,,11/18/2013,"10,000",1,Yes,,"12,740",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,343",Casper,"Uranium One Americas, Inc.",Casper,Cust PU at 1328 English Ave.;,Casper,WY,82601,3072348235,307-237-8235,WY,JMK,BSW,y,,,,,"10,000",1,,,,,,,,,
+"1,346",,Campbell County School Dist #1,,P.O. Box 3033;,Gillette,WY,82717-3033,3076825171,,WY,MRS,JBH,n,,11,GOVERNMENT-COUNTY,8/21/2013,"10,000",0,No,agarner@ccsd.k12.wy.us,910.8,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,346",Shop,Campbell County School Dist #1,Shop,1000 West 8th Street;,Gillette,WY,82716,3076825171,,WY,MRS,JBH,n,,11,GOVERNMENT-COUNTY,,"10,000",1,,agarner@ccsd.k12.wy.us,,,,,,,
+"1,349",,Central Wyo Fair & Rodeo,,1700 Fair Grounds Road;,Casper,WY,82604,3072355775,307-266-4224,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,9/18/2013,"10,000",0,No,,21,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,349",Casper,Central Wyo Fair & Rodeo,Casper,1700 Fair Grounds Road;,Casper,WY,82604,3072355775,307-266-4224,WY,MRS,JBH,n,,3,GOVERNMENT-STATE,,"10,000",1,,,,,,,,,
+"1,350",,Arctic Oilfield Services,,P.O. Box 1321;,Glenrock,WY,82637-1321,3074362780,307-436-7172,WY,JMK,BSW,y,,,,5/22/2013,"2,500",1,Yes,,"1,631.70",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,350",Glenrock,Arctic Oilfield Services,Glenrock,155 Arctic Ave.;,Glenrock,WY,82637,3074362780,307-436-7172,WY,JMK,BSW,y,,,,,"2,500",1,,,,,,,,,
+"1,353",,Brutill Construction Inc.,,1468 N. Buck Creek Road;,Casper,WY,82601,3072376601,,WY,RES,EDS,y,,,,2/18/2014,"10,000",1,Yes,,"9,430.64",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,353",Shop,Brutill Construction Inc.,Shop,1468 N. Buck Creek Road;,Casper,WY,82601,3072376601,,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,354",,"Chama Oil & Minerals, LLC",,P.O. Box 50203;,Midland,TX,79710,4326838000TX,307-683-8250,WY,JMK,GWR,y,,,,4/12/2013,"10,000",1,Yes,,"11,300",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,356",,Great Plains Utility Org,,9 Great Plains Road;Unit 9819,Arapahoe,WY,82510,3078572004,307-857-2001,WY,MRS,JBH,n,,4,GOVERNMENT-FEDERAL,6/14/2013,"10,000",0,No,,825,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,361",,Support Equipment LLC,,P.O. Box 51414;,Casper,WY,82605-1414,3072652165,307-234-6365,WY,HA,HA,n,WY #01-0-09924,1,RESALE,11/12/2013,"5,000",1,Yes,,350,N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,363",,Clean Harbors (Cspr),,Environmental Services;P.O. Box 574,Mills,WY,82644,3079954591,307-995-4596,WY,JMK,BSW,y,,,,2/28/2014,"25,000",1,Yes,,"26,887.82",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,363",Casper,Clean Harbors,Casper,Environmental Services;5231 Poison Spider Road,Casper,WY,82604,3079954591,307-995-4596,WY,JMK,BSW,y,,,,,0,1,,,,,,,,,
+"1,364",,DCT Energy Services LLC,,"113 So.Gillette Ave, Ste.210B;",Gillette,WY,82716,3078710246,,WY,PMP,BSW,n,WY 17-0-06366,1,RESALE,2/19/2014,"5,000",1,Yes,,"13,699.41",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,364",Shop,DCT Energy Services LLC,Shop,1301 East Lincoln Street;,Gillette,WY,82717,3078710246,,WY,PMP,BSW,n,wWY 17-0-06366,1,RESALE,,"5,000",1,,,,,,,,,
+"1,366",,"Caballo Coal, LLC",,A Peabody Energy Subsidiary;P.O. Box 66917,Saint Louis,MO,63166-6917,3074644662,307-464-4665,WY,MDL,BSW,y,,,,3/14/2013,"250,000",1,Yes,,"7,346.30",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+"1,366",Rawhide,Rawhide Mine - Main Warehouse,Rawhide Mine,No Hwy 59 12433;,Gillette,WY,82716-1151,3074644662,307-464-4665,WY,MDL,BSW,y,,,,,"250,000",1,,,,,,,,,
+"1,368",,Short Powerline Service,,P.O. Box 716;,Glenrock,WY,82637-0716,3074369605,307-436-9604,WY,RES,DCC,y,,,,3/18/2013,"25,000",1,Yes,,"21,028.80",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,368",Shop,Short Powerline Service,Shop,109 No 4th;,Glenrock,WY,82637,3074369605,307-436-9604,WY,RES,DCC,y,,,,,"25,000",1,,,,,,,,,
+"1,369",,UR Energy USA Inc.,,5880 Enterprise Dr;Suite 200,Casper,WY,82609,3072652373,307-265-2801,WY,MDL,BSW,y,,,,7/17/2013,"10,000",1,Yes,,"5,616",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,369",Casper,UR Energy USA Inc.,Casper,5880 Enterprise Dr;Suite 200,Casper,WY,82609,3072652373,307-265-2801,WY,MDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+"1,372",,Cloud Peak Energy,,Spring Creek Coal LLC;P. O. Box 3001,Gillette,WY,82717-3001,3076876000,307-687-6015,WY,PMP,CS,y,,,,7/11/2013,"50,000",1,Yes,,"85,358",2%10,2%10 Net30,40,INDUSTRIAL SYSTEMS,,2
+"1,376",,"Fluid Pro, LLC",,P.O. Box 473;,Riverton,WY,82501-0473,3078557704,855-851-4989?,WY,HA,HA,n,WY 10006232,1,RESALE,2/24/2014,"50,000",1,Yes,,"194,836.86",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,376",Shop,"Fluid Pro, LLC",Shop,116A Burma Road;,Riverton,WY,82501-0473,3078557704,855-851-4989?,WY,HA,HA,n,WY 10006232,1,RESALE,,"50,000",1,,,,,,,,,
+"1,377",,Mile High Water Service Dist,,Attn:  Pat McMurry;P.O. Box 1717,Mills,WY,82644,3072623382,,WY,MRS,EDS,n,,15,WATER DISTRICT,12/26/2013,"10,000",1,Yes,,"1,116.40",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,377",Shop,Mile High Water Service Dist,Shop,Attn:  Pat McMurry;770 No 6 Mile Road,Casper,WY,82604,3072623382,,WY,MRS,EDS,n,,15,WATER DISTRICT,,"10,000",1,,,,,,,,,
+"1,378",,"Bivens Construction, Inc.",,P.O. Box 105;,Torrington,WY,82240,9702227040,307-532-4598,WY,RES,EDS,y,,,,8/22/2013,"175,000",1,Yes,,"160,681.70",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,378",ColdSprg,Bivens Const Inc - ColdSprg,ColdSprgsBusPrkPhI,% Cold Springs Bus Park Ph I;Jobsite,Torrington,WY,82240,9702227040,307-532-4598,WY,RES,EDS,y,,,,,"175,000",1,,,,,,,,,
+"1,378",Shop,"Bivens Construction, Inc.",Shop,1841 East C;,Torrington,WY,82240,9702227040,307-532-4598,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,379",,Western States Well Drilling,,Victor Oliver - Owner;P.O. Box 130,Bairoil,WY,82322-0130,3073242069,,WY,MRS,MRS,y,,,,6/13/2013,"1,000",1,Yes,,458,N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+"1,381",,NSA Excavating LLC,,P.O. Box 58;,Baggs,WY,82321,9706295027,307-383-2229,WY,RES,EDS,y,,,,2/24/2014,"10,000",1,Yes,,"6,896.33",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,381",Shop,NSA Excavating LLC,Shop,152 Hunt Street;,Baggs,WY,82321,9706295027,307-383-2229,WY,RES,EDS,y,,,,,"10,000",1,,,,,,,,,
+"1,382",,Dale Weber dba (WS),,Dale's Water Well/Backhoe Serv;225 Lyons Valley,Lander,WY,82520,3073329161,,WY,MRR,TJM,y,,,,10/8/2013,"2,500",1,Yes,,"17,360.24",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+"1,382",Casper,Dale Weber dba (WS),Casper,Dale's Water Well/Backhoe Serv;Cust PU at 1328 English Ave.,Casper,WY,82601,3073329161,,WY,MRR,TJM,y,,,,,"2,500",1,,,,,,,,,
+"1,382",Shop,Dale Weber dba (WS),Shop,Dale's Water Well/Backhoe Serv;225 Lyons Valley,Lander,WY,82520,3073329161,,WY,MRR,TJM,y,,,,,"2,500",1,,,,,,,,,
+"1,384",,Dirt-Tech Excavation &,,"Trucking, LLC;P.O. Box 1906",Laramie,WY,82073,3077607978,3077429058,WY,RES,EDS,y,,,,2/21/2014,"25,000",1,Yes,,"21,946.40",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,384",Casper,Dirt-Tech Excavation &,Casper,"Trucking, LLC;Cust PU at 1328 English Ave.",Casper,WY,82601,3077607978,3077429058,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+"1,384",UWGlfCrs,Dirt-Tech Excav-UW GolfCrs,UW GolfCourse,% UW Golf Course Jobsite;,Laramie,WY,82070,3077607978,3077429058,WY,RES,EDS,y,,,,,"25,000",1,,,,,,,,,
+"1,386",,"DelHur Industries, Inc.",,1933 Jadwin Ave. Suite 205;,Richland,WA,99354,5093710678,509-371-0943,WY,RES,EDS,y,,,,1/10/2014,"5,000",1,Yes,,"7,385.80",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,386",Landfill,"DelHur Industries, Inc.-LndFl",Laramie Landfill,112 Roger Canyon Rd;,Laramie,WY,82070,5093710678,509-371-0943,WY,RES,EDS,y,,,,,"5,000",1,,,,,,,,,
+"1,387",,"ISCO Industries, LLC.",,P.O. Box 4545;,Louisville,KY,40204,5025836591,502-584-9713,WY,RES,EDS,n,WY #24015638,1,RESALE,7/30/2013,"30,000",1,Yes,,"27,916.24",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,387",LarLndFl,"ISCO Industries, LLC.-LarLndFl",Laramie Landfill,112 Roger Canyon Rd;,Laramie,WY,82070,5025836591,502-584-9713,WY,RES,EDS,n,24015638,1,RESALE,,"30,000",1,,,,,,,,,
+"1,388",,"AKJ Industries, Inc.",,10175 Six Mile Cypress Pkwy;Unit 1,Fort Myers,FL,33966,2399397696,239-939-2173,WY,MRR,BSW,y,,,,2/17/2014,"15,000",1,Yes,,"7,673.80",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,388",Casper,AKJ Industries  Inc.,Casper,Cust PU at 1328 English Ave.;,Casper,WY,82601,2399397696,239-939-2173,WY,MRR,BSW,y,,,,,"5,000",1,,,,,,,,,
+"1,388",Douglas,"AKJ Industries, Inc.",Douglas,2305 East Richards Street;,Douglas,WY,82633,2399397696,239-939-2173,WY,MRR,BSW,y,,,,,"5,000",1,,,,,,,,,
+"1,388",Gillette,AKJ Industries  Inc.,Gillette,% Jobsite;,Gillette,WY,82716,2399397696,239-939-2173,WY,MRR,BSW,y,,,,,"15,000",1,,,,,,,,,
+"1,389",,J & E Inc. (WS),,P.O. Box 228;,Basin,WY,82410,3075683646,307-568-3645,WY,MRS,MRS,n,WY #09-0-01328,1,RESALE,2/10/2014,"10,000",1,Yes,,"1,000",N30,Net 30 Days,70,WHOLESALE/DEALERS,,2
+"1,389",Shop,J & E Inc. (WS),Shop,405 South 3rd Street;,Basin,WY,82410,3075683646,307-568-3645,WY,MRS,MRS,n,WY #09-0-01328,1,RESALE,,"10,000",1,,,,,,,,,
+"1,397",,"Susquehanna Services, Inc.",,1204 Main Street;,Swoyersville,PA,18704,5702885269,570-283-2725,WY,MDL,BSW,y,,,,2/25/2014,"15,000",1,Yes,,"21,954",N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,397",Douglas,"Susquehanna Services, Inc.","Douglas, WY",Rig Site No of Douglas;,Douglas,WY,82633,5702885269,570-283-2725,WY,MDL,BSW,y,,,,,"15,000",1,,,,,,,,,
+"1,398",,Warm Springs Water District,,P.O. Box 397;,Dubois,WY,82513-0397,3074552950,,WY,MRS,JBH,n,,15,WATER DISTRICT,10/17/2013,"10,000",1,Yes,,"9,355.50",N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,398",Shop,Warm Springs Water District,Shop,20 Hart Court;,Dubois,WY,82513,3074552950,,WY,MRS,JBH,n,,15,WATER DISTRICT,,"10,000",1,,,,,,,,,
+"1,400",,Earl S. Merrill,,P.O. Box 22417;,Cheyenne,WY,82003-2417,3076304445,,WY,RES,EDS,y,,,,11/5/2013,"50,000",1,Yes,earlmerrill57@icloud.com,"26,243.25",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,400",2012Crbn,Earl Merrill-2012CarbonCnty,2012CarbonCntyWW&Wtr,% 2012 Carbon Cnty WW&Wtr;Jobsite,Dixon,WY,82323,3076304445,,WY,RES,EDS,y,,,,,"25,000",1,,earlmerrill57@icloud.com,,,,,,,
+"1,401",,ERI Engineering Inc.,,P.O. Box 1387;,Riverton,WY,82501-4387,3078574244,307-857-4450,WY,RES,EDS,y,,,,11/27/2013,"75,000",1,Yes,,"59,086.75",N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,401",VetsCem,ERI Engineering Inc-VetsCem,ORTraillVetsCem,% Oregon Trl Veterans Cemetery;Main Replacement Jobsite,Riverton,WY,82501-4387,3078574244,307-857-4450,WY,RES,EDS,y,,,,,"75,000",1,,,,,,,,,
+"1,403",,"WARCO Pump Service, Inc.",,P.O. Box 729;,Rock Springs,WY,82902-0729,3073825129,307-382-2022,WY,HA,HA,n,WY #04-0-04219,1,RESALE,12/5/2013,"10,000",1,Yes,,"5,377.10",N30,Net 30 Days,60,RESALE ACCOUNTS,,2
+"1,403",Glenrock,"WARCO Pump Service, Inc.",Glenrock,% Jobsite Location;North of Glenrock,Glenrock,WY,82637,3073825129,307-382-2022,WY,HA,HA,n,WY #04-0-04219,1,RESALE,,"10,000",1,,,,,,,,,
+"1,404",,Nalco Champion,,P.O. Box 1540;,Evansville,WY,82636-1540,3072356459,307-237-2754,WY,MDL,BSW,y,,,,2/26/2014,"10,000",1,Yes,,0,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,404",Shop,Nalco Champion,Shop,4900 East Yellowstone;,Evansville,WY,82636,3072356459,307-237-2754,WY,MDL,BSW,y,,,,,"10,000",1,,,,,,,,,
+"1,409",,Fremont County School Dist #25,,121 North 5th West;,Riverton,WY,82501,3078569407,307-857-7296,WY,MRS,JBH,n,,11,GOVERNMENT-COUNTY,1/14/2014,"10,000",0,No,,0,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,409",Shop,Fremont County School Dist #25,Shop,121 North 5th West;,Riverton,WY,82501,3078569407,307-857-7296,WY,MRS,JBH,n,,11,GOVERNMENT-COUNTY,,"10,000",0,,,,,,,,,
+"1,413",,Rocky Mountain Testers,,"Greene's Energy Group, LLC;P.O. Box 1208",Mills,WY,82644-1208,3075776077,,WY,MDL,BSW,y,,,,1/27/2014,"5,000",1,Yes,,0,N30,Net 30 Days,40,INDUSTRIAL SYSTEMS,,2
+"1,413",Shop,Rocky Mountain Testers,Shop,"Greene's Energy Group, LLC;1136 Falcon Ave.",Mills,WY,82644,3075776077,,WY,MDL,BSW,y,,,,,"5,000",1,,,,,,,,,
+"1,414",,Lillard & Clark - Wyoming,,4089 North 3rd Street;Unit C,Laramie,WY,82702,3077421463,307-742-1470,WY,RES,EDS,y,,,,2/11/2014,"10,000",1,Yes,,0,N30,Net 30 Days,10,CONTRACTOR/UTILITY SYS,,2
+"1,416",,Owl Creek Water District,,P.O. Box 662;,Thermopolis,WY,82443-0662,3079219269,307-864-3173,WY,MRS,JBH,n,,15,WATER DISTRICT,2/25/2014,"2,500",1,Yes,,0,N30,Net 30 Days,30,RURAL SYSTEMS,,2
+"1,416",Shop,Owl Creek Water District,Shop,% Town of Thermopolis Shop;713 Sorenson Street,Thermopolis,WY,82443,3079219269,307-864-3173,WY,MRS,JBH,n,,15,WATER DISTRICT,,"2,500",1,,,,,,,,,
